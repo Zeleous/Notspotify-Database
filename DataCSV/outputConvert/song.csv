@@ -1,0 +1,439 @@
+song_id,title,release_date,length
+1,The A Team,2011-06-12,4:18
+2,Thinking Out Loud,2014-09-24,4:41
+3,Shape of You,2017-01-06,3:53
+4,Castle on the Hill,2017-01-06,4:21
+5,Perfect,2017-09-26,4:23
+6,Beautiful People (feat. Khalid),2019-06-28,3:17
+7,Bad Habits,2021-06-25,3:51
+8,Shivers,2021-09-10,3:27
+9,My Name Is,1999-01-25,4:28
+10,The Real Slim Shady,2000-04-18,4:44
+11,Stan,2000-12-08,6:44
+12,Without Me,2002-05-14,4:50
+13,Lose Yourself,2002-10-28,5:26
+14,Just Lose It,2004-09-28,4:08
+15,Not Afraid,2010-04-29,4:08
+16,Love The Way You Lie (feat. Rihanna),2010-08-09,4:23
+17,Circle of Life,1994-05-31,4:51
+18,Now We Are Free,2000-04-25,4:14
+19,He's a Pirate,2003-07-22,1:30
+20,Why So Serious?,2008-07-15,9:14
+21,Time,2010-07-13,4:35
+22,No Time for Caution,2014-11-17,4:06
+23,Supermarine,2017-07-21,8:03
+24,Paul's Dream,2021-09-17,5:24
+25,Drink the Night Away,1999-07-13,3:33
+26,The Farmer's Frolic,1999-07-13,3:18
+27,Heart of the Ocean,1999-07-13,4:12
+28,Tell Me Ma,2001-08-21,3:45
+29,Beggarman,2001-08-21,3:39
+30,The Buzzards of Bourbon Street,2001-08-21,4:01
+31,Born to Be a Bachelor,2006-07-25,3:37
+32,The Night I Punched Russell Crowe,2006-07-25,3:29
+33,Slim Jim and the Seven Eleven Girl,2006-07-25,3:52
+34,One Last Drink,2010-08-03,3:34
+35,Raised on Black and Tans,2010-08-03,3:27
+36,The Buzzards of Bourbon Street,2010-08-03,3:56
+37,I Saw Her Standing There,1963-03-22,2:55
+38,Please Please Me,1963-03-22,2:00
+39,Love Me Do,1963-03-22,2:22
+40,Eleanor Rigby,1966-08-05,2:07
+41,Yellow Submarine,1966-08-05,2:40
+42,"Here, There and Everywhere",1966-08-05,2:26
+43,Sgt. Pepper's Lonely Hearts Club Band,1967-06-01,2:02
+44,With a Little Help from My Friends,1967-06-01,2:44
+45,Lucy in the Sky with Diamonds,1967-06-01,3:28
+46,Come Together,1969-09-26,4:19
+47,Here Comes the Sun,1969-09-26,3:06
+48,Something,1969-09-26,3:03
+49,Bohemian Rhapsody,1975-10-31,5:55
+50,You're My Best Friend,1975-11-21,2:50
+51,Love of My Life,1975-11-21,3:38
+52,We Will Rock You,1977-10-07,2:02
+53,We Are the Champions,1977-10-07,3:00
+54,Spread Your Wings,1977-10-28,4:34
+55,Another One Bites the Dust,1980-08-22,3:36
+56,Crazy Little Thing Called Love,1979-10-05,2:43
+57,Save Me,1980-01-25,3:48
+58,Innuendo,1991-01-14,6:29
+59,The Show Must Go On,1991-10-14,4:31
+60,These Are the Days of Our Lives,1991-12-09,4:13
+61,Around the World,1997-04-01,7:09
+62,Da Funk,1995-11-01,5:28
+63,Revolution 909,1998-02-02,5:26
+64,One More Time,2000-11-13,5:20
+65,"Harder, Better, Faster, Stronger",2001-10-13,3:45
+66,Face to Face,2003-02-17,4:00
+67,Human After All,2005-03-14,5:19
+68,Technologic,2005-06-14,4:44
+69,Robot Rock,2005-04-11,4:47
+70,Get Lucky,2013-04-19,6:09
+71,Instant Crush,2013-05-17,5:37
+72,Lose Yourself to Dance,2013-09-13,5:53
+73,New Born,2001-06-05,6:03
+74,Bliss,2001-08-20,4:12
+75,Plug In Baby,2001-03-05,3:40
+76,Time Is Running Out,2003-09-08,3:56
+77,Hysteria,2003-11-01,3:47
+78,Stockholm Syndrome,2003-09-15,4:58
+79,Supermassive Black Hole,2006-06-19,3:29
+80,Starlight,2006-09-04,4:00
+81,Knights of Cydonia,2006-11-27,6:07
+82,Uprising,2009-08-07,5:03
+83,Resistance,2009-11-16,5:46
+84,Undisclosed Desires,2009-11-16,3:56
+85,Folsom Prison Blues,1968-05-01,2:42
+86,I Walk the Line,1968-05-01,2:35
+87,The Long Black Veil,1968-05-01,3:57
+88,The Man Who Couldn't Cry,1994-04-26,5:01
+89,Hurt,2002-11-05,3:38
+90,The Man Comes Around,2002-11-05,4:26
+91,Rusty Cage,1996-11-05,2:49
+92,The Mercy Seat,2000-10-17,4:34
+93,God's Gonna Cut You Down,2006-07-04,2:38
+94,Ring of Fire,1963-04-19,2:35
+95,A Boy Named Sue,1969-07-26,3:46
+96,Personal Jesus,2002-11-05,3:20
+97,Stomp,1997-06-17,5:42
+98,Why We Sing,1997-06-17,5:22
+99,Melodies from Heaven,1997-06-17,4:08
+100,Revolution,1998-10-13,4:23
+101,Lean on Me,1998-10-13,5:40
+102,Imagine Me,2005-10-04,5:11
+103,Looking for You,2005-10-04,4:59
+104,Hero,2005-10-04,4:34
+105,Love Theory,2019-01-25,4:17
+106,Just for Me,2019-05-31,4:14
+107,Strong God,2019-05-31,4:14
+108,I Smile,2011-05-31,5:00
+109,Time to Say Goodbye (Con te partirò),1997-11-18,4:04
+110,Vivere,1997-11-18,4:25
+111,Por Ti Volaré,1997-11-18,4:49
+112,The Lord's Prayer,1999-11-02,4:31
+113,Ave Maria,1999-11-02,4:52
+114,Panis Angelicus,1999-11-02,4:07
+115,Fall On Me,2018-10-26,3:42
+116,If Only,2018-10-26,3:50
+117,Amo Soltanto Te,2018-10-26,3:34
+118,You'll Never Walk Alone,2020-11-13,3:57
+119,Hallelujah,2020-11-13,4:30
+120,Amazing Grace,2020-11-13,4:35
+121,Love Story,2008-09-12,3:55
+122,You Belong with Me,2008-11-04,3:51
+123,Shake It Off,2014-08-18,3:39
+124,Blank Space,2014-11-10,3:51
+125,Look What You Made Me Do,2017-08-24,3:31
+126,Delicate,2018-03-12,3:52
+127,Cardigan,2020-07-27,3:59
+128,Willow,2020-12-11,3:34
+129,All Too Well (10 Minute Version),2021-11-12,10:13
+130,Anti-Hero,2022-10-21,3:20
+131,Lavender Haze,2022-10-21,3:22
+132,Cruel Summer,2019-08-23,2:58
+133,Goodbye Yellow Brick Road,1973-10-05,3:13
+134,Bennie and the Jets,1973-10-05,5:23
+135,Candle in the Wind,1973-10-05,3:50
+136,Someone Saved My Life Tonight,1975-06-23,6:45
+137,Philadelphia Freedom,1975-02-24,5:38
+138,I'm Still Standing,1983-07-03,3:02
+139,I Guess That's Why They Call It the Blues,1983-04-28,4:41
+140,The One,1992-05-22,5:53
+141,Don't Go Breaking My Heart (with Kiki Dee),1976-06-21,4:36
+142,Rocket Man,1972-04-14,4:40
+143,Tiny Dancer,1971-11-17,6:17
+144,Cold Heart (PNAU Remix) (with Dua Lipa),2021-08-13,3:22
+145,Don't Stop 'Til You Get Enough,1979-07-28,6:05
+146,Rock with You,1979-11-03,3:40
+147,Billie Jean,1983-01-02,4:54
+148,Beat It,1983-02-14,4:18
+149,Thriller,1984-01-23,5:57
+150,Bad,1987-09-07,4:07
+151,The Way You Make Me Feel,1987-11-09,4:59
+152,Man in the Mirror,1988-01-16,5:19
+153,Black or White,1991-11-11,4:16
+154,Remember the Time,1992-01-14,4:00
+155,Earth Song,1995-11-27,6:46
+156,You Are Not Alone,1995-08-15,5:45
+157,Vision of Love,1990-05-15,3:30
+158,Love Takes Time,1990-09-11,3:49
+159,Dreamlover,1993-07-27,3:54
+160,Hero,1993-10-19,4:19
+161,Fantasy,1995-09-12,4:04
+162,One Sweet Day,1995-11-14,4:42
+163,Always Be My Baby,1996-03-09,4:18
+164,Honey,1997-08-26,5:00
+165,My All,1998-04-21,3:52
+166,We Belong Together,2005-03-29,3:21
+167,Don't Forget About Us,2005-10-01,3:53
+168,All I Want for Christmas Is You,1994-10-29,4:01
+169,Crazy in Love,2003-05-18,3:56
+170,Baby Boy,2003-08-03,4:04
+171,"Me, Myself and I",2003-10-19,3:59
+172,Déjà Vu,2006-06-24,3:59
+173,Ring the Alarm,2006-08-15,3:23
+174,Irreplaceable,2006-10-23,3:47
+175,If I Were a Boy,2008-10-08,4:10
+176,Single Ladies (Put a Ring on It),2008-10-13,3:13
+177,Halo,2009-01-20,4:21
+178,Formation,2016-02-06,3:26
+179,Sorry,2016-04-23,3:52
+180,Hold Up,2016-04-23,3:41
+181,Break My Soul,2022-06-20,4:38
+182,Cuff It,2022-07-29,3:45
+183,Alien Superstar,2022-07-29,3:35
+184,Chasing Pavements,2008-01-14,3:30
+185,Make You Feel My Love,2008-10-27,3:32
+186,Rolling in the Deep,2010-11-29,3:48
+187,Someone Like You,2011-01-24,4:45
+188,Set Fire to the Rain,2011-07-04,4:01
+189,Rumour Has It,2011-11-15,3:43
+190,Hello,2015-10-23,4:55
+191,When We Were Young,2016-01-22,4:51
+192,Send My Love (To Your New Lover),2016-05-16,3:43
+193,Easy on Me,2021-10-15,3:44
+194,Oh My God,2021-11-29,3:45
+195,I Drink Wine,2021-11-19,6:16
+196,Hold On,2021-11-19,6:06
+197,To Be Loved,2021-11-19,6:43
+198,My Little Love,2021-11-19,6:29
+199,Like a Virgin,1984-11-06,3:38
+200,Material Girl,1985-01-23,4:00
+201,Into the Groove,1985-07-15,4:43
+202,Papa Don't Preach,1986-06-11,4:29
+203,Open Your Heart,1986-11-19,4:13
+204,La Isla Bonita,1987-02-25,4:02
+205,Like a Prayer,1989-03-03,5:39
+206,Express Yourself,1989-05-09,4:39
+207,Vogue,1990-03-27,4:50
+208,Ray of Light,1998-05-06,5:34
+209,Frozen,1998-02-23,6:12
+210,Music,2000-08-21,3:45
+211,Hung Up,2005-10-17,5:37
+212,Sorry,2006-02-07,4:41
+213,4 Minutes,2008-03-17,4:04
+214,Purple Rain,1984-09-26,8:41
+215,When Doves Cry,1984-05-16,3:47
+216,Let's Go Crazy,1984-07-18,4:39
+217,1999,1982-09-24,6:15
+218,Little Red Corvette,1983-02-09,4:58
+219,Sign o' the Times,1987-02-18,4:57
+220,U Got the Look,1987-07-07,3:47
+221,Kiss,1986-02-05,3:46
+222,Batdance,1989-06-09,6:13
+223,Cream,1991-09-10,4:13
+224,Diamonds and Pearls,1991-10-01,4:45
+225,Money Don't Matter 2 Night,1992-03-03,4:47
+226,I Wanna Be Your Lover,1979-08-24,5:47
+227,Raspberry Beret,1985-05-15,3:33
+228,The Most Beautiful Girl in the World,1994-02-24,4:25
+229,Stairway to Heaven,1971-11-08,8:02
+230,Black Dog,1971-11-08,4:55
+231,Rock and Roll,1971-11-08,3:40
+232,Whole Lotta Love,1969-10-22,5:33
+233,Ramble On,1969-10-22,4:35
+234,Kashmir,1975-02-24,8:28
+235,Trampled Under Foot,1975-02-24,5:35
+236,Over the Hills and Far Away,1973-03-28,4:50
+237,D'yer Mak'er,1973-03-28,4:23
+238,Good Times Bad Times,1969-01-12,2:46
+239,Dazed and Confused,1969-01-12,6:28
+240,Immigrant Song,1970-11-05,2:26
+241,When the Levee Breaks,1971-11-08,7:07
+242,The Rain Song,1973-03-28,7:39
+243,Heartbreaker,1969-10-22,4:14
+244,Money,1973-05-07,6:23
+245,Time,1973-03-01,7:01
+246,Us and Them,1973-03-01,7:49
+247,Another Brick in the Wall (Part 2),1979-11-16,3:59
+248,Comfortably Numb,1980-06-23,6:23
+249,Hey You,1979-11-30,4:40
+250,Wish You Were Here,1975-09-12,5:40
+251,Shine On You Crazy Diamond (Parts I-V),1975-09-12,13:32
+252,Have a Cigar,1975-09-12,5:08
+253,Dogs,1977-01-23,17:05
+254,Pigs (Three Different Ones),1977-01-23,11:25
+255,Echoes,1971-10-31,23:31
+256,Brain Damage,1973-03-01,3:49
+257,Eclipse,1973-03-01,2:03
+258,Breathe,1973-03-01,2:43
+259,One Love,1977-06-03,2:52
+260,Is This Love,1978-03-03,3:52
+261,"No Woman, No Cry",1974-10-25,7:09
+262,Could You Be Loved,1980-06-10,3:57
+263,Three Little Birds,1977-06-03,3:00
+264,Buffalo Soldier,1983-05-23,4:17
+265,Redemption Song,1980-06-10,3:48
+266,Jamming,1977-06-03,3:31
+267,Stir It Up,1973-04-13,5:32
+268,Exodus,1977-06-03,7:40
+269,I Shot the Sheriff,1973-04-13,4:41
+270,Sun Is Shining,1971-10-23,4:58
+271,Waiting in Vain,1977-06-03,4:16
+272,"Get Up, Stand Up",1973-04-13,3:15
+273,Natural Mystic,1977-06-03,3:28
+274,Starman,1972-04-28,4:16
+275,Heroes,1977-09-23,6:07
+276,Life on Mars?,1971-06-22,3:48
+277,Space Oddity,1969-07-11,5:13
+278,Changes,1972-01-07,3:37
+279,Suffragette City,1972-06-16,3:25
+280,Ziggy Stardust,1972-06-16,3:13
+281,Station to Station,1976-01-23,10:14
+282,Sound and Vision,1977-01-14,3:03
+283,Rebel Rebel,1974-02-15,4:30
+284,Golden Years,1975-11-21,4:00
+285,Beauty and the Beast,1977-10-14,3:32
+286,TVC 15,1976-01-23,5:33
+287,Stay,1976-01-23,6:15
+288,Wild is the Wind,1976-01-23,6:02
+289,Superstition,1972-10-28,4:26
+290,Sir Duke,1976-09-28,3:52
+291,I Wish,1976-09-28,4:12
+292,Isn't She Lovely,1976-09-28,6:34
+293,Higher Ground,1973-08-03,3:42
+294,Living for the City,1973-08-03,7:22
+295,You Are the Sunshine of My Life,1972-10-28,2:58
+296,As,1976-09-28,7:08
+297,He's Misstra Know-It-All,1973-08-03,5:35
+298,Too High,1973-08-03,4:36
+299,I Believe (When I Fall in Love It Will Be Forever),1972-10-28,4:51
+300,Pastime Paradise,1976-09-28,3:27
+301,Golden Lady,1973-08-03,4:58
+302,Maybe Your Baby,1972-10-28,6:51
+303,Another Star,1976-09-28,8:28
+304,My Way,1969-03-30,4:36
+305,Fly Me to the Moon,1964-06-09,2:27
+306,I've Got You Under My Skin,1956-03-05,3:43
+307,"New York, New York",1980-04-28,3:26
+308,In the Wee Small Hours of the Morning,1955-04-25,3:00
+309,One for My Baby (And One More for the Road),1958-09-08,4:49
+310,Strangers in the Night,1966-05-01,2:35
+311,That's Life,1966-11-01,3:10
+312,Come Fly with Me,1958-01-06,3:19
+313,The Way You Look Tonight,1956-03-05,3:22
+314,Angel Eyes,1958-09-08,3:46
+315,Summer Wind,1966-06-28,2:53
+316,You Make Me Feel So Young,1956-03-05,2:57
+317,What's New?,1958-09-08,5:13
+318,It Was a Very Good Year,1965-09-20,4:29
+319,Feeling Good,1965-06-01,2:57
+320,I Put a Spell on You,1965-06-01,2:34
+321,Wild Is the Wind,1966-01-01,6:56
+322,Mississippi Goddam,1964-06-01,4:54
+323,Sinnerman,1965-06-01,10:19
+324,Don't Let Me Be Misunderstood,1964-06-01,2:44
+325,Four Women,1966-01-01,4:29
+326,Lilac Wine,1966-01-01,4:15
+327,Black Is the Color of My True Love's Hair,1966-01-01,3:32
+328,Strange Fruit,1965-06-01,3:28
+329,Ne Me Quitte Pas,1965-06-01,3:35
+330,Old Jim Crow,1964-06-01,3:24
+331,Why? (The King of Love Is Dead),1968-04-07,4:47
+332,Plain Gold Ring,1965-06-01,3:22
+333,Black Swan,1966-01-01,4:01
+334,So What,1959-08-17,9:22
+335,Bitches Brew,1970-03-30,26:59
+336,Blue in Green,1959-08-17,5:37
+337,All Blues,1959-08-17,11:33
+338,Concierto de Aranjuez (Adagio),1960-07-18,16:19
+339,Freddie Freeloader,1959-08-17,9:46
+340,Spanish Key,1970-03-30,17:32
+341,Will o' the Wisp,1960-07-18,3:47
+342,Miles Runs the Voodoo Down,1970-03-30,14:01
+343,Flamenco Sketches,1959-08-17,9:26
+344,Pharaoh's Dance,1970-03-30,20:06
+345,The Pan Piper,1960-07-18,3:52
+346,John McLaughlin,1970-03-30,4:26
+347,Saeta,1960-07-18,5:06
+348,Solea,1960-07-18,12:15
+349,Respect,1967-04-29,2:28
+350,Natural Woman,1967-09-15,2:45
+351,Chain of Fools,1967-11-22,2:45
+352,I Never Loved a Man (The Way I Love You),1967-03-10,2:42
+353,Think,1968-05-02,2:19
+354,Amazing Grace,1972-06-01,7:02
+355,I Say a Little Prayer,1968-01-22,3:32
+356,"Mary, Don't You Weep",1972-06-01,8:28
+357,"Do Right Woman, Do Right Man",1967-03-10,3:16
+358,Since You've Been Gone (Sweet Sweet Baby),1968-01-22,2:23
+359,"Precious Lord, Take My Hand",1972-06-01,5:36
+360,People Get Ready,1967-03-10,3:39
+361,Good to Me as I Am to You,1968-01-22,3:56
+362,Wholy Holy,1972-06-01,5:30
+363,Money Won't Change You,1968-01-22,2:47
+364,Purple Haze,1967-03-17,2:50
+365,All Along the Watchtower,1968-09-21,4:01
+366,Hey Joe,1966-12-16,3:30
+367,Foxy Lady,1967-05-12,3:19
+368,Little Wing,1967-12-01,2:24
+369,Voodoo Child (Slight Return),1968-10-16,5:12
+370,The Wind Cries Mary,1967-05-05,3:20
+371,Crosstown Traffic,1968-11-18,2:37
+372,Fire,1967-05-12,2:43
+373,Manic Depression,1967-05-12,3:42
+374,Bold as Love,1967-12-01,4:11
+375,1983... (A Merman I Should Turn to Be),1968-10-16,13:39
+376,Stone Free,1966-12-16,3:36
+377,If 6 Was 9,1967-12-01,5:34
+378,Third Stone from the Sun,1967-05-12,6:44
+379,Georgia On My Mind,1960-08-19,3:35
+380,Hit the Road Jack,1961-08-18,2:00
+381,I Can't Stop Loving You,1962-04-01,4:13
+382,What'd I Say,1959-06-01,5:05
+383,Unchain My Heart,1961-11-22,2:50
+384,I Got a Woman,1954-12-18,2:55
+385,You Don't Know Me,1962-04-01,3:14
+386,Night Time Is the Right Time,1958-10-01,3:25
+387,Born to Lose,1962-04-01,3:15
+388,Let the Good Times Roll,1959-10-01,2:53
+389,"Hallelujah, I Love Her So",1956-01-15,2:35
+390,Drown in My Own Tears,1956-05-21,3:21
+391,Come Rain or Come Shine,1959-10-01,3:42
+392,Hey Good Lookin',1962-04-01,2:11
+393,America the Beautiful,1972-07-04,3:32
+394,Dream a Little Dream of Me,1950-02-01,3:01
+395,Summertime,1956-10-01,4:58
+396,It Don't Mean a Thing (If It Ain't Got That Swing),1957-06-15,3:37
+397,Mack the Knife,1960-02-15,4:47
+398,Night and Day,1956-02-07,3:04
+399,How High the Moon,1960-06-21,7:29
+400,Cheek to Cheek,1956-10-01,5:53
+401,I've Got You Under My Skin,1956-02-07,3:42
+402,They Can't Take That Away from Me,1956-10-01,4:39
+403,Miss Otis Regrets,1956-02-07,3:00
+404,Air Mail Special,1958-01-01,3:26
+405,Love Is Here to Stay,1956-10-01,4:00
+406,Begin the Beguine,1956-02-07,3:37
+407,Flying Home,1958-01-01,3:24
+408,"A-Tisket, A-Tasket",1938-05-02,2:38
+409,What a Wonderful World,1967-09-01,2:21
+410,When the Saints Go Marching In,1938-05-13,2:44
+411,"Hello, Dolly!",1964-01-01,2:27
+412,St. Louis Blues,1954-09-15,8:03
+413,Mack the Knife,1956-09-28,3:21
+414,Basin Street Blues,1954-09-15,4:37
+415,Ain't Misbehavin',1955-04-26,4:17
+416,West End Blues,1928-06-28,3:21
+417,La Vie En Rose,1950-06-26,3:26
+418,Honeysuckle Rose,1955-04-26,4:59
+419,C'est Si Bon,1955-12-01,3:12
+420,Black and Blue,1955-04-26,3:59
+421,Royal Garden Blues,1955-12-01,4:24
+422,Stardust,1931-05-15,3:37
+423,Tiger Rag,1930-03-10,2:53
+424,Johnny B. Goode,1958-03-31,2:41
+425,Maybellene,1955-07-01,2:19
+426,Roll Over Beethoven,1956-05-14,2:23
+427,Sweet Little Sixteen,1958-01-06,3:00
+428,Rock and Roll Music,1957-09-06,2:32
+429,School Day,1957-03-21,2:42
+430,"Memphis, Tennessee",1959-06-01,2:12
+431,Brown Eyed Handsome Man,1956-09-15,2:19
+432,Carol,1958-08-01,2:47
+433,Little Queenie,1959-07-01,2:41
+434,You Can't Catch Me,1956-04-01,2:44
+435,Back in the U.S.A.,1959-06-14,2:27
+436,Almost Grown,1959-03-01,2:19
+437,Too Much Monkey Business,1956-09-01,2:55
+438,No Particular Place to Go,1964-05-01,2:44

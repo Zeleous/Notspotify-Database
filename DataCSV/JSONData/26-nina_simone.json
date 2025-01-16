@@ -1,0 +1,198 @@
+{
+    "Artist": [
+      {
+        "artist_id": 26,
+        "stage_name": "Nina Simone"
+      }
+    ],
+    "Album": [
+      {
+        "album_id": 120,
+        "name": "I Put a Spell on You",
+        "release_date": "1965-06-01"
+      },
+      {
+        "album_id": 121,
+        "name": "Wild Is the Wind",
+        "release_date": "1966-01-01"
+      },
+      {
+        "album_id": 122,
+        "name": "Nina Simone in Concert",
+        "release_date": "1964-06-01"
+      }
+    ],
+    "Song": [
+      {
+        "song_id": 319,
+        "title": "Feeling Good",
+        "release_date": "1965-06-01",
+        "length": "2:57"
+      },
+      {
+        "song_id": 320,
+        "title": "I Put a Spell on You",
+        "release_date": "1965-06-01",
+        "length": "2:34"
+      },
+      {
+        "song_id": 321,
+        "title": "Wild Is the Wind",
+        "release_date": "1966-01-01",
+        "length": "6:56"
+      },
+      {
+        "song_id": 322,
+        "title": "Mississippi Goddam",
+        "release_date": "1964-06-01",
+        "length": "4:54"
+      },
+      {
+        "song_id": 323,
+        "title": "Sinnerman",
+        "release_date": "1965-06-01",
+        "length": "10:19"
+      },
+      {
+        "song_id": 324,
+        "title": "Don't Let Me Be Misunderstood",
+        "release_date": "1964-06-01",
+        "length": "2:44"
+      },
+      {
+        "song_id": 325,
+        "title": "Four Women",
+        "release_date": "1966-01-01",
+        "length": "4:29"
+      },
+      {
+        "song_id": 326,
+        "title": "Lilac Wine",
+        "release_date": "1966-01-01",
+        "length": "4:15"
+      },
+      {
+        "song_id": 327,
+        "title": "Black Is the Color of My True Love's Hair",
+        "release_date": "1966-01-01",
+        "length": "3:32"
+      },
+      {
+        "song_id": 328,
+        "title": "Strange Fruit",
+        "release_date": "1965-06-01",
+        "length": "3:28"
+      },
+      {
+        "song_id": 329,
+        "title": "Ne Me Quitte Pas",
+        "release_date": "1965-06-01",
+        "length": "3:35"
+      },
+      {
+        "song_id": 330,
+        "title": "Old Jim Crow",
+        "release_date": "1964-06-01",
+        "length": "3:24"
+      },
+      {
+        "song_id": 331,
+        "title": "Why? (The King of Love Is Dead)",
+        "release_date": "1968-04-07",
+        "length": "4:47"
+      },
+      {
+        "song_id": 332,
+        "title": "Plain Gold Ring",
+        "release_date": "1965-06-01",
+        "length": "3:22"
+      },
+      {
+        "song_id": 333,
+        "title": "Black Swan",
+        "release_date": "1966-01-01",
+        "length": "4:01"
+      }
+    ],
+    "Album_Artist": [
+      {"album_id": 120, "artist_id": 26},
+      {"album_id": 121, "artist_id": 26},
+      {"album_id": 122, "artist_id": 26}
+    ],
+    "Song_Album": [
+      {"song_id": 319, "album_id": 120, "track_number": 2},
+      {"song_id": 320, "album_id": 120, "track_number": 1},
+      {"song_id": 321, "album_id": 121, "track_number": 1},
+      {"song_id": 322, "album_id": 122, "track_number": 4},
+      {"song_id": 323, "album_id": 120, "track_number": 7},
+      {"song_id": 324, "album_id": 120, "track_number": 5},
+      {"song_id": 325, "album_id": 121, "track_number": 4},
+      {"song_id": 326, "album_id": 121, "track_number": 2},
+      {"song_id": 327, "album_id": 121, "track_number": 3},
+      {"song_id": 328, "album_id": 120, "track_number": 9},
+      {"song_id": 329, "album_id": 120, "track_number": 3},
+      {"song_id": 330, "album_id": 122, "track_number": 2},
+      {"song_id": 332, "album_id": 120, "track_number": 4},
+      {"song_id": 333, "album_id": 121, "track_number": 6}
+    ],
+    "Album_Genre": [
+      {"album_id": 120, "genre_id": 7},
+      {"album_id": 120, "genre_id": 9},
+      {"album_id": 120, "genre_id": 14},
+      {"album_id": 121, "genre_id": 7},
+      {"album_id": 121, "genre_id": 9},
+      {"album_id": 121, "genre_id": 11},
+      {"album_id": 122, "genre_id": 7},
+      {"album_id": 122, "genre_id": 14},
+      {"album_id": 122, "genre_id": 9}
+    ],
+    "Song_Genre": [
+      {"song_id": 319, "genre_id": 7},
+      {"song_id": 319, "genre_id": 14},
+      {"song_id": 320, "genre_id": 9},
+      {"song_id": 320, "genre_id": 7},
+      {"song_id": 321, "genre_id": 7},
+      {"song_id": 321, "genre_id": 11},
+      {"song_id": 322, "genre_id": 14},
+      {"song_id": 322, "genre_id": 9},
+      {"song_id": 323, "genre_id": 7},
+      {"song_id": 323, "genre_id": 9},
+      {"song_id": 324, "genre_id": 14},
+      {"song_id": 324, "genre_id": 7},
+      {"song_id": 325, "genre_id": 14},
+      {"song_id": 325, "genre_id": 7},
+      {"song_id": 326, "genre_id": 7},
+      {"song_id": 326, "genre_id": 11},
+      {"song_id": 327, "genre_id": 11},
+      {"song_id": 327, "genre_id": 7},
+      {"song_id": 328, "genre_id": 7},
+      {"song_id": 328, "genre_id": 9},
+      {"song_id": 329, "genre_id": 7},
+      {"song_id": 329, "genre_id": 11},
+      {"song_id": 330, "genre_id": 9},
+      {"song_id": 330, "genre_id": 14},
+      {"song_id": 331, "genre_id": 14},
+      {"song_id": 331, "genre_id": 7},
+      {"song_id": 332, "genre_id": 7},
+      {"song_id": 332, "genre_id": 9},
+      {"song_id": 333, "genre_id": 7},
+      {"song_id": 333, "genre_id": 14}
+    ],
+    "Song_Artist": [
+      {"song_id": 319, "artist_id": 26},
+      {"song_id": 320, "artist_id": 26},
+      {"song_id": 321, "artist_id": 26},
+      {"song_id": 322, "artist_id": 26},
+      {"song_id": 323, "artist_id": 26},
+      {"song_id": 324, "artist_id": 26},
+      {"song_id": 325, "artist_id": 26},
+      {"song_id": 326, "artist_id": 26},
+      {"song_id": 327, "artist_id": 26},
+      {"song_id": 328, "artist_id": 26},
+      {"song_id": 329, "artist_id": 26},
+      {"song_id": 330, "artist_id": 26},
+      {"song_id": 331, "artist_id": 26},
+      {"song_id": 332, "artist_id": 26},
+      {"song_id": 333, "artist_id": 26}
+    ]
+}

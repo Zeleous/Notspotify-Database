@@ -1,0 +1,174 @@
+{
+    "Artist": [
+      {
+        "artist_id": 8,
+        "stage_name": "Muse"
+      }
+    ],
+    "Album": [
+      {
+        "album_id": 38,
+        "name": "Origin of Symmetry",
+        "release_date": "2001-07-17"
+      },
+      {
+        "album_id": 39,
+        "name": "Absolution",
+        "release_date": "2003-09-15"
+      },
+      {
+        "album_id": 40,
+        "name": "Black Holes and Revelations",
+        "release_date": "2006-07-03"
+      },
+      {
+        "album_id": 41,
+        "name": "The Resistance",
+        "release_date": "2009-09-11"
+      }
+    ],
+    "Song": [
+      {
+        "song_id": 73,
+        "title": "New Born",
+        "release_date": "2001-06-05",
+        "length": "6:03"
+      },
+      {
+        "song_id": 74,
+        "title": "Bliss",
+        "release_date": "2001-08-20",
+        "length": "4:12"
+      },
+      {
+        "song_id": 75,
+        "title": "Plug In Baby",
+        "release_date": "2001-03-05",
+        "length": "3:40"
+      },
+      {
+        "song_id": 76,
+        "title": "Time Is Running Out",
+        "release_date": "2003-09-08",
+        "length": "3:56"
+      },
+      {
+        "song_id": 77,
+        "title": "Hysteria",
+        "release_date": "2003-11-01",
+        "length": "3:47"
+      },
+      {
+        "song_id": 78,
+        "title": "Stockholm Syndrome",
+        "release_date": "2003-09-15",
+        "length": "4:58"
+      },
+      {
+        "song_id": 79,
+        "title": "Supermassive Black Hole",
+        "release_date": "2006-06-19",
+        "length": "3:29"
+      },
+      {
+        "song_id": 80,
+        "title": "Starlight",
+        "release_date": "2006-09-04",
+        "length": "4:00"
+      },
+      {
+        "song_id": 81,
+        "title": "Knights of Cydonia",
+        "release_date": "2006-11-27",
+        "length": "6:07"
+      },
+      {
+        "song_id": 82,
+        "title": "Uprising",
+        "release_date": "2009-08-07",
+        "length": "5:03"
+      },
+      {
+        "song_id": 83,
+        "title": "Resistance",
+        "release_date": "2009-11-16",
+        "length": "5:46"
+      },
+      {
+        "song_id": 84,
+        "title": "Undisclosed Desires",
+        "release_date": "2009-11-16",
+        "length": "3:56"
+      }
+    ],
+    "Album_Artist": [
+      {"album_id": 38, "artist_id": 8},
+      {"album_id": 39, "artist_id": 8},
+      {"album_id": 40, "artist_id": 8},
+      {"album_id": 41, "artist_id": 8}
+    ],
+    "Song_Album": [
+      {"song_id": 73, "album_id": 38, "track_number": 1},
+      {"song_id": 74, "album_id": 38, "track_number": 2},
+      {"song_id": 75, "album_id": 38, "track_number": 5},
+      {"song_id": 76, "album_id": 39, "track_number": 3},
+      {"song_id": 77, "album_id": 39, "track_number": 8},
+      {"song_id": 78, "album_id": 39, "track_number": 6},
+      {"song_id": 79, "album_id": 40, "track_number": 1},
+      {"song_id": 80, "album_id": 40, "track_number": 2},
+      {"song_id": 81, "album_id": 40, "track_number": 11},
+      {"song_id": 82, "album_id": 41, "track_number": 1},
+      {"song_id": 83, "album_id": 41, "track_number": 2},
+      {"song_id": 84, "album_id": 41, "track_number": 5}
+    ],
+    "Album_Genre": [
+      {"album_id": 38, "genre_id": 2},
+      {"album_id": 38, "genre_id": 16},
+      {"album_id": 39, "genre_id": 2},
+      {"album_id": 39, "genre_id": 16},
+      {"album_id": 40, "genre_id": 2},
+      {"album_id": 40, "genre_id": 16},
+      {"album_id": 41, "genre_id": 2},
+      {"album_id": 41, "genre_id": 16}
+    ],
+    "Song_Genre": [
+      {"song_id": 73, "genre_id": 2},
+      {"song_id": 73, "genre_id": 16},
+      {"song_id": 74, "genre_id": 2},
+      {"song_id": 74, "genre_id": 16},
+      {"song_id": 75, "genre_id": 2},
+      {"song_id": 75, "genre_id": 16},
+      {"song_id": 76, "genre_id": 2},
+      {"song_id": 76, "genre_id": 16},
+      {"song_id": 77, "genre_id": 2},
+      {"song_id": 77, "genre_id": 16},
+      {"song_id": 78, "genre_id": 2},
+      {"song_id": 78, "genre_id": 16},
+      {"song_id": 79, "genre_id": 2},
+      {"song_id": 79, "genre_id": 6},
+      {"song_id": 80, "genre_id": 2},
+      {"song_id": 80, "genre_id": 16},
+      {"song_id": 81, "genre_id": 2},
+      {"song_id": 81, "genre_id": 34},
+      {"song_id": 82, "genre_id": 2},
+      {"song_id": 82, "genre_id": 16},
+      {"song_id": 83, "genre_id": 2},
+      {"song_id": 83, "genre_id": 16},
+      {"song_id": 84, "genre_id": 2},
+      {"song_id": 84, "genre_id": 6}
+    ],
+    "Song_Artist": [
+      {"song_id": 73, "artist_id": 8},
+      {"song_id": 74, "artist_id": 8},
+      {"song_id": 75, "artist_id": 8},
+      {"song_id": 76, "artist_id": 8},
+      {"song_id": 77, "artist_id": 8},
+      {"song_id": 78, "artist_id": 8},
+      {"song_id": 79, "artist_id": 8},
+      {"song_id": 80, "artist_id": 8},
+      {"song_id": 81, "artist_id": 8},
+      {"song_id": 82, "artist_id": 8},
+      {"song_id": 83, "artist_id": 8},
+      {"song_id": 84, "artist_id": 8}
+    ]
+}

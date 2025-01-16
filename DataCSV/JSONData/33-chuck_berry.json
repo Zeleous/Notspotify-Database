@@ -1,0 +1,194 @@
+{
+    "Artist": [
+      {
+        "artist_id": 33,
+        "stage_name": "Chuck Berry"
+      }
+    ],
+    "Album": [
+      {
+        "album_id": 141,
+        "name": "After School Session",
+        "release_date": "1957-05-21"
+      },
+      {
+        "album_id": 142,
+        "name": "One Dozen Berrys",
+        "release_date": "1958-03-01"
+      },
+      {
+        "album_id": 143,
+        "name": "Chuck Berry Is on Top",
+        "release_date": "1959-07-01"
+      }
+    ],
+    "Song": [
+      {
+        "song_id": 424,
+        "title": "Johnny B. Goode",
+        "release_date": "1958-03-31",
+        "length": "2:41"
+      },
+      {
+        "song_id": 425,
+        "title": "Maybellene",
+        "release_date": "1955-07-01",
+        "length": "2:19"
+      },
+      {
+        "song_id": 426,
+        "title": "Roll Over Beethoven",
+        "release_date": "1956-05-14",
+        "length": "2:23"
+      },
+      {
+        "song_id": 427,
+        "title": "Sweet Little Sixteen",
+        "release_date": "1958-01-06",
+        "length": "3:00"
+      },
+      {
+        "song_id": 428,
+        "title": "Rock and Roll Music",
+        "release_date": "1957-09-06",
+        "length": "2:32"
+      },
+      {
+        "song_id": 429,
+        "title": "School Day",
+        "release_date": "1957-03-21",
+        "length": "2:42"
+      },
+      {
+        "song_id": 430,
+        "title": "Memphis, Tennessee",
+        "release_date": "1959-06-01",
+        "length": "2:12"
+      },
+      {
+        "song_id": 431,
+        "title": "Brown Eyed Handsome Man",
+        "release_date": "1956-09-15",
+        "length": "2:19"
+      },
+      {
+        "song_id": 432,
+        "title": "Carol",
+        "release_date": "1958-08-01",
+        "length": "2:47"
+      },
+      {
+        "song_id": 433,
+        "title": "Little Queenie",
+        "release_date": "1959-07-01",
+        "length": "2:41"
+      },
+      {
+        "song_id": 434,
+        "title": "You Can't Catch Me",
+        "release_date": "1956-04-01",
+        "length": "2:44"
+      },
+      {
+        "song_id": 435,
+        "title": "Back in the U.S.A.",
+        "release_date": "1959-06-14",
+        "length": "2:27"
+      },
+      {
+        "song_id": 436,
+        "title": "Almost Grown",
+        "release_date": "1959-03-01",
+        "length": "2:19"
+      },
+      {
+        "song_id": 437,
+        "title": "Too Much Monkey Business",
+        "release_date": "1956-09-01",
+        "length": "2:55"
+      },
+      {
+        "song_id": 438,
+        "title": "No Particular Place to Go",
+        "release_date": "1964-05-01",
+        "length": "2:44"
+      }
+    ],
+    "Album_Artist": [
+      {"album_id": 141, "artist_id": 33},
+      {"album_id": 142, "artist_id": 33},
+      {"album_id": 143, "artist_id": 33}
+    ],
+    "Song_Album": [
+      {"song_id": 429, "album_id": 141, "track_number": 1},
+      {"song_id": 434, "album_id": 141, "track_number": 3},
+      {"song_id": 437, "album_id": 141, "track_number": 4},
+      {"song_id": 424, "album_id": 142, "track_number": 1},
+      {"song_id": 427, "album_id": 142, "track_number": 2},
+      {"song_id": 432, "album_id": 142, "track_number": 5},
+      {"song_id": 430, "album_id": 143, "track_number": 2},
+      {"song_id": 433, "album_id": 143, "track_number": 4},
+      {"song_id": 435, "album_id": 143, "track_number": 8},
+      {"song_id": 436, "album_id": 143, "track_number": 6}
+    ],
+    "Album_Genre": [
+      {"album_id": 141, "genre_id": 2},
+      {"album_id": 141, "genre_id": 49},
+      {"album_id": 141, "genre_id": 9},
+      {"album_id": 142, "genre_id": 2},
+      {"album_id": 142, "genre_id": 49},
+      {"album_id": 142, "genre_id": 4},
+      {"album_id": 143, "genre_id": 2},
+      {"album_id": 143, "genre_id": 49},
+      {"album_id": 143, "genre_id": 9}
+    ],
+    "Song_Genre": [
+      {"song_id": 424, "genre_id": 2},
+      {"song_id": 424, "genre_id": 49},
+      {"song_id": 425, "genre_id": 2},
+      {"song_id": 425, "genre_id": 49},
+      {"song_id": 426, "genre_id": 2},
+      {"song_id": 426, "genre_id": 49},
+      {"song_id": 427, "genre_id": 2},
+      {"song_id": 427, "genre_id": 49},
+      {"song_id": 428, "genre_id": 2},
+      {"song_id": 428, "genre_id": 49},
+      {"song_id": 429, "genre_id": 2},
+      {"song_id": 429, "genre_id": 49},
+      {"song_id": 430, "genre_id": 2},
+      {"song_id": 430, "genre_id": 9},
+      {"song_id": 431, "genre_id": 2},
+      {"song_id": 431, "genre_id": 4},
+      {"song_id": 432, "genre_id": 2},
+      {"song_id": 432, "genre_id": 49},
+      {"song_id": 433, "genre_id": 2},
+      {"song_id": 433, "genre_id": 49},
+      {"song_id": 434, "genre_id": 2},
+      {"song_id": 434, "genre_id": 49},
+      {"song_id": 435, "genre_id": 2},
+      {"song_id": 435, "genre_id": 49},
+      {"song_id": 436, "genre_id": 2},
+      {"song_id": 436, "genre_id": 4},
+      {"song_id": 437, "genre_id": 2},
+      {"song_id": 437, "genre_id": 49},
+      {"song_id": 438, "genre_id": 2},
+      {"song_id": 438, "genre_id": 49}
+    ],
+    "Song_Artist": [
+      {"song_id": 424, "artist_id": 33},
+      {"song_id": 425, "artist_id": 33},
+      {"song_id": 426, "artist_id": 33},
+      {"song_id": 427, "artist_id": 33},
+      {"song_id": 428, "artist_id": 33},
+      {"song_id": 429, "artist_id": 33},
+      {"song_id": 430, "artist_id": 33},
+      {"song_id": 431, "artist_id": 33},
+      {"song_id": 432, "artist_id": 33},
+      {"song_id": 433, "artist_id": 33},
+      {"song_id": 434, "artist_id": 33},
+      {"song_id": 435, "artist_id": 33},
+      {"song_id": 436, "artist_id": 33},
+      {"song_id": 437, "artist_id": 33},
+      {"song_id": 438, "artist_id": 33}
+    ]
+}

@@ -1,0 +1,193 @@
+{
+    "Artist": [
+      {
+        "artist_id": 30,
+        "stage_name": "Ray Charles"
+      }
+    ],
+    "Album": [
+      {
+        "album_id": 132,
+        "name": "Modern Sounds in Country and Western Music",
+        "release_date": "1962-04-01"
+      },
+      {
+        "album_id": 133,
+        "name": "Ray Charles at Newport",
+        "release_date": "1958-10-01"
+      },
+      {
+        "album_id": 134,
+        "name": "The Genius of Ray Charles",
+        "release_date": "1959-10-01"
+      }
+    ],
+    "Song": [
+      {
+        "song_id": 379,
+        "title": "Georgia On My Mind",
+        "release_date": "1960-08-19",
+        "length": "3:35"
+      },
+      {
+        "song_id": 380,
+        "title": "Hit the Road Jack",
+        "release_date": "1961-08-18",
+        "length": "2:00"
+      },
+      {
+        "song_id": 381,
+        "title": "I Can't Stop Loving You",
+        "release_date": "1962-04-01",
+        "length": "4:13"
+      },
+      {
+        "song_id": 382,
+        "title": "What'd I Say",
+        "release_date": "1959-06-01",
+        "length": "5:05"
+      },
+      {
+        "song_id": 383,
+        "title": "Unchain My Heart",
+        "release_date": "1961-11-22",
+        "length": "2:50"
+      },
+      {
+        "song_id": 384,
+        "title": "I Got a Woman",
+        "release_date": "1954-12-18",
+        "length": "2:55"
+      },
+      {
+        "song_id": 385,
+        "title": "You Don't Know Me",
+        "release_date": "1962-04-01",
+        "length": "3:14"
+      },
+      {
+        "song_id": 386,
+        "title": "Night Time Is the Right Time",
+        "release_date": "1958-10-01",
+        "length": "3:25"
+      },
+      {
+        "song_id": 387,
+        "title": "Born to Lose",
+        "release_date": "1962-04-01",
+        "length": "3:15"
+      },
+      {
+        "song_id": 388,
+        "title": "Let the Good Times Roll",
+        "release_date": "1959-10-01",
+        "length": "2:53"
+      },
+      {
+        "song_id": 389,
+        "title": "Hallelujah, I Love Her So",
+        "release_date": "1956-01-15",
+        "length": "2:35"
+      },
+      {
+        "song_id": 390,
+        "title": "Drown in My Own Tears",
+        "release_date": "1956-05-21",
+        "length": "3:21"
+      },
+      {
+        "song_id": 391,
+        "title": "Come Rain or Come Shine",
+        "release_date": "1959-10-01",
+        "length": "3:42"
+      },
+      {
+        "song_id": 392,
+        "title": "Hey Good Lookin'",
+        "release_date": "1962-04-01",
+        "length": "2:11"
+      },
+      {
+        "song_id": 393,
+        "title": "America the Beautiful",
+        "release_date": "1972-07-04",
+        "length": "3:32"
+      }
+    ],
+    "Album_Artist": [
+      {"album_id": 132, "artist_id": 30},
+      {"album_id": 133, "artist_id": 30},
+      {"album_id": 134, "artist_id": 30}
+    ],
+    "Song_Album": [
+      {"song_id": 381, "album_id": 132, "track_number": 2},
+      {"song_id": 385, "album_id": 132, "track_number": 3},
+      {"song_id": 387, "album_id": 132, "track_number": 4},
+      {"song_id": 392, "album_id": 132, "track_number": 6},
+      {"song_id": 382, "album_id": 133, "track_number": 1},
+      {"song_id": 386, "album_id": 133, "track_number": 3},
+      {"song_id": 384, "album_id": 133, "track_number": 5},
+      {"song_id": 388, "album_id": 134, "track_number": 1},
+      {"song_id": 391, "album_id": 134, "track_number": 4}
+    ],
+    "Album_Genre": [
+      {"album_id": 132, "genre_id": 5},
+      {"album_id": 132, "genre_id": 14},
+      {"album_id": 132, "genre_id": 4},
+      {"album_id": 133, "genre_id": 4},
+      {"album_id": 133, "genre_id": 7},
+      {"album_id": 133, "genre_id": 14},
+      {"album_id": 134, "genre_id": 14},
+      {"album_id": 134, "genre_id": 7},
+      {"album_id": 134, "genre_id": 4}
+    ],
+    "Song_Genre": [
+      {"song_id": 379, "genre_id": 14},
+      {"song_id": 379, "genre_id": 7},
+      {"song_id": 380, "genre_id": 4},
+      {"song_id": 380, "genre_id": 14},
+      {"song_id": 381, "genre_id": 5},
+      {"song_id": 381, "genre_id": 14},
+      {"song_id": 382, "genre_id": 4},
+      {"song_id": 382, "genre_id": 14},
+      {"song_id": 383, "genre_id": 4},
+      {"song_id": 383, "genre_id": 14},
+      {"song_id": 384, "genre_id": 4},
+      {"song_id": 384, "genre_id": 21},
+      {"song_id": 385, "genre_id": 5},
+      {"song_id": 385, "genre_id": 14},
+      {"song_id": 386, "genre_id": 4},
+      {"song_id": 386, "genre_id": 9},
+      {"song_id": 387, "genre_id": 5},
+      {"song_id": 387, "genre_id": 14},
+      {"song_id": 388, "genre_id": 7},
+      {"song_id": 388, "genre_id": 4},
+      {"song_id": 389, "genre_id": 14},
+      {"song_id": 389, "genre_id": 21},
+      {"song_id": 390, "genre_id": 4},
+      {"song_id": 390, "genre_id": 9},
+      {"song_id": 391, "genre_id": 7},
+      {"song_id": 391, "genre_id": 14},
+      {"song_id": 392, "genre_id": 5},
+      {"song_id": 392, "genre_id": 14},
+      {"song_id": 393, "genre_id": 14},
+      {"song_id": 393, "genre_id": 21}
+    ],
+    "Song_Artist": [
+      {"song_id": 379, "artist_id": 30},
+      {"song_id": 380, "artist_id": 30},
+      {"song_id": 381, "artist_id": 30},
+      {"song_id": 382, "artist_id": 30},
+      {"song_id": 383, "artist_id": 30},
+      {"song_id": 384, "artist_id": 30},
+      {"song_id": 385, "artist_id": 30},
+      {"song_id": 386, "artist_id": 30},
+      {"song_id": 387, "artist_id": 30},
+      {"song_id": 388, "artist_id": 30},
+      {"song_id": 389, "artist_id": 30},
+      {"song_id": 390, "artist_id": 30},
+      {"song_id": 391, "artist_id": 30},
+      {"song_id": 392, "artist_id": 30},
+      {"song_id": 393, "artist_id": 30}
+    ]
+}

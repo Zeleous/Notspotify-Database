@@ -1,0 +1,199 @@
+{
+    "Artist": [
+      {
+        "artist_id": 27,
+        "stage_name": "Miles Davis"
+      }
+    ],
+    "Album": [
+      {
+        "album_id": 123,
+        "name": "Kind of Blue",
+        "release_date": "1959-08-17"
+      },
+      {
+        "album_id": 124,
+        "name": "Bitches Brew",
+        "release_date": "1970-03-30"
+      },
+      {
+        "album_id": 125,
+        "name": "Sketches of Spain",
+        "release_date": "1960-07-18"
+      }
+    ],
+    "Song": [
+      {
+        "song_id": 334,
+        "title": "So What",
+        "release_date": "1959-08-17",
+        "length": "9:22"
+      },
+      {
+        "song_id": 335,
+        "title": "Bitches Brew",
+        "release_date": "1970-03-30",
+        "length": "26:59"
+      },
+      {
+        "song_id": 336,
+        "title": "Blue in Green",
+        "release_date": "1959-08-17",
+        "length": "5:37"
+      },
+      {
+        "song_id": 337,
+        "title": "All Blues",
+        "release_date": "1959-08-17",
+        "length": "11:33"
+      },
+      {
+        "song_id": 338,
+        "title": "Concierto de Aranjuez (Adagio)",
+        "release_date": "1960-07-18",
+        "length": "16:19"
+      },
+      {
+        "song_id": 339,
+        "title": "Freddie Freeloader",
+        "release_date": "1959-08-17",
+        "length": "9:46"
+      },
+      {
+        "song_id": 340,
+        "title": "Spanish Key",
+        "release_date": "1970-03-30",
+        "length": "17:32"
+      },
+      {
+        "song_id": 341,
+        "title": "Will o' the Wisp",
+        "release_date": "1960-07-18",
+        "length": "3:47"
+      },
+      {
+        "song_id": 342,
+        "title": "Miles Runs the Voodoo Down",
+        "release_date": "1970-03-30",
+        "length": "14:01"
+      },
+      {
+        "song_id": 343,
+        "title": "Flamenco Sketches",
+        "release_date": "1959-08-17",
+        "length": "9:26"
+      },
+      {
+        "song_id": 344,
+        "title": "Pharaoh's Dance",
+        "release_date": "1970-03-30",
+        "length": "20:06"
+      },
+      {
+        "song_id": 345,
+        "title": "The Pan Piper",
+        "release_date": "1960-07-18",
+        "length": "3:52"
+      },
+      {
+        "song_id": 346,
+        "title": "John McLaughlin",
+        "release_date": "1970-03-30",
+        "length": "4:26"
+      },
+      {
+        "song_id": 347,
+        "title": "Saeta",
+        "release_date": "1960-07-18",
+        "length": "5:06"
+      },
+      {
+        "song_id": 348,
+        "title": "Solea",
+        "release_date": "1960-07-18",
+        "length": "12:15"
+      }
+    ],
+    "Album_Artist": [
+      {"album_id": 123, "artist_id": 27},
+      {"album_id": 124, "artist_id": 27},
+      {"album_id": 125, "artist_id": 27}
+    ],
+    "Song_Album": [
+      {"song_id": 334, "album_id": 123, "track_number": 1},
+      {"song_id": 335, "album_id": 124, "track_number": 1},
+      {"song_id": 336, "album_id": 123, "track_number": 3},
+      {"song_id": 337, "album_id": 123, "track_number": 5},
+      {"song_id": 338, "album_id": 125, "track_number": 1},
+      {"song_id": 339, "album_id": 123, "track_number": 2},
+      {"song_id": 340, "album_id": 124, "track_number": 3},
+      {"song_id": 341, "album_id": 125, "track_number": 2},
+      {"song_id": 342, "album_id": 124, "track_number": 5},
+      {"song_id": 343, "album_id": 123, "track_number": 4},
+      {"song_id": 344, "album_id": 124, "track_number": 2},
+      {"song_id": 345, "album_id": 125, "track_number": 3},
+      {"song_id": 346, "album_id": 124, "track_number": 4},
+      {"song_id": 347, "album_id": 125, "track_number": 4},
+      {"song_id": 348, "album_id": 125, "track_number": 5}
+    ],
+    "Album_Genre": [
+      {"album_id": 123, "genre_id": 7},
+      {"album_id": 123, "genre_id": 48},
+      {"album_id": 123, "genre_id": 9},
+      {"album_id": 124, "genre_id": 7},
+      {"album_id": 124, "genre_id": 48},
+      {"album_id": 124, "genre_id": 42},
+      {"album_id": 125, "genre_id": 7},
+      {"album_id": 125, "genre_id": 39},
+      {"album_id": 125, "genre_id": 8}
+    ],
+    "Song_Genre": [
+      {"song_id": 334, "genre_id": 7},
+      {"song_id": 334, "genre_id": 48},
+      {"song_id": 335, "genre_id": 7},
+      {"song_id": 335, "genre_id": 42},
+      {"song_id": 336, "genre_id": 7},
+      {"song_id": 336, "genre_id": 9},
+      {"song_id": 337, "genre_id": 7},
+      {"song_id": 337, "genre_id": 9},
+      {"song_id": 338, "genre_id": 8},
+      {"song_id": 338, "genre_id": 39},
+      {"song_id": 339, "genre_id": 7},
+      {"song_id": 339, "genre_id": 48},
+      {"song_id": 340, "genre_id": 7},
+      {"song_id": 340, "genre_id": 48},
+      {"song_id": 341, "genre_id": 7},
+      {"song_id": 341, "genre_id": 39},
+      {"song_id": 342, "genre_id": 7},
+      {"song_id": 342, "genre_id": 42},
+      {"song_id": 343, "genre_id": 7},
+      {"song_id": 343, "genre_id": 48},
+      {"song_id": 344, "genre_id": 7},
+      {"song_id": 344, "genre_id": 42},
+      {"song_id": 345, "genre_id": 7},
+      {"song_id": 345, "genre_id": 39},
+      {"song_id": 346, "genre_id": 7},
+      {"song_id": 346, "genre_id": 48},
+      {"song_id": 347, "genre_id": 7},
+      {"song_id": 347, "genre_id": 39},
+      {"song_id": 348, "genre_id": 7},
+      {"song_id": 348, "genre_id": 39}
+    ],
+    "Song_Artist": [
+      {"song_id": 334, "artist_id": 27},
+      {"song_id": 335, "artist_id": 27},
+      {"song_id": 336, "artist_id": 27},
+      {"song_id": 337, "artist_id": 27},
+      {"song_id": 338, "artist_id": 27},
+      {"song_id": 339, "artist_id": 27},
+      {"song_id": 340, "artist_id": 27},
+      {"song_id": 341, "artist_id": 27},
+      {"song_id": 342, "artist_id": 27},
+      {"song_id": 343, "artist_id": 27},
+      {"song_id": 344, "artist_id": 27},
+      {"song_id": 345, "artist_id": 27},
+      {"song_id": 346, "artist_id": 27},
+      {"song_id": 347, "artist_id": 27},
+      {"song_id": 348, "artist_id": 27}
+    ]
+}

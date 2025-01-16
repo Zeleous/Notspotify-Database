@@ -1,0 +1,182 @@
+{
+    "Artist": [
+      {
+        "artist_id": 15,
+        "stage_name": "Mariah Carey"
+      }
+    ],
+    "Album": [
+      {
+        "album_id": 69,
+        "name": "Mariah Carey",
+        "release_date": "1990-06-12"
+      },
+      {
+        "album_id": 70,
+        "name": "Music Box",
+        "release_date": "1993-08-31"
+      },
+      {
+        "album_id": 71,
+        "name": "Daydream",
+        "release_date": "1995-10-03"
+      },
+      {
+        "album_id": 72,
+        "name": "Butterfly",
+        "release_date": "1997-09-16"
+      },
+      {
+        "album_id": 73,
+        "name": "The Emancipation of Mimi",
+        "release_date": "2005-04-12"
+      }
+    ],
+    "Song": [
+      {
+        "song_id": 157,
+        "title": "Vision of Love",
+        "release_date": "1990-05-15",
+        "length": "3:30"
+      },
+      {
+        "song_id": 158,
+        "title": "Love Takes Time",
+        "release_date": "1990-09-11",
+        "length": "3:49"
+      },
+      {
+        "song_id": 159,
+        "title": "Dreamlover",
+        "release_date": "1993-07-27",
+        "length": "3:54"
+      },
+      {
+        "song_id": 160,
+        "title": "Hero",
+        "release_date": "1993-10-19",
+        "length": "4:19"
+      },
+      {
+        "song_id": 161,
+        "title": "Fantasy",
+        "release_date": "1995-09-12",
+        "length": "4:04"
+      },
+      {
+        "song_id": 162,
+        "title": "One Sweet Day",
+        "release_date": "1995-11-14",
+        "length": "4:42"
+      },
+      {
+        "song_id": 163,
+        "title": "Always Be My Baby",
+        "release_date": "1996-03-09",
+        "length": "4:18"
+      },
+      {
+        "song_id": 164,
+        "title": "Honey",
+        "release_date": "1997-08-26",
+        "length": "5:00"
+      },
+      {
+        "song_id": 165,
+        "title": "My All",
+        "release_date": "1998-04-21",
+        "length": "3:52"
+      },
+      {
+        "song_id": 166,
+        "title": "We Belong Together",
+        "release_date": "2005-03-29",
+        "length": "3:21"
+      },
+      {
+        "song_id": 167,
+        "title": "Don't Forget About Us",
+        "release_date": "2005-10-01",
+        "length": "3:53"
+      },
+      {
+        "song_id": 168,
+        "title": "All I Want for Christmas Is You",
+        "release_date": "1994-10-29",
+        "length": "4:01"
+      }
+    ],
+    "Album_Artist": [
+      {"album_id": 69, "artist_id": 15},
+      {"album_id": 70, "artist_id": 15},
+      {"album_id": 71, "artist_id": 15},
+      {"album_id": 72, "artist_id": 15},
+      {"album_id": 73, "artist_id": 15}
+    ],
+    "Song_Album": [
+      {"song_id": 157, "album_id": 69, "track_number": 1},
+      {"song_id": 158, "album_id": 69, "track_number": 2},
+      {"song_id": 159, "album_id": 70, "track_number": 1},
+      {"song_id": 160, "album_id": 70, "track_number": 2},
+      {"song_id": 161, "album_id": 71, "track_number": 1},
+      {"song_id": 162, "album_id": 71, "track_number": 3},
+      {"song_id": 163, "album_id": 71, "track_number": 4},
+      {"song_id": 164, "album_id": 72, "track_number": 1},
+      {"song_id": 165, "album_id": 72, "track_number": 3},
+      {"song_id": 166, "album_id": 73, "track_number": 2},
+      {"song_id": 167, "album_id": 73, "track_number": 17},
+      {"song_id": 168, "album_id": 70, "track_number": 12}
+    ],
+    "Album_Genre": [
+      {"album_id": 69, "genre_id": 1},
+      {"album_id": 69, "genre_id": 4},
+      {"album_id": 70, "genre_id": 1},
+      {"album_id": 70, "genre_id": 4},
+      {"album_id": 71, "genre_id": 1},
+      {"album_id": 71, "genre_id": 4},
+      {"album_id": 72, "genre_id": 1},
+      {"album_id": 72, "genre_id": 4},
+      {"album_id": 73, "genre_id": 1},
+      {"album_id": 73, "genre_id": 4}
+    ],
+    "Song_Genre": [
+      {"song_id": 157, "genre_id": 1},
+      {"song_id": 157, "genre_id": 4},
+      {"song_id": 158, "genre_id": 1},
+      {"song_id": 158, "genre_id": 4},
+      {"song_id": 159, "genre_id": 1},
+      {"song_id": 159, "genre_id": 4},
+      {"song_id": 160, "genre_id": 1},
+      {"song_id": 160, "genre_id": 4},
+      {"song_id": 161, "genre_id": 1},
+      {"song_id": 161, "genre_id": 4},
+      {"song_id": 162, "genre_id": 1},
+      {"song_id": 162, "genre_id": 4},
+      {"song_id": 163, "genre_id": 1},
+      {"song_id": 163, "genre_id": 4},
+      {"song_id": 164, "genre_id": 1},
+      {"song_id": 164, "genre_id": 4},
+      {"song_id": 165, "genre_id": 1},
+      {"song_id": 165, "genre_id": 4},
+      {"song_id": 166, "genre_id": 1},
+      {"song_id": 166, "genre_id": 4},
+      {"song_id": 167, "genre_id": 1},
+      {"song_id": 167, "genre_id": 4},
+      {"song_id": 168, "genre_id": 1},
+      {"song_id": 168, "genre_id": 20}
+    ],
+    "Song_Artist": [
+      {"song_id": 157, "artist_id": 15},
+      {"song_id": 158, "artist_id": 15},
+      {"song_id": 159, "artist_id": 15},
+      {"song_id": 160, "artist_id": 15},
+      {"song_id": 161, "artist_id": 15},
+      {"song_id": 162, "artist_id": 15},
+      {"song_id": 163, "artist_id": 15},
+      {"song_id": 164, "artist_id": 15},
+      {"song_id": 165, "artist_id": 15},
+      {"song_id": 166, "artist_id": 15},
+      {"song_id": 167, "artist_id": 15},
+      {"song_id": 168, "artist_id": 15}
+    ]
+}

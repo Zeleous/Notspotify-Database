@@ -1,0 +1,223 @@
+{
+    "Artist": [
+      {
+        "artist_id": 17,
+        "stage_name": "Adele"
+      }
+    ],
+    "Album": [
+      {
+        "album_id": 81,
+        "name": "19",
+        "release_date": "2008-01-28"
+      },
+      {
+        "album_id": 82,
+        "name": "21",
+        "release_date": "2011-01-24"
+      },
+      {
+        "album_id": 83,
+        "name": "25",
+        "release_date": "2015-11-20"
+      },
+      {
+        "album_id": 84,
+        "name": "30",
+        "release_date": "2021-11-19"
+      },
+      {
+        "album_id": 85,
+        "name": "Live at the Royal Albert Hall",
+        "release_date": "2011-11-29"
+      }
+    ],
+    "Song": [
+      {
+        "song_id": 184,
+        "title": "Chasing Pavements",
+        "release_date": "2008-01-14",
+        "length": "3:30"
+      },
+      {
+        "song_id": 185,
+        "title": "Make You Feel My Love",
+        "release_date": "2008-10-27",
+        "length": "3:32"
+      },
+      {
+        "song_id": 186,
+        "title": "Rolling in the Deep",
+        "release_date": "2010-11-29",
+        "length": "3:48"
+      },
+      {
+        "song_id": 187,
+        "title": "Someone Like You",
+        "release_date": "2011-01-24",
+        "length": "4:45"
+      },
+      {
+        "song_id": 188,
+        "title": "Set Fire to the Rain",
+        "release_date": "2011-07-04",
+        "length": "4:01"
+      },
+      {
+        "song_id": 189,
+        "title": "Rumour Has It",
+        "release_date": "2011-11-15",
+        "length": "3:43"
+      },
+      {
+        "song_id": 190,
+        "title": "Hello",
+        "release_date": "2015-10-23",
+        "length": "4:55"
+      },
+      {
+        "song_id": 191,
+        "title": "When We Were Young",
+        "release_date": "2016-01-22",
+        "length": "4:51"
+      },
+      {
+        "song_id": 192,
+        "title": "Send My Love (To Your New Lover)",
+        "release_date": "2016-05-16",
+        "length": "3:43"
+      },
+      {
+        "song_id": 193,
+        "title": "Easy on Me",
+        "release_date": "2021-10-15",
+        "length": "3:44"
+      },
+      {
+        "song_id": 194,
+        "title": "Oh My God",
+        "release_date": "2021-11-29",
+        "length": "3:45"
+      },
+      {
+        "song_id": 195,
+        "title": "I Drink Wine",
+        "release_date": "2021-11-19",
+        "length": "6:16"
+      },
+      {
+        "song_id": 196,
+        "title": "Hold On",
+        "release_date": "2021-11-19",
+        "length": "6:06"
+      },
+      {
+        "song_id": 197,
+        "title": "To Be Loved",
+        "release_date": "2021-11-19",
+        "length": "6:43"
+      },
+      {
+        "song_id": 198,
+        "title": "My Little Love",
+        "release_date": "2021-11-19",
+        "length": "6:29"
+      }
+    ],
+    "Album_Artist": [
+      {"album_id": 81, "artist_id": 17},
+      {"album_id": 82, "artist_id": 17},
+      {"album_id": 83, "artist_id": 17},
+      {"album_id": 84, "artist_id": 17},
+      {"album_id": 85, "artist_id": 17}
+    ],
+    "Song_Album": [
+      {"song_id": 184, "album_id": 81, "track_number": 2},
+      {"song_id": 185, "album_id": 81, "track_number": 9},
+      {"song_id": 186, "album_id": 82, "track_number": 1},
+      {"song_id": 187, "album_id": 82, "track_number": 11},
+      {"song_id": 188, "album_id": 82, "track_number": 5},
+      {"song_id": 189, "album_id": 82, "track_number": 2},
+      {"song_id": 190, "album_id": 83, "track_number": 1},
+      {"song_id": 191, "album_id": 83, "track_number": 4},
+      {"song_id": 192, "album_id": 83, "track_number": 2},
+      {"song_id": 193, "album_id": 84, "track_number": 1},
+      {"song_id": 194, "album_id": 84, "track_number": 3},
+      {"song_id": 195, "album_id": 84, "track_number": 7},
+      {"song_id": 196, "album_id": 84, "track_number": 9},
+      {"song_id": 197, "album_id": 84, "track_number": 11},
+      {"song_id": 198, "album_id": 84, "track_number": 2}
+    ],
+    "Album_Genre": [
+      {"album_id": 81, "genre_id": 1},
+      {"album_id": 81, "genre_id": 14},
+      {"album_id": 81, "genre_id": 4},
+      {"album_id": 82, "genre_id": 1},
+      {"album_id": 82, "genre_id": 14},
+      {"album_id": 82, "genre_id": 4},
+      {"album_id": 83, "genre_id": 1},
+      {"album_id": 83, "genre_id": 14},
+      {"album_id": 83, "genre_id": 4},
+      {"album_id": 84, "genre_id": 1},
+      {"album_id": 84, "genre_id": 14},
+      {"album_id": 84, "genre_id": 4},
+      {"album_id": 85, "genre_id": 1},
+      {"album_id": 85, "genre_id": 14},
+      {"album_id": 85, "genre_id": 4}
+    ],
+    "Song_Genre": [
+      {"song_id": 184, "genre_id": 1},
+      {"song_id": 184, "genre_id": 14},
+      {"song_id": 184, "genre_id": 4},
+      {"song_id": 185, "genre_id": 1},
+      {"song_id": 185, "genre_id": 14},
+      {"song_id": 186, "genre_id": 1},
+      {"song_id": 186, "genre_id": 14},
+      {"song_id": 186, "genre_id": 4},
+      {"song_id": 187, "genre_id": 1},
+      {"song_id": 187, "genre_id": 14},
+      {"song_id": 188, "genre_id": 1},
+      {"song_id": 188, "genre_id": 14},
+      {"song_id": 188, "genre_id": 4},
+      {"song_id": 189, "genre_id": 1},
+      {"song_id": 189, "genre_id": 14},
+      {"song_id": 189, "genre_id": 4},
+      {"song_id": 190, "genre_id": 1},
+      {"song_id": 190, "genre_id": 14},
+      {"song_id": 191, "genre_id": 1},
+      {"song_id": 191, "genre_id": 14},
+      {"song_id": 192, "genre_id": 1},
+      {"song_id": 192, "genre_id": 4},
+      {"song_id": 193, "genre_id": 1},
+      {"song_id": 193, "genre_id": 14},
+      {"song_id": 194, "genre_id": 1},
+      {"song_id": 194, "genre_id": 4},
+      {"song_id": 195, "genre_id": 1},
+      {"song_id": 195, "genre_id": 14},
+      {"song_id": 196, "genre_id": 1},
+      {"song_id": 196, "genre_id": 14},
+      {"song_id": 196, "genre_id": 4},
+      {"song_id": 197, "genre_id": 1},
+      {"song_id": 197, "genre_id": 14},
+      {"song_id": 198, "genre_id": 1},
+      {"song_id": 198, "genre_id": 14},
+      {"song_id": 198, "genre_id": 4}
+    ],
+    "Song_Artist": [
+      {"song_id": 184, "artist_id": 17},
+      {"song_id": 185, "artist_id": 17},
+      {"song_id": 186, "artist_id": 17},
+      {"song_id": 187, "artist_id": 17},
+      {"song_id": 188, "artist_id": 17},
+      {"song_id": 189, "artist_id": 17},
+      {"song_id": 190, "artist_id": 17},
+      {"song_id": 191, "artist_id": 17},
+      {"song_id": 192, "artist_id": 17},
+      {"song_id": 193, "artist_id": 17},
+      {"song_id": 194, "artist_id": 17},
+      {"song_id": 195, "artist_id": 17},
+      {"song_id": 196, "artist_id": 17},
+      {"song_id": 197, "artist_id": 17},
+      {"song_id": 198, "artist_id": 17}
+    ]
+}

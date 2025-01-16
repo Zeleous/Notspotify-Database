@@ -1,0 +1,191 @@
+{
+    "Artist": [
+      {
+        "artist_id": 32,
+        "stage_name": "Louis Armstrong"
+      }
+    ],
+    "Album": [
+      {
+        "album_id": 138,
+        "name": "Louis Armstrong Plays W.C. Handy",
+        "release_date": "1954-09-15"
+      },
+      {
+        "album_id": 139,
+        "name": "Satch Plays Fats",
+        "release_date": "1955-04-26"
+      },
+      {
+        "album_id": 140,
+        "name": "Ambassador Satch",
+        "release_date": "1955-12-01"
+      }
+    ],
+    "Song": [
+      {
+        "song_id": 409,
+        "title": "What a Wonderful World",
+        "release_date": "1967-09-01",
+        "length": "2:21"
+      },
+      {
+        "song_id": 410,
+        "title": "When the Saints Go Marching In",
+        "release_date": "1938-05-13",
+        "length": "2:44"
+      },
+      {
+        "song_id": 411,
+        "title": "Hello, Dolly!",
+        "release_date": "1964-01-01",
+        "length": "2:27"
+      },
+      {
+        "song_id": 412,
+        "title": "St. Louis Blues",
+        "release_date": "1954-09-15",
+        "length": "8:03"
+      },
+      {
+        "song_id": 413,
+        "title": "Mack the Knife",
+        "release_date": "1956-09-28",
+        "length": "3:21"
+      },
+      {
+        "song_id": 414,
+        "title": "Basin Street Blues",
+        "release_date": "1954-09-15",
+        "length": "4:37"
+      },
+      {
+        "song_id": 415,
+        "title": "Ain't Misbehavin'",
+        "release_date": "1955-04-26",
+        "length": "4:17"
+      },
+      {
+        "song_id": 416,
+        "title": "West End Blues",
+        "release_date": "1928-06-28",
+        "length": "3:21"
+      },
+      {
+        "song_id": 417,
+        "title": "La Vie En Rose",
+        "release_date": "1950-06-26",
+        "length": "3:26"
+      },
+      {
+        "song_id": 418,
+        "title": "Honeysuckle Rose",
+        "release_date": "1955-04-26",
+        "length": "4:59"
+      },
+      {
+        "song_id": 419,
+        "title": "C'est Si Bon",
+        "release_date": "1955-12-01",
+        "length": "3:12"
+      },
+      {
+        "song_id": 420,
+        "title": "Black and Blue",
+        "release_date": "1955-04-26",
+        "length": "3:59"
+      },
+      {
+        "song_id": 421,
+        "title": "Royal Garden Blues",
+        "release_date": "1955-12-01",
+        "length": "4:24"
+      },
+      {
+        "song_id": 422,
+        "title": "Stardust",
+        "release_date": "1931-05-15",
+        "length": "3:37"
+      },
+      {
+        "song_id": 423,
+        "title": "Tiger Rag",
+        "release_date": "1930-03-10",
+        "length": "2:53"
+      }
+    ],
+    "Album_Artist": [
+      {"album_id": 138, "artist_id": 32},
+      {"album_id": 139, "artist_id": 32},
+      {"album_id": 140, "artist_id": 32}
+    ],
+    "Song_Album": [
+      {"song_id": 412, "album_id": 138, "track_number": 1},
+      {"song_id": 414, "album_id": 138, "track_number": 3},
+      {"song_id": 415, "album_id": 139, "track_number": 1},
+      {"song_id": 418, "album_id": 139, "track_number": 2},
+      {"song_id": 420, "album_id": 139, "track_number": 4},
+      {"song_id": 419, "album_id": 140, "track_number": 2},
+      {"song_id": 421, "album_id": 140, "track_number": 4}
+    ],
+    "Album_Genre": [
+      {"album_id": 138, "genre_id": 7},
+      {"album_id": 138, "genre_id": 9},
+      {"album_id": 138, "genre_id": 41},
+      {"album_id": 139, "genre_id": 7},
+      {"album_id": 139, "genre_id": 41},
+      {"album_id": 139, "genre_id": 50},
+      {"album_id": 140, "genre_id": 7},
+      {"album_id": 140, "genre_id": 41},
+      {"album_id": 140, "genre_id": 9}
+    ],
+    "Song_Genre": [
+      {"song_id": 409, "genre_id": 7},
+      {"song_id": 409, "genre_id": 50},
+      {"song_id": 410, "genre_id": 7},
+      {"song_id": 410, "genre_id": 41},
+      {"song_id": 411, "genre_id": 7},
+      {"song_id": 411, "genre_id": 50},
+      {"song_id": 412, "genre_id": 7},
+      {"song_id": 412, "genre_id": 9},
+      {"song_id": 413, "genre_id": 7},
+      {"song_id": 413, "genre_id": 41},
+      {"song_id": 414, "genre_id": 7},
+      {"song_id": 414, "genre_id": 9},
+      {"song_id": 415, "genre_id": 7},
+      {"song_id": 415, "genre_id": 41},
+      {"song_id": 416, "genre_id": 7},
+      {"song_id": 416, "genre_id": 9},
+      {"song_id": 417, "genre_id": 7},
+      {"song_id": 417, "genre_id": 50},
+      {"song_id": 418, "genre_id": 7},
+      {"song_id": 418, "genre_id": 41},
+      {"song_id": 419, "genre_id": 7},
+      {"song_id": 419, "genre_id": 41},
+      {"song_id": 420, "genre_id": 7},
+      {"song_id": 420, "genre_id": 9},
+      {"song_id": 421, "genre_id": 7},
+      {"song_id": 421, "genre_id": 41},
+      {"song_id": 422, "genre_id": 7},
+      {"song_id": 422, "genre_id": 50},
+      {"song_id": 423, "genre_id": 7},
+      {"song_id": 423, "genre_id": 41}
+    ],
+    "Song_Artist": [
+      {"song_id": 409, "artist_id": 32},
+      {"song_id": 410, "artist_id": 32},
+      {"song_id": 411, "artist_id": 32},
+      {"song_id": 412, "artist_id": 32},
+      {"song_id": 413, "artist_id": 32},
+      {"song_id": 414, "artist_id": 32},
+      {"song_id": 415, "artist_id": 32},
+      {"song_id": 416, "artist_id": 32},
+      {"song_id": 417, "artist_id": 32},
+      {"song_id": 418, "artist_id": 32},
+      {"song_id": 419, "artist_id": 32},
+      {"song_id": 420, "artist_id": 32},
+      {"song_id": 421, "artist_id": 32},
+      {"song_id": 422, "artist_id": 32},
+      {"song_id": 423, "artist_id": 32}
+    ]
+}

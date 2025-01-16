@@ -1,0 +1,174 @@
+{
+    "Artist": [
+      {
+        "artist_id": 5,
+        "stage_name": "The Beatles"
+      }
+    ],
+    "Album": [
+      {
+        "album_id": 26,
+        "name": "Please Please Me",
+        "release_date": "1963-03-22"
+      },
+      {
+        "album_id": 27,
+        "name": "Revolver",
+        "release_date": "1966-08-05"
+      },
+      {
+        "album_id": 28,
+        "name": "Sgt. Pepper's Lonely Hearts Club Band",
+        "release_date": "1967-06-01"
+      },
+      {
+        "album_id": 29,
+        "name": "Abbey Road",
+        "release_date": "1969-09-26"
+      }
+    ],
+    "Song": [
+      {
+        "song_id": 37,
+        "title": "I Saw Her Standing There",
+        "release_date": "1963-03-22",
+        "length": "2:55"
+      },
+      {
+        "song_id": 38,
+        "title": "Please Please Me",
+        "release_date": "1963-03-22",
+        "length": "2:00"
+      },
+      {
+        "song_id": 39,
+        "title": "Love Me Do",
+        "release_date": "1963-03-22",
+        "length": "2:22"
+      },
+      {
+        "song_id": 40,
+        "title": "Eleanor Rigby",
+        "release_date": "1966-08-05",
+        "length": "2:07"
+      },
+      {
+        "song_id": 41,
+        "title": "Yellow Submarine",
+        "release_date": "1966-08-05",
+        "length": "2:40"
+      },
+      {
+        "song_id": 42,
+        "title": "Here, There and Everywhere",
+        "release_date": "1966-08-05",
+        "length": "2:26"
+      },
+      {
+        "song_id": 43,
+        "title": "Sgt. Pepper's Lonely Hearts Club Band",
+        "release_date": "1967-06-01",
+        "length": "2:02"
+      },
+      {
+        "song_id": 44,
+        "title": "With a Little Help from My Friends",
+        "release_date": "1967-06-01",
+        "length": "2:44"
+      },
+      {
+        "song_id": 45,
+        "title": "Lucy in the Sky with Diamonds",
+        "release_date": "1967-06-01",
+        "length": "3:28"
+      },
+      {
+        "song_id": 46,
+        "title": "Come Together",
+        "release_date": "1969-09-26",
+        "length": "4:19"
+      },
+      {
+        "song_id": 47,
+        "title": "Here Comes the Sun",
+        "release_date": "1969-09-26",
+        "length": "3:06"
+      },
+      {
+        "song_id": 48,
+        "title": "Something",
+        "release_date": "1969-09-26",
+        "length": "3:03"
+      }
+    ],
+    "Album_Artist": [
+      {"album_id": 26, "artist_id": 5},
+      {"album_id": 27, "artist_id": 5},
+      {"album_id": 28, "artist_id": 5},
+      {"album_id": 29, "artist_id": 5}
+    ],
+    "Song_Album": [
+      {"song_id": 37, "album_id": 26, "track_number": 1},
+      {"song_id": 38, "album_id": 26, "track_number": 7},
+      {"song_id": 39, "album_id": 26, "track_number": 10},
+      {"song_id": 40, "album_id": 27, "track_number": 2},
+      {"song_id": 41, "album_id": 27, "track_number": 6},
+      {"song_id": 42, "album_id": 27, "track_number": 8},
+      {"song_id": 43, "album_id": 28, "track_number": 1},
+      {"song_id": 44, "album_id": 28, "track_number": 2},
+      {"song_id": 45, "album_id": 28, "track_number": 3},
+      {"song_id": 46, "album_id": 29, "track_number": 1},
+      {"song_id": 47, "album_id": 29, "track_number": 7},
+      {"song_id": 48, "album_id": 29, "track_number": 2}
+    ],
+    "Album_Genre": [
+      {"album_id": 26, "genre_id": 2},
+      {"album_id": 26, "genre_id": 1},
+      {"album_id": 27, "genre_id": 2},
+      {"album_id": 27, "genre_id": 16},
+      {"album_id": 28, "genre_id": 2},
+      {"album_id": 28, "genre_id": 34},
+      {"album_id": 29, "genre_id": 2},
+      {"album_id": 29, "genre_id": 16}
+    ],
+    "Song_Genre": [
+      {"song_id": 37, "genre_id": 2},
+      {"song_id": 37, "genre_id": 1},
+      {"song_id": 38, "genre_id": 2},
+      {"song_id": 38, "genre_id": 1},
+      {"song_id": 39, "genre_id": 2},
+      {"song_id": 39, "genre_id": 1},
+      {"song_id": 40, "genre_id": 2},
+      {"song_id": 40, "genre_id": 16},
+      {"song_id": 41, "genre_id": 2},
+      {"song_id": 41, "genre_id": 1},
+      {"song_id": 42, "genre_id": 2},
+      {"song_id": 42, "genre_id": 16},
+      {"song_id": 43, "genre_id": 2},
+      {"song_id": 43, "genre_id": 34},
+      {"song_id": 44, "genre_id": 2},
+      {"song_id": 44, "genre_id": 34},
+      {"song_id": 45, "genre_id": 2},
+      {"song_id": 45, "genre_id": 34},
+      {"song_id": 46, "genre_id": 2},
+      {"song_id": 46, "genre_id": 16},
+      {"song_id": 47, "genre_id": 2},
+      {"song_id": 47, "genre_id": 16},
+      {"song_id": 48, "genre_id": 2},
+      {"song_id": 48, "genre_id": 16}
+    ],
+    "Song_Artist": [
+      {"song_id": 37, "artist_id": 5},
+      {"song_id": 38, "artist_id": 5},
+      {"song_id": 39, "artist_id": 5},
+      {"song_id": 40, "artist_id": 5},
+      {"song_id": 41, "artist_id": 5},
+      {"song_id": 42, "artist_id": 5},
+      {"song_id": 43, "artist_id": 5},
+      {"song_id": 44, "artist_id": 5},
+      {"song_id": 45, "artist_id": 5},
+      {"song_id": 46, "artist_id": 5},
+      {"song_id": 47, "artist_id": 5},
+      {"song_id": 48, "artist_id": 5}
+    ]
+}

@@ -1,0 +1,192 @@
+{
+    "Artist": [
+      {
+        "artist_id": 25,
+        "stage_name": "Frank Sinatra"
+      }
+    ],
+    "Album": [
+      {
+        "album_id": 117,
+        "name": "In the Wee Small Hours",
+        "release_date": "1955-04-25"
+      },
+      {
+        "album_id": 118,
+        "name": "Songs for Swingin' Lovers!",
+        "release_date": "1956-03-05"
+      },
+      {
+        "album_id": 119,
+        "name": "Frank Sinatra Sings for Only the Lonely",
+        "release_date": "1958-09-08"
+      }
+    ],
+    "Song": [
+      {
+        "song_id": 304,
+        "title": "My Way",
+        "release_date": "1969-03-30",
+        "length": "4:36"
+      },
+      {
+        "song_id": 305,
+        "title": "Fly Me to the Moon",
+        "release_date": "1964-06-09",
+        "length": "2:27"
+      },
+      {
+        "song_id": 306,
+        "title": "I've Got You Under My Skin",
+        "release_date": "1956-03-05",
+        "length": "3:43"
+      },
+      {
+        "song_id": 307,
+        "title": "New York, New York",
+        "release_date": "1980-04-28",
+        "length": "3:26"
+      },
+      {
+        "song_id": 308,
+        "title": "In the Wee Small Hours of the Morning",
+        "release_date": "1955-04-25",
+        "length": "3:00"
+      },
+      {
+        "song_id": 309,
+        "title": "One for My Baby (And One More for the Road)",
+        "release_date": "1958-09-08",
+        "length": "4:49"
+      },
+      {
+        "song_id": 310,
+        "title": "Strangers in the Night",
+        "release_date": "1966-05-01",
+        "length": "2:35"
+      },
+      {
+        "song_id": 311,
+        "title": "That's Life",
+        "release_date": "1966-11-01",
+        "length": "3:10"
+      },
+      {
+        "song_id": 312,
+        "title": "Come Fly with Me",
+        "release_date": "1958-01-06",
+        "length": "3:19"
+      },
+      {
+        "song_id": 313,
+        "title": "The Way You Look Tonight",
+        "release_date": "1956-03-05",
+        "length": "3:22"
+      },
+      {
+        "song_id": 314,
+        "title": "Angel Eyes",
+        "release_date": "1958-09-08",
+        "length": "3:46"
+      },
+      {
+        "song_id": 315,
+        "title": "Summer Wind",
+        "release_date": "1966-06-28",
+        "length": "2:53"
+      },
+      {
+        "song_id": 316,
+        "title": "You Make Me Feel So Young",
+        "release_date": "1956-03-05",
+        "length": "2:57"
+      },
+      {
+        "song_id": 317,
+        "title": "What's New?",
+        "release_date": "1958-09-08",
+        "length": "5:13"
+      },
+      {
+        "song_id": 318,
+        "title": "It Was a Very Good Year",
+        "release_date": "1965-09-20",
+        "length": "4:29"
+      }
+    ],
+    "Album_Artist": [
+      {"album_id": 117, "artist_id": 25},
+      {"album_id": 118, "artist_id": 25},
+      {"album_id": 119, "artist_id": 25}
+    ],
+    "Song_Album": [
+      {"song_id": 308, "album_id": 117, "track_number": 1},
+      {"song_id": 306, "album_id": 118, "track_number": 2},
+      {"song_id": 309, "album_id": 119, "track_number": 1},
+      {"song_id": 313, "album_id": 118, "track_number": 5},
+      {"song_id": 314, "album_id": 119, "track_number": 3},
+      {"song_id": 316, "album_id": 118, "track_number": 1},
+      {"song_id": 317, "album_id": 119, "track_number": 2},
+      {"song_id": 318, "album_id": 119, "track_number": 4}
+    ],
+    "Album_Genre": [
+      {"album_id": 117, "genre_id": 7},
+      {"album_id": 117, "genre_id": 41},
+      {"album_id": 117, "genre_id": 50},
+      {"album_id": 118, "genre_id": 7},
+      {"album_id": 118, "genre_id": 41},
+      {"album_id": 118, "genre_id": 50},
+      {"album_id": 119, "genre_id": 7},
+      {"album_id": 119, "genre_id": 41},
+      {"album_id": 119, "genre_id": 50}
+    ],
+    "Song_Genre": [
+      {"song_id": 304, "genre_id": 7},
+      {"song_id": 304, "genre_id": 50},
+      {"song_id": 305, "genre_id": 7},
+      {"song_id": 305, "genre_id": 41},
+      {"song_id": 306, "genre_id": 7},
+      {"song_id": 306, "genre_id": 41},
+      {"song_id": 307, "genre_id": 7},
+      {"song_id": 307, "genre_id": 50},
+      {"song_id": 308, "genre_id": 7},
+      {"song_id": 308, "genre_id": 50},
+      {"song_id": 309, "genre_id": 7},
+      {"song_id": 309, "genre_id": 50},
+      {"song_id": 310, "genre_id": 7},
+      {"song_id": 310, "genre_id": 50},
+      {"song_id": 311, "genre_id": 7},
+      {"song_id": 311, "genre_id": 50},
+      {"song_id": 312, "genre_id": 7},
+      {"song_id": 312, "genre_id": 41},
+      {"song_id": 313, "genre_id": 7},
+      {"song_id": 313, "genre_id": 41},
+      {"song_id": 314, "genre_id": 7},
+      {"song_id": 314, "genre_id": 50},
+      {"song_id": 315, "genre_id": 7},
+      {"song_id": 315, "genre_id": 41},
+      {"song_id": 316, "genre_id": 7},
+      {"song_id": 316, "genre_id": 41},
+      {"song_id": 317, "genre_id": 7},
+      {"song_id": 317, "genre_id": 50},
+      {"song_id": 318, "genre_id": 7},
+      {"song_id": 318, "genre_id": 50}
+    ],
+    "Song_Artist": [
+      {"song_id": 304, "artist_id": 25},
+      {"song_id": 305, "artist_id": 25},
+      {"song_id": 306, "artist_id": 25},
+      {"song_id": 307, "artist_id": 25},
+      {"song_id": 308, "artist_id": 25},
+      {"song_id": 309, "artist_id": 25},
+      {"song_id": 310, "artist_id": 25},
+      {"song_id": 311, "artist_id": 25},
+      {"song_id": 312, "artist_id": 25},
+      {"song_id": 313, "artist_id": 25},
+      {"song_id": 314, "artist_id": 25},
+      {"song_id": 315, "artist_id": 25},
+      {"song_id": 316, "artist_id": 25},
+      {"song_id": 317, "artist_id": 25},
+      {"song_id": 318, "artist_id": 25}
+    ]
+}

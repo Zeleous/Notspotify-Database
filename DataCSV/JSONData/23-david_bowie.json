@@ -1,0 +1,195 @@
+{
+    "Artist": [
+      {
+        "artist_id": 23,
+        "stage_name": "David Bowie"
+      }
+    ],
+    "Album": [
+      {
+        "album_id": 111,
+        "name": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars",
+        "release_date": "1972-06-16"
+      },
+      {
+        "album_id": 112,
+        "name": "Heroes",
+        "release_date": "1977-10-14"
+      },
+      {
+        "album_id": 113,
+        "name": "Station to Station",
+        "release_date": "1976-01-23"
+      }
+    ],
+    "Song": [
+      {
+        "song_id": 274,
+        "title": "Starman",
+        "release_date": "1972-04-28",
+        "length": "4:16"
+      },
+      {
+        "song_id": 275,
+        "title": "Heroes",
+        "release_date": "1977-09-23",
+        "length": "6:07"
+      },
+      {
+        "song_id": 276,
+        "title": "Life on Mars?",
+        "release_date": "1971-06-22",
+        "length": "3:48"
+      },
+      {
+        "song_id": 277,
+        "title": "Space Oddity",
+        "release_date": "1969-07-11",
+        "length": "5:13"
+      },
+      {
+        "song_id": 278,
+        "title": "Changes",
+        "release_date": "1972-01-07",
+        "length": "3:37"
+      },
+      {
+        "song_id": 279,
+        "title": "Suffragette City",
+        "release_date": "1972-06-16",
+        "length": "3:25"
+      },
+      {
+        "song_id": 280,
+        "title": "Ziggy Stardust",
+        "release_date": "1972-06-16",
+        "length": "3:13"
+      },
+      {
+        "song_id": 281,
+        "title": "Station to Station",
+        "release_date": "1976-01-23",
+        "length": "10:14"
+      },
+      {
+        "song_id": 282,
+        "title": "Sound and Vision",
+        "release_date": "1977-01-14",
+        "length": "3:03"
+      },
+      {
+        "song_id": 283,
+        "title": "Rebel Rebel",
+        "release_date": "1974-02-15",
+        "length": "4:30"
+      },
+      {
+        "song_id": 284,
+        "title": "Golden Years",
+        "release_date": "1975-11-21",
+        "length": "4:00"
+      },
+      {
+        "song_id": 285,
+        "title": "Beauty and the Beast",
+        "release_date": "1977-10-14",
+        "length": "3:32"
+      },
+      {
+        "song_id": 286,
+        "title": "TVC 15",
+        "release_date": "1976-01-23",
+        "length": "5:33"
+      },
+      {
+        "song_id": 287,
+        "title": "Stay",
+        "release_date": "1976-01-23",
+        "length": "6:15"
+      },
+      {
+        "song_id": 288,
+        "title": "Wild is the Wind",
+        "release_date": "1976-01-23",
+        "length": "6:02"
+      }
+    ],
+    "Album_Artist": [
+      {"album_id": 111, "artist_id": 23},
+      {"album_id": 112, "artist_id": 23},
+      {"album_id": 113, "artist_id": 23}
+    ],
+    "Song_Album": [
+      {"song_id": 274, "album_id": 111, "track_number": 3},
+      {"song_id": 275, "album_id": 112, "track_number": 3},
+      {"song_id": 279, "album_id": 111, "track_number": 11},
+      {"song_id": 280, "album_id": 111, "track_number": 4},
+      {"song_id": 281, "album_id": 113, "track_number": 1},
+      {"song_id": 282, "album_id": 112, "track_number": 1},
+      {"song_id": 284, "album_id": 113, "track_number": 3},
+      {"song_id": 285, "album_id": 112, "track_number": 1},
+      {"song_id": 286, "album_id": 113, "track_number": 4},
+      {"song_id": 287, "album_id": 113, "track_number": 5},
+      {"song_id": 288, "album_id": 113, "track_number": 6}
+    ],
+    "Album_Genre": [
+      {"album_id": 111, "genre_id": 2},
+      {"album_id": 111, "genre_id": 34},
+      {"album_id": 111, "genre_id": 16},
+      {"album_id": 112, "genre_id": 2},
+      {"album_id": 112, "genre_id": 33},
+      {"album_id": 112, "genre_id": 16},
+      {"album_id": 113, "genre_id": 2},
+      {"album_id": 113, "genre_id": 15},
+      {"album_id": 113, "genre_id": 16}
+    ],
+    "Song_Genre": [
+      {"song_id": 274, "genre_id": 2},
+      {"song_id": 274, "genre_id": 34},
+      {"song_id": 275, "genre_id": 2},
+      {"song_id": 275, "genre_id": 33},
+      {"song_id": 276, "genre_id": 2},
+      {"song_id": 276, "genre_id": 16},
+      {"song_id": 277, "genre_id": 2},
+      {"song_id": 277, "genre_id": 34},
+      {"song_id": 278, "genre_id": 2},
+      {"song_id": 278, "genre_id": 16},
+      {"song_id": 279, "genre_id": 2},
+      {"song_id": 279, "genre_id": 34},
+      {"song_id": 280, "genre_id": 2},
+      {"song_id": 280, "genre_id": 34},
+      {"song_id": 281, "genre_id": 2},
+      {"song_id": 281, "genre_id": 15},
+      {"song_id": 282, "genre_id": 2},
+      {"song_id": 282, "genre_id": 33},
+      {"song_id": 283, "genre_id": 2},
+      {"song_id": 283, "genre_id": 16},
+      {"song_id": 284, "genre_id": 15},
+      {"song_id": 284, "genre_id": 2},
+      {"song_id": 285, "genre_id": 2},
+      {"song_id": 285, "genre_id": 33},
+      {"song_id": 286, "genre_id": 2},
+      {"song_id": 286, "genre_id": 15},
+      {"song_id": 287, "genre_id": 2},
+      {"song_id": 287, "genre_id": 15},
+      {"song_id": 288, "genre_id": 2},
+      {"song_id": 288, "genre_id": 16}
+    ],
+    "Song_Artist": [
+      {"song_id": 274, "artist_id": 23},
+      {"song_id": 275, "artist_id": 23},
+      {"song_id": 276, "artist_id": 23},
+      {"song_id": 277, "artist_id": 23},
+      {"song_id": 278, "artist_id": 23},
+      {"song_id": 279, "artist_id": 23},
+      {"song_id": 280, "artist_id": 23},
+      {"song_id": 281, "artist_id": 23},
+      {"song_id": 282, "artist_id": 23},
+      {"song_id": 283, "artist_id": 23},
+      {"song_id": 284, "artist_id": 23},
+      {"song_id": 285, "artist_id": 23},
+      {"song_id": 286, "artist_id": 23},
+      {"song_id": 287, "artist_id": 23},
+      {"song_id": 288, "artist_id": 23}
+    ]
+}

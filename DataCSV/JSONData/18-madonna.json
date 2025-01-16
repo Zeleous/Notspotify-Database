@@ -1,0 +1,223 @@
+{
+    "Artist": [
+      {
+        "artist_id": 18,
+        "stage_name": "Madonna"
+      }
+    ],
+    "Album": [
+      {
+        "album_id": 86,
+        "name": "Like a Virgin",
+        "release_date": "1984-11-12"
+      },
+      {
+        "album_id": 87,
+        "name": "True Blue",
+        "release_date": "1986-06-30"
+      },
+      {
+        "album_id": 88,
+        "name": "Like a Prayer",
+        "release_date": "1989-03-21"
+      },
+      {
+        "album_id": 89,
+        "name": "Ray of Light",
+        "release_date": "1998-02-22"
+      },
+      {
+        "album_id": 90,
+        "name": "Confessions on a Dance Floor",
+        "release_date": "2005-11-11"
+      }
+    ],
+    "Song": [
+      {
+        "song_id": 199,
+        "title": "Like a Virgin",
+        "release_date": "1984-11-06",
+        "length": "3:38"
+      },
+      {
+        "song_id": 200,
+        "title": "Material Girl",
+        "release_date": "1985-01-23",
+        "length": "4:00"
+      },
+      {
+        "song_id": 201,
+        "title": "Into the Groove",
+        "release_date": "1985-07-15",
+        "length": "4:43"
+      },
+      {
+        "song_id": 202,
+        "title": "Papa Don't Preach",
+        "release_date": "1986-06-11",
+        "length": "4:29"
+      },
+      {
+        "song_id": 203,
+        "title": "Open Your Heart",
+        "release_date": "1986-11-19",
+        "length": "4:13"
+      },
+      {
+        "song_id": 204,
+        "title": "La Isla Bonita",
+        "release_date": "1987-02-25",
+        "length": "4:02"
+      },
+      {
+        "song_id": 205,
+        "title": "Like a Prayer",
+        "release_date": "1989-03-03",
+        "length": "5:39"
+      },
+      {
+        "song_id": 206,
+        "title": "Express Yourself",
+        "release_date": "1989-05-09",
+        "length": "4:39"
+      },
+      {
+        "song_id": 207,
+        "title": "Vogue",
+        "release_date": "1990-03-27",
+        "length": "4:50"
+      },
+      {
+        "song_id": 208,
+        "title": "Ray of Light",
+        "release_date": "1998-05-06",
+        "length": "5:34"
+      },
+      {
+        "song_id": 209,
+        "title": "Frozen",
+        "release_date": "1998-02-23",
+        "length": "6:12"
+      },
+      {
+        "song_id": 210,
+        "title": "Music",
+        "release_date": "2000-08-21",
+        "length": "3:45"
+      },
+      {
+        "song_id": 211,
+        "title": "Hung Up",
+        "release_date": "2005-10-17",
+        "length": "5:37"
+      },
+      {
+        "song_id": 212,
+        "title": "Sorry",
+        "release_date": "2006-02-07",
+        "length": "4:41"
+      },
+      {
+        "song_id": 213,
+        "title": "4 Minutes",
+        "release_date": "2008-03-17",
+        "length": "4:04"
+      }
+    ],
+    "Album_Artist": [
+      {"album_id": 86, "artist_id": 18},
+      {"album_id": 87, "artist_id": 18},
+      {"album_id": 88, "artist_id": 18},
+      {"album_id": 89, "artist_id": 18},
+      {"album_id": 90, "artist_id": 18}
+    ],
+    "Song_Album": [
+      {"song_id": 199, "album_id": 86, "track_number": 1},
+      {"song_id": 200, "album_id": 86, "track_number": 3},
+      {"song_id": 201, "album_id": 86, "track_number": 6},
+      {"song_id": 202, "album_id": 87, "track_number": 1},
+      {"song_id": 203, "album_id": 87, "track_number": 4},
+      {"song_id": 204, "album_id": 87, "track_number": 5},
+      {"song_id": 205, "album_id": 88, "track_number": 1},
+      {"song_id": 206, "album_id": 88, "track_number": 2},
+      {"song_id": 207, "album_id": 88, "track_number": 8},
+      {"song_id": 208, "album_id": 89, "track_number": 2},
+      {"song_id": 209, "album_id": 89, "track_number": 1},
+      {"song_id": 210, "album_id": 89, "track_number": 3},
+      {"song_id": 211, "album_id": 90, "track_number": 1},
+      {"song_id": 212, "album_id": 90, "track_number": 2},
+      {"song_id": 213, "album_id": 90, "track_number": 6}
+    ],
+    "Album_Genre": [
+      {"album_id": 86, "genre_id": 1},
+      {"album_id": 86, "genre_id": 20},
+      {"album_id": 87, "genre_id": 1},
+      {"album_id": 87, "genre_id": 20},
+      {"album_id": 88, "genre_id": 1},
+      {"album_id": 88, "genre_id": 4},
+      {"album_id": 89, "genre_id": 1},
+      {"album_id": 89, "genre_id": 6},
+      {"album_id": 89, "genre_id": 19},
+      {"album_id": 90, "genre_id": 1},
+      {"album_id": 90, "genre_id": 19},
+      {"album_id": 90, "genre_id": 6},
+      {"album_id": 90, "genre_id": 20}
+    ],
+    "Song_Genre": [
+      {"song_id": 199, "genre_id": 1},
+      {"song_id": 199, "genre_id": 20},
+      {"song_id": 200, "genre_id": 1},
+      {"song_id": 200, "genre_id": 20},
+      {"song_id": 201, "genre_id": 1},
+      {"song_id": 201, "genre_id": 20},
+      {"song_id": 201, "genre_id": 19},
+      {"song_id": 202, "genre_id": 1},
+      {"song_id": 203, "genre_id": 1},
+      {"song_id": 203, "genre_id": 20},
+      {"song_id": 204, "genre_id": 1},
+      {"song_id": 204, "genre_id": 45},
+      {"song_id": 205, "genre_id": 1},
+      {"song_id": 205, "genre_id": 4},
+      {"song_id": 205, "genre_id": 21},
+      {"song_id": 206, "genre_id": 1},
+      {"song_id": 206, "genre_id": 20},
+      {"song_id": 207, "genre_id": 1},
+      {"song_id": 207, "genre_id": 19},
+      {"song_id": 207, "genre_id": 20},
+      {"song_id": 208, "genre_id": 1},
+      {"song_id": 208, "genre_id": 6},
+      {"song_id": 208, "genre_id": 19},
+      {"song_id": 209, "genre_id": 1},
+      {"song_id": 209, "genre_id": 6},
+      {"song_id": 209, "genre_id": 23},
+      {"song_id": 210, "genre_id": 1},
+      {"song_id": 210, "genre_id": 6},
+      {"song_id": 210, "genre_id": 19},
+      {"song_id": 211, "genre_id": 1},
+      {"song_id": 211, "genre_id": 19},
+      {"song_id": 211, "genre_id": 20},
+      {"song_id": 212, "genre_id": 1},
+      {"song_id": 212, "genre_id": 19},
+      {"song_id": 212, "genre_id": 6},
+      {"song_id": 213, "genre_id": 1},
+      {"song_id": 213, "genre_id": 19},
+      {"song_id": 213, "genre_id": 3}
+    ],
+    "Song_Artist": [
+      {"song_id": 199, "artist_id": 18},
+      {"song_id": 200, "artist_id": 18},
+      {"song_id": 201, "artist_id": 18},
+      {"song_id": 202, "artist_id": 18},
+      {"song_id": 203, "artist_id": 18},
+      {"song_id": 204, "artist_id": 18},
+      {"song_id": 205, "artist_id": 18},
+      {"song_id": 206, "artist_id": 18},
+      {"song_id": 207, "artist_id": 18},
+      {"song_id": 208, "artist_id": 18},
+      {"song_id": 209, "artist_id": 18},
+      {"song_id": 210, "artist_id": 18},
+      {"song_id": 211, "artist_id": 18},
+      {"song_id": 212, "artist_id": 18},
+      {"song_id": 213, "artist_id": 18}
+    ]
+}

@@ -1,0 +1,199 @@
+{
+    "Artist": [
+      {
+        "artist_id": 24,
+        "stage_name": "Stevie Wonder"
+      }
+    ],
+    "Album": [
+      {
+        "album_id": 114,
+        "name": "Songs in the Key of Life",
+        "release_date": "1976-09-28"
+      },
+      {
+        "album_id": 115,
+        "name": "Innervisions",
+        "release_date": "1973-08-03"
+      },
+      {
+        "album_id": 116,
+        "name": "Talking Book",
+        "release_date": "1972-10-28"
+      }
+    ],
+    "Song": [
+      {
+        "song_id": 289,
+        "title": "Superstition",
+        "release_date": "1972-10-28",
+        "length": "4:26"
+      },
+      {
+        "song_id": 290,
+        "title": "Sir Duke",
+        "release_date": "1976-09-28",
+        "length": "3:52"
+      },
+      {
+        "song_id": 291,
+        "title": "I Wish",
+        "release_date": "1976-09-28",
+        "length": "4:12"
+      },
+      {
+        "song_id": 292,
+        "title": "Isn't She Lovely",
+        "release_date": "1976-09-28",
+        "length": "6:34"
+      },
+      {
+        "song_id": 293,
+        "title": "Higher Ground",
+        "release_date": "1973-08-03",
+        "length": "3:42"
+      },
+      {
+        "song_id": 294,
+        "title": "Living for the City",
+        "release_date": "1973-08-03",
+        "length": "7:22"
+      },
+      {
+        "song_id": 295,
+        "title": "You Are the Sunshine of My Life",
+        "release_date": "1972-10-28",
+        "length": "2:58"
+      },
+      {
+        "song_id": 296,
+        "title": "As",
+        "release_date": "1976-09-28",
+        "length": "7:08"
+      },
+      {
+        "song_id": 297,
+        "title": "He's Misstra Know-It-All",
+        "release_date": "1973-08-03",
+        "length": "5:35"
+      },
+      {
+        "song_id": 298,
+        "title": "Too High",
+        "release_date": "1973-08-03",
+        "length": "4:36"
+      },
+      {
+        "song_id": 299,
+        "title": "I Believe (When I Fall in Love It Will Be Forever)",
+        "release_date": "1972-10-28",
+        "length": "4:51"
+      },
+      {
+        "song_id": 300,
+        "title": "Pastime Paradise",
+        "release_date": "1976-09-28",
+        "length": "3:27"
+      },
+      {
+        "song_id": 301,
+        "title": "Golden Lady",
+        "release_date": "1973-08-03",
+        "length": "4:58"
+      },
+      {
+        "song_id": 302,
+        "title": "Maybe Your Baby",
+        "release_date": "1972-10-28",
+        "length": "6:51"
+      },
+      {
+        "song_id": 303,
+        "title": "Another Star",
+        "release_date": "1976-09-28",
+        "length": "8:28"
+      }
+    ],
+    "Album_Artist": [
+      {"album_id": 114, "artist_id": 24},
+      {"album_id": 115, "artist_id": 24},
+      {"album_id": 116, "artist_id": 24}
+    ],
+    "Song_Album": [
+      {"song_id": 289, "album_id": 116, "track_number": 6},
+      {"song_id": 290, "album_id": 114, "track_number": 3},
+      {"song_id": 291, "album_id": 114, "track_number": 5},
+      {"song_id": 292, "album_id": 114, "track_number": 9},
+      {"song_id": 293, "album_id": 115, "track_number": 4},
+      {"song_id": 294, "album_id": 115, "track_number": 3},
+      {"song_id": 295, "album_id": 116, "track_number": 1},
+      {"song_id": 296, "album_id": 114, "track_number": 17},
+      {"song_id": 297, "album_id": 115, "track_number": 9},
+      {"song_id": 298, "album_id": 115, "track_number": 1},
+      {"song_id": 299, "album_id": 116, "track_number": 10},
+      {"song_id": 300, "album_id": 114, "track_number": 8},
+      {"song_id": 301, "album_id": 115, "track_number": 6},
+      {"song_id": 302, "album_id": 116, "track_number": 2},
+      {"song_id": 303, "album_id": 114, "track_number": 21}
+    ],
+    "Album_Genre": [
+      {"album_id": 114, "genre_id": 14},
+      {"album_id": 114, "genre_id": 15},
+      {"album_id": 114, "genre_id": 4},
+      {"album_id": 115, "genre_id": 14},
+      {"album_id": 115, "genre_id": 15},
+      {"album_id": 115, "genre_id": 4},
+      {"album_id": 116, "genre_id": 14},
+      {"album_id": 116, "genre_id": 15},
+      {"album_id": 116, "genre_id": 4}
+    ],
+    "Song_Genre": [
+      {"song_id": 289, "genre_id": 15},
+      {"song_id": 289, "genre_id": 14},
+      {"song_id": 290, "genre_id": 15},
+      {"song_id": 290, "genre_id": 14},
+      {"song_id": 291, "genre_id": 15},
+      {"song_id": 291, "genre_id": 14},
+      {"song_id": 292, "genre_id": 14},
+      {"song_id": 292, "genre_id": 4},
+      {"song_id": 293, "genre_id": 15},
+      {"song_id": 293, "genre_id": 14},
+      {"song_id": 294, "genre_id": 14},
+      {"song_id": 294, "genre_id": 4},
+      {"song_id": 295, "genre_id": 14},
+      {"song_id": 295, "genre_id": 4},
+      {"song_id": 296, "genre_id": 14},
+      {"song_id": 296, "genre_id": 15},
+      {"song_id": 297, "genre_id": 14},
+      {"song_id": 297, "genre_id": 15},
+      {"song_id": 298, "genre_id": 15},
+      {"song_id": 298, "genre_id": 14},
+      {"song_id": 299, "genre_id": 14},
+      {"song_id": 299, "genre_id": 4},
+      {"song_id": 300, "genre_id": 14},
+      {"song_id": 300, "genre_id": 15},
+      {"song_id": 301, "genre_id": 14},
+      {"song_id": 301, "genre_id": 4},
+      {"song_id": 302, "genre_id": 15},
+      {"song_id": 302, "genre_id": 14},
+      {"song_id": 303, "genre_id": 14},
+      {"song_id": 303, "genre_id": 15}
+    ],
+    "Song_Artist": [
+      {"song_id": 289, "artist_id": 24},
+      {"song_id": 290, "artist_id": 24},
+      {"song_id": 291, "artist_id": 24},
+      {"song_id": 292, "artist_id": 24},
+      {"song_id": 293, "artist_id": 24},
+      {"song_id": 294, "artist_id": 24},
+      {"song_id": 295, "artist_id": 24},
+      {"song_id": 296, "artist_id": 24},
+      {"song_id": 297, "artist_id": 24},
+      {"song_id": 298, "artist_id": 24},
+      {"song_id": 299, "artist_id": 24},
+      {"song_id": 300, "artist_id": 24},
+      {"song_id": 301, "artist_id": 24},
+      {"song_id": 302, "artist_id": 24},
+      {"song_id": 303, "artist_id": 24}
+    ]
+}

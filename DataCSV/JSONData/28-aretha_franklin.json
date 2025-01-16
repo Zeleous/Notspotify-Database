@@ -1,0 +1,197 @@
+{
+    "Artist": [
+      {
+        "artist_id": 28,
+        "stage_name": "Aretha Franklin"
+      }
+    ],
+    "Album": [
+      {
+        "album_id": 126,
+        "name": "I Never Loved a Man the Way I Love You",
+        "release_date": "1967-03-10"
+      },
+      {
+        "album_id": 127,
+        "name": "Lady Soul",
+        "release_date": "1968-01-22"
+      },
+      {
+        "album_id": 128,
+        "name": "Amazing Grace",
+        "release_date": "1972-06-01"
+      }
+    ],
+    "Song": [
+      {
+        "song_id": 349,
+        "title": "Respect",
+        "release_date": "1967-04-29",
+        "length": "2:28"
+      },
+      {
+        "song_id": 350,
+        "title": "Natural Woman",
+        "release_date": "1967-09-15",
+        "length": "2:45"
+      },
+      {
+        "song_id": 351,
+        "title": "Chain of Fools",
+        "release_date": "1967-11-22",
+        "length": "2:45"
+      },
+      {
+        "song_id": 352,
+        "title": "I Never Loved a Man (The Way I Love You)",
+        "release_date": "1967-03-10",
+        "length": "2:42"
+      },
+      {
+        "song_id": 353,
+        "title": "Think",
+        "release_date": "1968-05-02",
+        "length": "2:19"
+      },
+      {
+        "song_id": 354,
+        "title": "Amazing Grace",
+        "release_date": "1972-06-01",
+        "length": "7:02"
+      },
+      {
+        "song_id": 355,
+        "title": "I Say a Little Prayer",
+        "release_date": "1968-01-22",
+        "length": "3:32"
+      },
+      {
+        "song_id": 356,
+        "title": "Mary, Don't You Weep",
+        "release_date": "1972-06-01",
+        "length": "8:28"
+      },
+      {
+        "song_id": 357,
+        "title": "Do Right Woman, Do Right Man",
+        "release_date": "1967-03-10",
+        "length": "3:16"
+      },
+      {
+        "song_id": 358,
+        "title": "Since You've Been Gone (Sweet Sweet Baby)",
+        "release_date": "1968-01-22",
+        "length": "2:23"
+      },
+      {
+        "song_id": 359,
+        "title": "Precious Lord, Take My Hand",
+        "release_date": "1972-06-01",
+        "length": "5:36"
+      },
+      {
+        "song_id": 360,
+        "title": "People Get Ready",
+        "release_date": "1967-03-10",
+        "length": "3:39"
+      },
+      {
+        "song_id": 361,
+        "title": "Good to Me as I Am to You",
+        "release_date": "1968-01-22",
+        "length": "3:56"
+      },
+      {
+        "song_id": 362,
+        "title": "Wholy Holy",
+        "release_date": "1972-06-01",
+        "length": "5:30"
+      },
+      {
+        "song_id": 363,
+        "title": "Money Won't Change You",
+        "release_date": "1968-01-22",
+        "length": "2:47"
+      }
+    ],
+    "Album_Artist": [
+      {"album_id": 126, "artist_id": 28},
+      {"album_id": 127, "artist_id": 28},
+      {"album_id": 128, "artist_id": 28}
+    ],
+    "Song_Album": [
+      {"song_id": 349, "album_id": 126, "track_number": 1},
+      {"song_id": 352, "album_id": 126, "track_number": 2},
+      {"song_id": 357, "album_id": 126, "track_number": 3},
+      {"song_id": 360, "album_id": 126, "track_number": 7},
+      {"song_id": 351, "album_id": 127, "track_number": 1},
+      {"song_id": 355, "album_id": 127, "track_number": 3},
+      {"song_id": 358, "album_id": 127, "track_number": 4},
+      {"song_id": 361, "album_id": 127, "track_number": 5},
+      {"song_id": 363, "album_id": 127, "track_number": 6},
+      {"song_id": 354, "album_id": 128, "track_number": 1},
+      {"song_id": 356, "album_id": 128, "track_number": 3},
+      {"song_id": 359, "album_id": 128, "track_number": 6},
+      {"song_id": 362, "album_id": 128, "track_number": 8}
+    ],
+    "Album_Genre": [
+      {"album_id": 126, "genre_id": 14},
+      {"album_id": 126, "genre_id": 4},
+      {"album_id": 126, "genre_id": 46},
+      {"album_id": 127, "genre_id": 14},
+      {"album_id": 127, "genre_id": 4},
+      {"album_id": 127, "genre_id": 46},
+      {"album_id": 128, "genre_id": 21},
+      {"album_id": 128, "genre_id": 14},
+      {"album_id": 128, "genre_id": 4}
+    ],
+    "Song_Genre": [
+      {"song_id": 349, "genre_id": 14},
+      {"song_id": 349, "genre_id": 46},
+      {"song_id": 350, "genre_id": 14},
+      {"song_id": 350, "genre_id": 4},
+      {"song_id": 351, "genre_id": 14},
+      {"song_id": 351, "genre_id": 4},
+      {"song_id": 352, "genre_id": 14},
+      {"song_id": 352, "genre_id": 4},
+      {"song_id": 353, "genre_id": 14},
+      {"song_id": 353, "genre_id": 46},
+      {"song_id": 354, "genre_id": 21},
+      {"song_id": 354, "genre_id": 14},
+      {"song_id": 355, "genre_id": 14},
+      {"song_id": 355, "genre_id": 4},
+      {"song_id": 356, "genre_id": 21},
+      {"song_id": 356, "genre_id": 14},
+      {"song_id": 357, "genre_id": 14},
+      {"song_id": 357, "genre_id": 4},
+      {"song_id": 358, "genre_id": 14},
+      {"song_id": 358, "genre_id": 46},
+      {"song_id": 359, "genre_id": 21},
+      {"song_id": 359, "genre_id": 14},
+      {"song_id": 360, "genre_id": 14},
+      {"song_id": 360, "genre_id": 4},
+      {"song_id": 361, "genre_id": 14},
+      {"song_id": 361, "genre_id": 4},
+      {"song_id": 362, "genre_id": 21},
+      {"song_id": 362, "genre_id": 14},
+      {"song_id": 363, "genre_id": 14},
+      {"song_id": 363, "genre_id": 46}
+    ],
+    "Song_Artist": [
+      {"song_id": 349, "artist_id": 28},
+      {"song_id": 350, "artist_id": 28},
+      {"song_id": 351, "artist_id": 28},
+      {"song_id": 352, "artist_id": 28},
+      {"song_id": 353, "artist_id": 28},
+      {"song_id": 354, "artist_id": 28},
+      {"song_id": 355, "artist_id": 28},
+      {"song_id": 356, "artist_id": 28},
+      {"song_id": 357, "artist_id": 28},
+      {"song_id": 358, "artist_id": 28},
+      {"song_id": 359, "artist_id": 28},
+      {"song_id": 360, "artist_id": 28},
+      {"song_id": 361, "artist_id": 28},
+      {"song_id": 362, "artist_id": 28},
+      {"song_id": 363, "artist_id": 28}
+    ]
+}

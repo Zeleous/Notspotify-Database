@@ -1,0 +1,229 @@
+{
+    "Artist": [
+      {
+        "artist_id": 21,
+        "stage_name": "Pink Floyd"
+      }
+    ],
+    "Album": [
+      {
+        "album_id": 101,
+        "name": "The Dark Side of the Moon",
+        "release_date": "1973-03-01"
+      },
+      {
+        "album_id": 102,
+        "name": "The Wall",
+        "release_date": "1979-11-30"
+      },
+      {
+        "album_id": 103,
+        "name": "Wish You Were Here",
+        "release_date": "1975-09-12"
+      },
+      {
+        "album_id": 104,
+        "name": "Animals",
+        "release_date": "1977-01-23"
+      },
+      {
+        "album_id": 105,
+        "name": "Meddle",
+        "release_date": "1971-10-31"
+      }
+    ],
+    "Song": [
+      {
+        "song_id": 244,
+        "title": "Money",
+        "release_date": "1973-05-07",
+        "length": "6:23"
+      },
+      {
+        "song_id": 245,
+        "title": "Time",
+        "release_date": "1973-03-01",
+        "length": "7:01"
+      },
+      {
+        "song_id": 246,
+        "title": "Us and Them",
+        "release_date": "1973-03-01",
+        "length": "7:49"
+      },
+      {
+        "song_id": 247,
+        "title": "Another Brick in the Wall (Part 2)",
+        "release_date": "1979-11-16",
+        "length": "3:59"
+      },
+      {
+        "song_id": 248,
+        "title": "Comfortably Numb",
+        "release_date": "1980-06-23",
+        "length": "6:23"
+      },
+      {
+        "song_id": 249,
+        "title": "Hey You",
+        "release_date": "1979-11-30",
+        "length": "4:40"
+      },
+      {
+        "song_id": 250,
+        "title": "Wish You Were Here",
+        "release_date": "1975-09-12",
+        "length": "5:40"
+      },
+      {
+        "song_id": 251,
+        "title": "Shine On You Crazy Diamond (Parts I-V)",
+        "release_date": "1975-09-12",
+        "length": "13:32"
+      },
+      {
+        "song_id": 252,
+        "title": "Have a Cigar",
+        "release_date": "1975-09-12",
+        "length": "5:08"
+      },
+      {
+        "song_id": 253,
+        "title": "Dogs",
+        "release_date": "1977-01-23",
+        "length": "17:05"
+      },
+      {
+        "song_id": 254,
+        "title": "Pigs (Three Different Ones)",
+        "release_date": "1977-01-23",
+        "length": "11:25"
+      },
+      {
+        "song_id": 255,
+        "title": "Echoes",
+        "release_date": "1971-10-31",
+        "length": "23:31"
+      },
+      {
+        "song_id": 256,
+        "title": "Brain Damage",
+        "release_date": "1973-03-01",
+        "length": "3:49"
+      },
+      {
+        "song_id": 257,
+        "title": "Eclipse",
+        "release_date": "1973-03-01",
+        "length": "2:03"
+      },
+      {
+        "song_id": 258,
+        "title": "Breathe",
+        "release_date": "1973-03-01",
+        "length": "2:43"
+      }
+    ],
+    "Album_Artist": [
+      {"album_id": 101, "artist_id": 21},
+      {"album_id": 102, "artist_id": 21},
+      {"album_id": 103, "artist_id": 21},
+      {"album_id": 104, "artist_id": 21},
+      {"album_id": 105, "artist_id": 21}
+    ],
+    "Song_Album": [
+      {"song_id": 244, "album_id": 101, "track_number": 6},
+      {"song_id": 245, "album_id": 101, "track_number": 4},
+      {"song_id": 246, "album_id": 101, "track_number": 7},
+      {"song_id": 247, "album_id": 102, "track_number": 5},
+      {"song_id": 248, "album_id": 102, "track_number": 20},
+      {"song_id": 249, "album_id": 102, "track_number": 12},
+      {"song_id": 250, "album_id": 103, "track_number": 4},
+      {"song_id": 251, "album_id": 103, "track_number": 1},
+      {"song_id": 252, "album_id": 103, "track_number": 3},
+      {"song_id": 253, "album_id": 104, "track_number": 1},
+      {"song_id": 254, "album_id": 104, "track_number": 2},
+      {"song_id": 255, "album_id": 105, "track_number": 6},
+      {"song_id": 256, "album_id": 101, "track_number": 9},
+      {"song_id": 257, "album_id": 101, "track_number": 10},
+      {"song_id": 258, "album_id": 101, "track_number": 2}
+    ],
+    "Album_Genre": [
+      {"album_id": 101, "genre_id": 2},
+      {"album_id": 101, "genre_id": 34},
+      {"album_id": 101, "genre_id": 42},
+      {"album_id": 102, "genre_id": 2},
+      {"album_id": 102, "genre_id": 42},
+      {"album_id": 102, "genre_id": 34},
+      {"album_id": 103, "genre_id": 2},
+      {"album_id": 103, "genre_id": 42},
+      {"album_id": 103, "genre_id": 34},
+      {"album_id": 104, "genre_id": 2},
+      {"album_id": 104, "genre_id": 42},
+      {"album_id": 104, "genre_id": 34},
+      {"album_id": 105, "genre_id": 2},
+      {"album_id": 105, "genre_id": 34},
+      {"album_id": 105, "genre_id": 42}
+    ],
+    "Song_Genre": [
+      {"song_id": 244, "genre_id": 2},
+      {"song_id": 244, "genre_id": 42},
+      {"song_id": 244, "genre_id": 34},
+      {"song_id": 245, "genre_id": 2},
+      {"song_id": 245, "genre_id": 42},
+      {"song_id": 245, "genre_id": 34},
+      {"song_id": 246, "genre_id": 2},
+      {"song_id": 246, "genre_id": 42},
+      {"song_id": 246, "genre_id": 23},
+      {"song_id": 247, "genre_id": 2},
+      {"song_id": 247, "genre_id": 42},
+      {"song_id": 248, "genre_id": 2},
+      {"song_id": 248, "genre_id": 42},
+      {"song_id": 248, "genre_id": 34},
+      {"song_id": 249, "genre_id": 2},
+      {"song_id": 249, "genre_id": 42},
+      {"song_id": 250, "genre_id": 2},
+      {"song_id": 250, "genre_id": 42},
+      {"song_id": 251, "genre_id": 2},
+      {"song_id": 251, "genre_id": 42},
+      {"song_id": 251, "genre_id": 34},
+      {"song_id": 252, "genre_id": 2},
+      {"song_id": 252, "genre_id": 42},
+      {"song_id": 253, "genre_id": 2},
+      {"song_id": 253, "genre_id": 42},
+      {"song_id": 253, "genre_id": 34},
+      {"song_id": 254, "genre_id": 2},
+      {"song_id": 254, "genre_id": 42},
+      {"song_id": 254, "genre_id": 34},
+      {"song_id": 255, "genre_id": 2},
+      {"song_id": 255, "genre_id": 42},
+      {"song_id": 255, "genre_id": 34},
+      {"song_id": 255, "genre_id": 23},
+      {"song_id": 256, "genre_id": 2},
+      {"song_id": 256, "genre_id": 42},
+      {"song_id": 256, "genre_id": 34},
+      {"song_id": 257, "genre_id": 2},
+      {"song_id": 257, "genre_id": 42},
+      {"song_id": 257, "genre_id": 34},
+      {"song_id": 258, "genre_id": 2},
+      {"song_id": 258, "genre_id": 42},
+      {"song_id": 258, "genre_id": 23}
+    ],
+    "Song_Artist": [
+      {"song_id": 244, "artist_id": 21},
+      {"song_id": 245, "artist_id": 21},
+      {"song_id": 246, "artist_id": 21},
+      {"song_id": 247, "artist_id": 21},
+      {"song_id": 248, "artist_id": 21},
+      {"song_id": 249, "artist_id": 21},
+      {"song_id": 250, "artist_id": 21},
+      {"song_id": 251, "artist_id": 21},
+      {"song_id": 252, "artist_id": 21},
+      {"song_id": 253, "artist_id": 21},
+      {"song_id": 254, "artist_id": 21},
+      {"song_id": 255, "artist_id": 21},
+      {"song_id": 256, "artist_id": 21},
+      {"song_id": 257, "artist_id": 21},
+      {"song_id": 258, "artist_id": 21}
+    ]
+}

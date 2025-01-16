@@ -1,0 +1,226 @@
+{
+    "Artist": [
+      {
+        "artist_id": 22,
+        "stage_name": "Bob Marley & The Wailers"
+      }
+    ],
+    "Album": [
+      {
+        "album_id": 106,
+        "name": "Exodus",
+        "release_date": "1977-06-03"
+      },
+      {
+        "album_id": 107,
+        "name": "Legend",
+        "release_date": "1984-05-08"
+      },
+      {
+        "album_id": 108,
+        "name": "Catch a Fire",
+        "release_date": "1973-04-13"
+      },
+      {
+        "album_id": 109,
+        "name": "Natty Dread",
+        "release_date": "1974-10-25"
+      },
+      {
+        "album_id": 110,
+        "name": "Uprising",
+        "release_date": "1980-06-10"
+      }
+    ],
+    "Song": [
+      {
+        "song_id": 259,
+        "title": "One Love",
+        "release_date": "1977-06-03",
+        "length": "2:52"
+      },
+      {
+        "song_id": 260,
+        "title": "Is This Love",
+        "release_date": "1978-03-03",
+        "length": "3:52"
+      },
+      {
+        "song_id": 261,
+        "title": "No Woman, No Cry",
+        "release_date": "1974-10-25",
+        "length": "7:09"
+      },
+      {
+        "song_id": 262,
+        "title": "Could You Be Loved",
+        "release_date": "1980-06-10",
+        "length": "3:57"
+      },
+      {
+        "song_id": 263,
+        "title": "Three Little Birds",
+        "release_date": "1977-06-03",
+        "length": "3:00"
+      },
+      {
+        "song_id": 264,
+        "title": "Buffalo Soldier",
+        "release_date": "1983-05-23",
+        "length": "4:17"
+      },
+      {
+        "song_id": 265,
+        "title": "Redemption Song",
+        "release_date": "1980-06-10",
+        "length": "3:48"
+      },
+      {
+        "song_id": 266,
+        "title": "Jamming",
+        "release_date": "1977-06-03",
+        "length": "3:31"
+      },
+      {
+        "song_id": 267,
+        "title": "Stir It Up",
+        "release_date": "1973-04-13",
+        "length": "5:32"
+      },
+      {
+        "song_id": 268,
+        "title": "Exodus",
+        "release_date": "1977-06-03",
+        "length": "7:40"
+      },
+      {
+        "song_id": 269,
+        "title": "I Shot the Sheriff",
+        "release_date": "1973-04-13",
+        "length": "4:41"
+      },
+      {
+        "song_id": 270,
+        "title": "Sun Is Shining",
+        "release_date": "1971-10-23",
+        "length": "4:58"
+      },
+      {
+        "song_id": 271,
+        "title": "Waiting in Vain",
+        "release_date": "1977-06-03",
+        "length": "4:16"
+      },
+      {
+        "song_id": 272,
+        "title": "Get Up, Stand Up",
+        "release_date": "1973-04-13",
+        "length": "3:15"
+      },
+      {
+        "song_id": 273,
+        "title": "Natural Mystic",
+        "release_date": "1977-06-03",
+        "length": "3:28"
+      }
+    ],
+    "Album_Artist": [
+      {"album_id": 106, "artist_id": 22},
+      {"album_id": 107, "artist_id": 22},
+      {"album_id": 108, "artist_id": 22},
+      {"album_id": 109, "artist_id": 22},
+      {"album_id": 110, "artist_id": 22}
+    ],
+    "Song_Album": [
+      {"song_id": 259, "album_id": 106, "track_number": 8},
+      {"song_id": 260, "album_id": 107, "track_number": 2},
+      {"song_id": 261, "album_id": 109, "track_number": 4},
+      {"song_id": 262, "album_id": 110, "track_number": 2},
+      {"song_id": 263, "album_id": 106, "track_number": 7},
+      {"song_id": 264, "album_id": 107, "track_number": 7},
+      {"song_id": 265, "album_id": 110, "track_number": 10},
+      {"song_id": 266, "album_id": 106, "track_number": 3},
+      {"song_id": 267, "album_id": 108, "track_number": 5},
+      {"song_id": 268, "album_id": 106, "track_number": 1},
+      {"song_id": 269, "album_id": 108, "track_number": 4},
+      {"song_id": 270, "album_id": 109, "track_number": 6},
+      {"song_id": 271, "album_id": 106, "track_number": 4},
+      {"song_id": 272, "album_id": 108, "track_number": 7},
+      {"song_id": 273, "album_id": 106, "track_number": 1}
+    ],
+    "Album_Genre": [
+      {"album_id": 106, "genre_id": 10},
+      {"album_id": 106, "genre_id": 45},
+      {"album_id": 106, "genre_id": 14},
+      {"album_id": 107, "genre_id": 10},
+      {"album_id": 107, "genre_id": 45},
+      {"album_id": 107, "genre_id": 1},
+      {"album_id": 108, "genre_id": 10},
+      {"album_id": 108, "genre_id": 45},
+      {"album_id": 108, "genre_id": 4},
+      {"album_id": 109, "genre_id": 10},
+      {"album_id": 109, "genre_id": 45},
+      {"album_id": 109, "genre_id": 14},
+      {"album_id": 110, "genre_id": 10},
+      {"album_id": 110, "genre_id": 45},
+      {"album_id": 110, "genre_id": 1}
+    ],
+    "Song_Genre": [
+      {"song_id": 259, "genre_id": 10},
+      {"song_id": 259, "genre_id": 45},
+      {"song_id": 259, "genre_id": 1},
+      {"song_id": 260, "genre_id": 10},
+      {"song_id": 260, "genre_id": 14},
+      {"song_id": 260, "genre_id": 1},
+      {"song_id": 261, "genre_id": 10},
+      {"song_id": 261, "genre_id": 14},
+      {"song_id": 261, "genre_id": 45},
+      {"song_id": 262, "genre_id": 10},
+      {"song_id": 262, "genre_id": 1},
+      {"song_id": 262, "genre_id": 20},
+      {"song_id": 263, "genre_id": 10},
+      {"song_id": 263, "genre_id": 45},
+      {"song_id": 264, "genre_id": 10},
+      {"song_id": 264, "genre_id": 45},
+      {"song_id": 264, "genre_id": 1},
+      {"song_id": 265, "genre_id": 10},
+      {"song_id": 265, "genre_id": 11},
+      {"song_id": 265, "genre_id": 45},
+      {"song_id": 266, "genre_id": 10},
+      {"song_id": 266, "genre_id": 45},
+      {"song_id": 267, "genre_id": 10},
+      {"song_id": 267, "genre_id": 14},
+      {"song_id": 268, "genre_id": 10},
+      {"song_id": 268, "genre_id": 45},
+      {"song_id": 268, "genre_id": 4},
+      {"song_id": 269, "genre_id": 10},
+      {"song_id": 269, "genre_id": 4},
+      {"song_id": 269, "genre_id": 45},
+      {"song_id": 270, "genre_id": 10},
+      {"song_id": 270, "genre_id": 14},
+      {"song_id": 271, "genre_id": 10},
+      {"song_id": 271, "genre_id": 14},
+      {"song_id": 271, "genre_id": 4},
+      {"song_id": 272, "genre_id": 10},
+      {"song_id": 272, "genre_id": 45},
+      {"song_id": 273, "genre_id": 10},
+      {"song_id": 273, "genre_id": 45}
+    ],
+    "Song_Artist": [
+      {"song_id": 259, "artist_id": 22},
+      {"song_id": 260, "artist_id": 22},
+      {"song_id": 261, "artist_id": 22},
+      {"song_id": 262, "artist_id": 22},
+      {"song_id": 263, "artist_id": 22},
+      {"song_id": 264, "artist_id": 22},
+      {"song_id": 265, "artist_id": 22},
+      {"song_id": 266, "artist_id": 22},
+      {"song_id": 267, "artist_id": 22},
+      {"song_id": 268, "artist_id": 22},
+      {"song_id": 269, "artist_id": 22},
+      {"song_id": 270, "artist_id": 22},
+      {"song_id": 271, "artist_id": 22},
+      {"song_id": 272, "artist_id": 22},
+      {"song_id": 273, "artist_id": 22}
+    ]
+}

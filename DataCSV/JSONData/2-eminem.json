@@ -1,0 +1,166 @@
+{
+    "Artist": [
+      {
+        "artist_id": 2,
+        "stage_name": "Eminem"
+      }
+    ],
+    "Album": [
+      {
+        "album_id": 6,
+        "name": "The Slim Shady LP",
+        "release_date": "1999-02-23"
+      },
+      {
+        "album_id": 7,
+        "name": "The Marshall Mathers LP",
+        "release_date": "2000-05-23"
+      },
+      {
+        "album_id": 8,
+        "name": "The Eminem Show",
+        "release_date": "2002-05-26"
+      },
+      {
+        "album_id": 9,
+        "name": "Encore",
+        "release_date": "2004-11-12"
+      },
+      {
+        "album_id": 10,
+        "name": "Relapse",
+        "release_date": "2009-05-15"
+      },
+      {
+        "album_id": 11,
+        "name": "Recovery",
+        "release_date": "2010-06-18"
+      },
+      {
+        "album_id": 12,
+        "name": "The Marshall Mathers LP 2",
+        "release_date": "2013-11-05"
+      },
+      {
+        "album_id": 13,
+        "name": "Revival",
+        "release_date": "2017-12-15"
+      }
+    ],
+    "Song": [
+      {
+        "song_id": 9,
+        "title": "My Name Is",
+        "release_date": "1999-01-25",
+        "length": "4:28"
+      },
+      {
+        "song_id": 10,
+        "title": "The Real Slim Shady",
+        "release_date": "2000-04-18",
+        "length": "4:44"
+      },
+      {
+        "song_id": 11,
+        "title": "Stan",
+        "release_date": "2000-12-08",
+        "length": "6:44"
+      },
+      {
+        "song_id": 12,
+        "title": "Without Me",
+        "release_date": "2002-05-14",
+        "length": "4:50"
+      },
+      {
+        "song_id": 13,
+        "title": "Lose Yourself",
+        "release_date": "2002-10-28",
+        "length": "5:26"
+      },
+      {
+        "song_id": 14,
+        "title": "Just Lose It",
+        "release_date": "2004-09-28",
+        "length": "4:08"
+      },
+      {
+        "song_id": 15,
+        "title": "Not Afraid",
+        "release_date": "2010-04-29",
+        "length": "4:08"
+      },
+      {
+        "song_id": 16,
+        "title": "Love The Way You Lie (feat. Rihanna)",
+        "release_date": "2010-08-09",
+        "length": "4:23"
+      }
+    ],
+    "Album_Artist": [
+      {"album_id": 6, "artist_id": 2},
+      {"album_id": 7, "artist_id": 2},
+      {"album_id": 8, "artist_id": 2},
+      {"album_id": 9, "artist_id": 2},
+      {"album_id": 10, "artist_id": 2},
+      {"album_id": 11, "artist_id": 2},
+      {"album_id": 12, "artist_id": 2},
+      {"album_id": 13, "artist_id": 2}
+    ],
+    "Song_Album": [
+      {"song_id": 9, "album_id": 6, "track_number": 2},
+      {"song_id": 10, "album_id": 7, "track_number": 4},
+      {"song_id": 11, "album_id": 7, "track_number": 3},
+      {"song_id": 12, "album_id": 8, "track_number": 2},
+      {"song_id": 13, "album_id": 8, "track_number": 20},
+      {"song_id": 14, "album_id": 9, "track_number": 3},
+      {"song_id": 15, "album_id": 11, "track_number": 1},
+      {"song_id": 16, "album_id": 11, "track_number": 15}
+    ],
+    "Album_Genre": [
+      {"album_id": 6, "genre_id": 3}, 
+      {"album_id": 6, "genre_id": 24},
+      {"album_id": 7, "genre_id": 3},
+      {"album_id": 7, "genre_id": 24},
+      {"album_id": 8, "genre_id": 3},
+      {"album_id": 8, "genre_id": 1},
+      {"album_id": 9, "genre_id": 3},
+      {"album_id": 9, "genre_id": 1},
+      {"album_id": 10, "genre_id": 3},
+      {"album_id": 10, "genre_id": 24},
+      {"album_id": 11, "genre_id": 3},
+      {"album_id": 11, "genre_id": 1},
+      {"album_id": 12, "genre_id": 3},
+      {"album_id": 12, "genre_id": 1},
+      {"album_id": 13, "genre_id": 3},
+      {"album_id": 13, "genre_id": 1}
+    ],
+    "Song_Genre": [
+      {"song_id": 9, "genre_id": 3},
+      {"song_id": 9, "genre_id": 24},
+      {"song_id": 10, "genre_id": 3},
+      {"song_id": 10, "genre_id": 24},
+      {"song_id": 11, "genre_id": 3},
+      {"song_id": 11, "genre_id": 1},
+      {"song_id": 12, "genre_id": 3},
+      {"song_id": 12, "genre_id": 1},
+      {"song_id": 13, "genre_id": 3},
+      {"song_id": 13, "genre_id": 2},
+      {"song_id": 14, "genre_id": 3},
+      {"song_id": 14, "genre_id": 1},
+      {"song_id": 15, "genre_id": 3},
+      {"song_id": 15, "genre_id": 1},
+      {"song_id": 16, "genre_id": 3},
+      {"song_id": 16, "genre_id": 1}
+    ],
+    "Song_Artist":[
+        {"song_id": 9, "artist_id": 2},
+        {"song_id": 10, "artist_id": 2},
+        {"song_id": 11, "artist_id": 2},
+        {"song_id": 12, "artist_id": 2},
+        {"song_id": 13, "artist_id": 2},
+        {"song_id": 14, "artist_id": 2},
+        {"song_id": 15, "artist_id": 2},
+        {"song_id": 16, "artist_id": 2}
+    ]
+}

@@ -1,0 +1,182 @@
+{
+    "Artist": [
+      {
+        "artist_id": 12,
+        "stage_name": "Taylor Swift"
+      }
+    ],
+    "Album": [
+      {
+        "album_id": 54,
+        "name": "Fearless",
+        "release_date": "2008-11-11"
+      },
+      {
+        "album_id": 55,
+        "name": "1989",
+        "release_date": "2014-10-27"
+      },
+      {
+        "album_id": 56,
+        "name": "Reputation",
+        "release_date": "2017-11-10"
+      },
+      {
+        "album_id": 57,
+        "name": "Folklore",
+        "release_date": "2020-07-24"
+      },
+      {
+        "album_id": 58,
+        "name": "Midnights",
+        "release_date": "2022-10-21"
+      }
+    ],
+    "Song": [
+      {
+        "song_id": 121,
+        "title": "Love Story",
+        "release_date": "2008-09-12",
+        "length": "3:55"
+      },
+      {
+        "song_id": 122,
+        "title": "You Belong with Me",
+        "release_date": "2008-11-04",
+        "length": "3:51"
+      },
+      {
+        "song_id": 123,
+        "title": "Shake It Off",
+        "release_date": "2014-08-18",
+        "length": "3:39"
+      },
+      {
+        "song_id": 124,
+        "title": "Blank Space",
+        "release_date": "2014-11-10",
+        "length": "3:51"
+      },
+      {
+        "song_id": 125,
+        "title": "Look What You Made Me Do",
+        "release_date": "2017-08-24",
+        "length": "3:31"
+      },
+      {
+        "song_id": 126,
+        "title": "Delicate",
+        "release_date": "2018-03-12",
+        "length": "3:52"
+      },
+      {
+        "song_id": 127,
+        "title": "Cardigan",
+        "release_date": "2020-07-27",
+        "length": "3:59"
+      },
+      {
+        "song_id": 128,
+        "title": "Willow",
+        "release_date": "2020-12-11",
+        "length": "3:34"
+      },
+      {
+        "song_id": 129,
+        "title": "All Too Well (10 Minute Version)",
+        "release_date": "2021-11-12",
+        "length": "10:13"
+      },
+      {
+        "song_id": 130,
+        "title": "Anti-Hero",
+        "release_date": "2022-10-21",
+        "length": "3:20"
+      },
+      {
+        "song_id": 131,
+        "title": "Lavender Haze",
+        "release_date": "2022-10-21",
+        "length": "3:22"
+      },
+      {
+        "song_id": 132,
+        "title": "Cruel Summer",
+        "release_date": "2019-08-23",
+        "length": "2:58"
+      }
+    ],
+    "Album_Artist": [
+      {"album_id": 54, "artist_id": 12},
+      {"album_id": 55, "artist_id": 12},
+      {"album_id": 56, "artist_id": 12},
+      {"album_id": 57, "artist_id": 12},
+      {"album_id": 58, "artist_id": 12}
+    ],
+    "Song_Album": [
+      {"song_id": 121, "album_id": 54, "track_number": 3},
+      {"song_id": 122, "album_id": 54, "track_number": 6},
+      {"song_id": 123, "album_id": 55, "track_number": 1},
+      {"song_id": 124, "album_id": 55, "track_number": 2},
+      {"song_id": 125, "album_id": 56, "track_number": 1},
+      {"song_id": 126, "album_id": 56, "track_number": 5},
+      {"song_id": 127, "album_id": 57, "track_number": 1},
+      {"song_id": 128, "album_id": 57, "track_number": 1},
+      {"song_id": 129, "album_id": 55, "track_number": 30},
+      {"song_id": 130, "album_id": 58, "track_number": 3},
+      {"song_id": 131, "album_id": 58, "track_number": 1},
+      {"song_id": 132, "album_id": 55, "track_number": 2}
+    ],
+    "Album_Genre": [
+      {"album_id": 54, "genre_id": 5},
+      {"album_id": 54, "genre_id": 1},
+      {"album_id": 55, "genre_id": 1},
+      {"album_id": 55, "genre_id": 31},
+      {"album_id": 56, "genre_id": 1},
+      {"album_id": 56, "genre_id": 6},
+      {"album_id": 57, "genre_id": 17},
+      {"album_id": 57, "genre_id": 16},
+      {"album_id": 58, "genre_id": 1},
+      {"album_id": 58, "genre_id": 16}
+    ],
+    "Song_Genre": [
+      {"song_id": 121, "genre_id": 5},
+      {"song_id": 121, "genre_id": 1},
+      {"song_id": 122, "genre_id": 5},
+      {"song_id": 122, "genre_id": 1},
+      {"song_id": 123, "genre_id": 1},
+      {"song_id": 123, "genre_id": 31},
+      {"song_id": 124, "genre_id": 1},
+      {"song_id": 124, "genre_id": 31},
+      {"song_id": 125, "genre_id": 1},
+      {"song_id": 125, "genre_id": 6},
+      {"song_id": 126, "genre_id": 1},
+      {"song_id": 126, "genre_id": 6},
+      {"song_id": 127, "genre_id": 17},
+      {"song_id": 127, "genre_id": 16},
+      {"song_id": 128, "genre_id": 17},
+      {"song_id": 128, "genre_id": 16},
+      {"song_id": 129, "genre_id": 1},
+      {"song_id": 129, "genre_id": 5},
+      {"song_id": 130, "genre_id": 1},
+      {"song_id": 130, "genre_id": 16},
+      {"song_id": 131, "genre_id": 1},
+      {"song_id": 131, "genre_id": 16},
+      {"song_id": 132, "genre_id": 1},
+      {"song_id": 132, "genre_id": 31}
+    ],
+    "Song_Artist": [
+      {"song_id": 121, "artist_id": 12},
+      {"song_id": 122, "artist_id": 12},
+      {"song_id": 123, "artist_id": 12},
+      {"song_id": 124, "artist_id": 12},
+      {"song_id": 125, "artist_id": 12},
+      {"song_id": 126, "artist_id": 12},
+      {"song_id": 127, "artist_id": 12},
+      {"song_id": 128, "artist_id": 12},
+      {"song_id": 129, "artist_id": 12},
+      {"song_id": 130, "artist_id": 12},
+      {"song_id": 131, "artist_id": 12},
+      {"song_id": 132, "artist_id": 12}
+    ]
+}

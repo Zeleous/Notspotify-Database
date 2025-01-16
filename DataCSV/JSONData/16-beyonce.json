@@ -1,0 +1,228 @@
+{
+    "Artist": [
+      {
+        "artist_id": 16,
+        "stage_name": "Beyoncé"
+      }
+    ],
+    "Album": [
+      {
+        "album_id": 74,
+        "name": "Dangerously in Love",
+        "release_date": "2003-06-24"
+      },
+      {
+        "album_id": 75,
+        "name": "B'Day",
+        "release_date": "2006-09-04"
+      },
+      {
+        "album_id": 76,
+        "name": "I Am... Sasha Fierce",
+        "release_date": "2008-11-18"
+      },
+      {
+        "album_id": 77,
+        "name": "Lemonade",
+        "release_date": "2016-04-23"
+      },
+      {
+        "album_id": 78,
+        "name": "Renaissance",
+        "release_date": "2022-07-29"
+      }
+    ],
+    "Song": [
+      {
+        "song_id": 169,
+        "title": "Crazy in Love",
+        "release_date": "2003-05-18",
+        "length": "3:56"
+      },
+      {
+        "song_id": 170,
+        "title": "Baby Boy",
+        "release_date": "2003-08-03",
+        "length": "4:04"
+      },
+      {
+        "song_id": 171,
+        "title": "Me, Myself and I",
+        "release_date": "2003-10-19",
+        "length": "3:59"
+      },
+      {
+        "song_id": 172,
+        "title": "Déjà Vu",
+        "release_date": "2006-06-24",
+        "length": "3:59"
+      },
+      {
+        "song_id": 173,
+        "title": "Ring the Alarm",
+        "release_date": "2006-08-15",
+        "length": "3:23"
+      },
+      {
+        "song_id": 174,
+        "title": "Irreplaceable",
+        "release_date": "2006-10-23",
+        "length": "3:47"
+      },
+      {
+        "song_id": 175,
+        "title": "If I Were a Boy",
+        "release_date": "2008-10-08",
+        "length": "4:10"
+      },
+      {
+        "song_id": 176,
+        "title": "Single Ladies (Put a Ring on It)",
+        "release_date": "2008-10-13",
+        "length": "3:13"
+      },
+      {
+        "song_id": 177,
+        "title": "Halo",
+        "release_date": "2009-01-20",
+        "length": "4:21"
+      },
+      {
+        "song_id": 178,
+        "title": "Formation",
+        "release_date": "2016-02-06",
+        "length": "3:26"
+      },
+      {
+        "song_id": 179,
+        "title": "Sorry",
+        "release_date": "2016-04-23",
+        "length": "3:52"
+      },
+      {
+        "song_id": 180,
+        "title": "Hold Up",
+        "release_date": "2016-04-23",
+        "length": "3:41"
+      },
+      {
+        "song_id": 181,
+        "title": "Break My Soul",
+        "release_date": "2022-06-20",
+        "length": "4:38"
+      },
+      {
+        "song_id": 182,
+        "title": "Cuff It",
+        "release_date": "2022-07-29",
+        "length": "3:45"
+      },
+      {
+        "song_id": 183,
+        "title": "Alien Superstar",
+        "release_date": "2022-07-29",
+        "length": "3:35"
+      }
+    ],
+    "Album_Artist": [
+      {"album_id": 74, "artist_id": 16},
+      {"album_id": 75, "artist_id": 16},
+      {"album_id": 76, "artist_id": 16},
+      {"album_id": 77, "artist_id": 16},
+      {"album_id": 78, "artist_id": 16}
+    ],
+    "Song_Album": [
+      {"song_id": 169, "album_id": 74, "track_number": 1},
+      {"song_id": 170, "album_id": 74, "track_number": 3},
+      {"song_id": 171, "album_id": 74, "track_number": 8},
+      {"song_id": 172, "album_id": 75, "track_number": 1},
+      {"song_id": 173, "album_id": 75, "track_number": 3},
+      {"song_id": 174, "album_id": 75, "track_number": 4},
+      {"song_id": 175, "album_id": 76, "track_number": 1},
+      {"song_id": 176, "album_id": 76, "track_number": 2},
+      {"song_id": 177, "album_id": 76, "track_number": 5},
+      {"song_id": 178, "album_id": 77, "track_number": 12},
+      {"song_id": 179, "album_id": 77, "track_number": 4},
+      {"song_id": 180, "album_id": 77, "track_number": 2},
+      {"song_id": 181, "album_id": 78, "track_number": 1},
+      {"song_id": 182, "album_id": 78, "track_number": 3},
+      {"song_id": 183, "album_id": 78, "track_number": 2}
+    ],
+    "Album_Genre": [
+      {"album_id": 74, "genre_id": 1},
+      {"album_id": 74, "genre_id": 4},
+      {"album_id": 74, "genre_id": 14},
+      {"album_id": 75, "genre_id": 1},
+      {"album_id": 75, "genre_id": 4},
+      {"album_id": 75, "genre_id": 14},
+      {"album_id": 76, "genre_id": 1},
+      {"album_id": 76, "genre_id": 4},
+      {"album_id": 76, "genre_id": 14},
+      {"album_id": 77, "genre_id": 1},
+      {"album_id": 77, "genre_id": 4},
+      {"album_id": 77, "genre_id": 14},
+      {"album_id": 77, "genre_id": 16},
+      {"album_id": 78, "genre_id": 1},
+      {"album_id": 78, "genre_id": 19},
+      {"album_id": 78, "genre_id": 20},
+      {"album_id": 78, "genre_id": 4}
+    ],
+    "Song_Genre": [
+      {"song_id": 169, "genre_id": 1},
+      {"song_id": 169, "genre_id": 4},
+      {"song_id": 169, "genre_id": 14},
+      {"song_id": 170, "genre_id": 4},
+      {"song_id": 170, "genre_id": 19},
+      {"song_id": 171, "genre_id": 4},
+      {"song_id": 171, "genre_id": 14},
+      {"song_id": 172, "genre_id": 1},
+      {"song_id": 172, "genre_id": 4},
+      {"song_id": 172, "genre_id": 14},
+      {"song_id": 173, "genre_id": 1},
+      {"song_id": 173, "genre_id": 4},
+      {"song_id": 174, "genre_id": 1},
+      {"song_id": 174, "genre_id": 4},
+      {"song_id": 174, "genre_id": 14},
+      {"song_id": 175, "genre_id": 1},
+      {"song_id": 175, "genre_id": 4},
+      {"song_id": 176, "genre_id": 1},
+      {"song_id": 176, "genre_id": 4},
+      {"song_id": 176, "genre_id": 14},
+      {"song_id": 177, "genre_id": 1},
+      {"song_id": 177, "genre_id": 4},
+      {"song_id": 178, "genre_id": 1},
+      {"song_id": 178, "genre_id": 4},
+      {"song_id": 178, "genre_id": 38},
+      {"song_id": 179, "genre_id": 1},
+      {"song_id": 179, "genre_id": 4},
+      {"song_id": 179, "genre_id": 16},
+      {"song_id": 180, "genre_id": 1},
+      {"song_id": 180, "genre_id": 16},
+      {"song_id": 181, "genre_id": 1},
+      {"song_id": 181, "genre_id": 19},
+      {"song_id": 181, "genre_id": 20},
+      {"song_id": 182, "genre_id": 1},
+      {"song_id": 182, "genre_id": 20},
+      {"song_id": 182, "genre_id": 14},
+      {"song_id": 183, "genre_id": 1},
+      {"song_id": 183, "genre_id": 19},
+      {"song_id": 183, "genre_id": 20}
+    ],
+    "Song_Artist": [
+      {"song_id": 169, "artist_id": 16},
+      {"song_id": 170, "artist_id": 16},
+      {"song_id": 171, "artist_id": 16},
+      {"song_id": 172, "artist_id": 16},
+      {"song_id": 173, "artist_id": 16},
+      {"song_id": 174, "artist_id": 16},
+      {"song_id": 175, "artist_id": 16},
+      {"song_id": 176, "artist_id": 16},
+      {"song_id": 177, "artist_id": 16},
+      {"song_id": 178, "artist_id": 16},
+      {"song_id": 179, "artist_id": 16},
+      {"song_id": 180, "artist_id": 16},
+      {"song_id": 181, "artist_id": 16},
+      {"song_id": 182, "artist_id": 16},
+      {"song_id": 183, "artist_id": 16}
+    ]
+}

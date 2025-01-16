@@ -1,0 +1,174 @@
+{
+    "Artist": [
+      {
+        "artist_id": 6,
+        "stage_name": "Queen"
+      }
+    ],
+    "Album": [
+      {
+        "album_id": 30,
+        "name": "A Night at the Opera",
+        "release_date": "1975-11-21"
+      },
+      {
+        "album_id": 31,
+        "name": "News of the World",
+        "release_date": "1977-10-28"
+      },
+      {
+        "album_id": 32,
+        "name": "The Game",
+        "release_date": "1980-06-30"
+      },
+      {
+        "album_id": 33,
+        "name": "Innuendo",
+        "release_date": "1991-02-04"
+      }
+    ],
+    "Song": [
+      {
+        "song_id": 49,
+        "title": "Bohemian Rhapsody",
+        "release_date": "1975-10-31",
+        "length": "5:55"
+      },
+      {
+        "song_id": 50,
+        "title": "You're My Best Friend",
+        "release_date": "1975-11-21",
+        "length": "2:50"
+      },
+      {
+        "song_id": 51,
+        "title": "Love of My Life",
+        "release_date": "1975-11-21",
+        "length": "3:38"
+      },
+      {
+        "song_id": 52,
+        "title": "We Will Rock You",
+        "release_date": "1977-10-07",
+        "length": "2:02"
+      },
+      {
+        "song_id": 53,
+        "title": "We Are the Champions",
+        "release_date": "1977-10-07",
+        "length": "3:00"
+      },
+      {
+        "song_id": 54,
+        "title": "Spread Your Wings",
+        "release_date": "1977-10-28",
+        "length": "4:34"
+      },
+      {
+        "song_id": 55,
+        "title": "Another One Bites the Dust",
+        "release_date": "1980-08-22",
+        "length": "3:36"
+      },
+      {
+        "song_id": 56,
+        "title": "Crazy Little Thing Called Love",
+        "release_date": "1979-10-05",
+        "length": "2:43"
+      },
+      {
+        "song_id": 57,
+        "title": "Save Me",
+        "release_date": "1980-01-25",
+        "length": "3:48"
+      },
+      {
+        "song_id": 58,
+        "title": "Innuendo",
+        "release_date": "1991-01-14",
+        "length": "6:29"
+      },
+      {
+        "song_id": 59,
+        "title": "The Show Must Go On",
+        "release_date": "1991-10-14",
+        "length": "4:31"
+      },
+      {
+        "song_id": 60,
+        "title": "These Are the Days of Our Lives",
+        "release_date": "1991-12-09",
+        "length": "4:13"
+      }
+    ],
+    "Album_Artist": [
+      {"album_id": 30, "artist_id": 6},
+      {"album_id": 31, "artist_id": 6},
+      {"album_id": 32, "artist_id": 6},
+      {"album_id": 33, "artist_id": 6}
+    ],
+    "Song_Album": [
+      {"song_id": 49, "album_id": 30, "track_number": 11},
+      {"song_id": 50, "album_id": 30, "track_number": 2},
+      {"song_id": 51, "album_id": 30, "track_number": 9},
+      {"song_id": 52, "album_id": 31, "track_number": 1},
+      {"song_id": 53, "album_id": 31, "track_number": 2},
+      {"song_id": 54, "album_id": 31, "track_number": 5},
+      {"song_id": 55, "album_id": 32, "track_number": 3},
+      {"song_id": 56, "album_id": 32, "track_number": 6},
+      {"song_id": 57, "album_id": 32, "track_number": 10},
+      {"song_id": 58, "album_id": 33, "track_number": 1},
+      {"song_id": 59, "album_id": 33, "track_number": 12},
+      {"song_id": 60, "album_id": 33, "track_number": 2}
+    ],
+    "Album_Genre": [
+      {"album_id": 30, "genre_id": 2},
+      {"album_id": 30, "genre_id": 1},
+      {"album_id": 31, "genre_id": 2},
+      {"album_id": 31, "genre_id": 1},
+      {"album_id": 32, "genre_id": 2},
+      {"album_id": 32, "genre_id": 1},
+      {"album_id": 33, "genre_id": 2},
+      {"album_id": 33, "genre_id": 1}
+    ],
+    "Song_Genre": [
+      {"song_id": 49, "genre_id": 2},
+      {"song_id": 49, "genre_id": 1},
+      {"song_id": 50, "genre_id": 2},
+      {"song_id": 50, "genre_id": 1},
+      {"song_id": 51, "genre_id": 2},
+      {"song_id": 51, "genre_id": 1},
+      {"song_id": 52, "genre_id": 2},
+      {"song_id": 52, "genre_id": 1},
+      {"song_id": 53, "genre_id": 2},
+      {"song_id": 53, "genre_id": 1},
+      {"song_id": 54, "genre_id": 2},
+      {"song_id": 54, "genre_id": 1},
+      {"song_id": 55, "genre_id": 2},
+      {"song_id": 55, "genre_id": 15},
+      {"song_id": 56, "genre_id": 2},
+      {"song_id": 56, "genre_id": 49},
+      {"song_id": 57, "genre_id": 2},
+      {"song_id": 57, "genre_id": 1},
+      {"song_id": 58, "genre_id": 2},
+      {"song_id": 58, "genre_id": 1},
+      {"song_id": 59, "genre_id": 2},
+      {"song_id": 59, "genre_id": 1},
+      {"song_id": 60, "genre_id": 2},
+      {"song_id": 60, "genre_id": 1}
+    ],
+    "Song_Artist": [
+      {"song_id": 49, "artist_id": 6},
+      {"song_id": 50, "artist_id": 6},
+      {"song_id": 51, "artist_id": 6},
+      {"song_id": 52, "artist_id": 6},
+      {"song_id": 53, "artist_id": 6},
+      {"song_id": 54, "artist_id": 6},
+      {"song_id": 55, "artist_id": 6},
+      {"song_id": 56, "artist_id": 6},
+      {"song_id": 57, "artist_id": 6},
+      {"song_id": 58, "artist_id": 6},
+      {"song_id": 59, "artist_id": 6},
+      {"song_id": 60, "artist_id": 6}
+    ]
+}

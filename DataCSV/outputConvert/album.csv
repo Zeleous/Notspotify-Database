@@ -1,0 +1,142 @@
+album_id,name,release_date
+1,+ (Plus),2011-09-09
+2,x (Multiply),2014-06-20
+3,÷ (Divide),2017-03-03
+4,No.6 Collaborations Project,2019-07-12
+5,= (Equals),2021-10-29
+6,The Slim Shady LP,1999-02-23
+7,The Marshall Mathers LP,2000-05-23
+8,The Eminem Show,2002-05-26
+9,Encore,2004-11-12
+10,Relapse,2009-05-15
+11,Recovery,2010-06-18
+12,The Marshall Mathers LP 2,2013-11-05
+13,Revival,2017-12-15
+14,The Lion King,1994-05-31
+15,Gladiator,2000-04-25
+16,Pirates of the Caribbean: The Curse of the Black Pearl,2003-07-22
+17,The Dark Knight,2008-07-15
+18,Inception,2010-07-13
+19,Interstellar,2014-11-17
+20,Dunkirk,2017-07-21
+21,Dune,2021-09-17
+22,Herding Cats,1999-07-13
+23,Tree,2001-08-21
+24,Bring Yer Wellies,2006-07-25
+25,Cabbage,2010-08-03
+26,Please Please Me,1963-03-22
+27,Revolver,1966-08-05
+28,Sgt. Pepper's Lonely Hearts Club Band,1967-06-01
+29,Abbey Road,1969-09-26
+30,A Night at the Opera,1975-11-21
+31,News of the World,1977-10-28
+32,The Game,1980-06-30
+33,Innuendo,1991-02-04
+34,Homework,1997-01-20
+35,Discovery,2001-03-12
+36,Human After All,2005-03-14
+37,Random Access Memories,2013-05-17
+38,Origin of Symmetry,2001-07-17
+39,Absolution,2003-09-15
+40,Black Holes and Revelations,2006-07-03
+41,The Resistance,2009-09-11
+42,At Folsom Prison,1968-05-01
+43,American Recordings,1994-04-26
+44,Unchained,1996-11-05
+45,American IV: The Man Comes Around,2002-11-05
+46,God's Property,1997-06-17
+47,The Nu Nation Project,1998-10-13
+48,Hero,2005-10-04
+49,Long Live Love,2019-05-31
+50,Romanza,1997-11-18
+51,Sacred Arias,1999-11-02
+52,Sì,2018-10-26
+53,Believe,2020-11-13
+54,Fearless,2008-11-11
+55,1989,2014-10-27
+56,Reputation,2017-11-10
+57,Folklore,2020-07-24
+58,Midnights,2022-10-21
+59,Goodbye Yellow Brick Road,1973-10-05
+60,Captain Fantastic and the Brown Dirt Cowboy,1975-05-19
+61,Too Low for Zero,1983-05-30
+62,The One,1992-06-22
+63,The Lockdown Sessions,2021-10-22
+64,Off the Wall,1979-08-10
+65,Thriller,1982-11-30
+66,Bad,1987-08-31
+67,Dangerous,1991-11-26
+68,"HIStory: Past, Present and Future, Book I",1995-06-20
+69,Mariah Carey,1990-06-12
+70,Music Box,1993-08-31
+71,Daydream,1995-10-03
+72,Butterfly,1997-09-16
+73,The Emancipation of Mimi,2005-04-12
+74,Dangerously in Love,2003-06-24
+75,B'Day,2006-09-04
+76,I Am... Sasha Fierce,2008-11-18
+77,Lemonade,2016-04-23
+78,Renaissance,2022-07-29
+81,19,2008-01-28
+82,21,2011-01-24
+83,25,2015-11-20
+84,30,2021-11-19
+85,Live at the Royal Albert Hall,2011-11-29
+86,Like a Virgin,1984-11-12
+87,True Blue,1986-06-30
+88,Like a Prayer,1989-03-21
+89,Ray of Light,1998-02-22
+90,Confessions on a Dance Floor,2005-11-11
+91,Purple Rain,1984-06-25
+92,Sign o' the Times,1987-03-30
+93,1999,1982-10-27
+94,Diamonds and Pearls,1991-10-01
+95,Batman,1989-06-20
+96,Led Zeppelin IV,1971-11-08
+97,Physical Graffiti,1975-02-24
+98,Houses of the Holy,1973-03-28
+99,Led Zeppelin II,1969-10-22
+100,Led Zeppelin,1969-01-12
+101,The Dark Side of the Moon,1973-03-01
+102,The Wall,1979-11-30
+103,Wish You Were Here,1975-09-12
+104,Animals,1977-01-23
+105,Meddle,1971-10-31
+106,Exodus,1977-06-03
+107,Legend,1984-05-08
+108,Catch a Fire,1973-04-13
+109,Natty Dread,1974-10-25
+110,Uprising,1980-06-10
+111,The Rise and Fall of Ziggy Stardust and the Spiders from Mars,1972-06-16
+112,Heroes,1977-10-14
+113,Station to Station,1976-01-23
+114,Songs in the Key of Life,1976-09-28
+115,Innervisions,1973-08-03
+116,Talking Book,1972-10-28
+117,In the Wee Small Hours,1955-04-25
+118,Songs for Swingin' Lovers!,1956-03-05
+119,Frank Sinatra Sings for Only the Lonely,1958-09-08
+120,I Put a Spell on You,1965-06-01
+121,Wild Is the Wind,1966-01-01
+122,Nina Simone in Concert,1964-06-01
+123,Kind of Blue,1959-08-17
+124,Bitches Brew,1970-03-30
+125,Sketches of Spain,1960-07-18
+126,I Never Loved a Man the Way I Love You,1967-03-10
+127,Lady Soul,1968-01-22
+128,Amazing Grace,1972-06-01
+129,Are You Experienced,1967-05-12
+130,Electric Ladyland,1968-10-16
+131,Axis: Bold as Love,1967-12-01
+132,Modern Sounds in Country and Western Music,1962-04-01
+133,Ray Charles at Newport,1958-10-01
+134,The Genius of Ray Charles,1959-10-01
+135,Ella and Louis,1956-10-01
+136,Ella Fitzgerald Sings the Cole Porter Songbook,1956-02-07
+137,Ella at the Opera House,1958-01-01
+138,Louis Armstrong Plays W.C. Handy,1954-09-15
+139,Satch Plays Fats,1955-04-26
+140,Ambassador Satch,1955-12-01
+141,After School Session,1957-05-21
+142,One Dozen Berrys,1958-03-01
+143,Chuck Berry Is on Top,1959-07-01

@@ -1,0 +1,174 @@
+{
+    "Artist": [
+      {
+        "artist_id": 10,
+        "stage_name": "Kirk Franklin"
+      }
+    ],
+    "Album": [
+      {
+        "album_id": 46,
+        "name": "God's Property",
+        "release_date": "1997-06-17"
+      },
+      {
+        "album_id": 47,
+        "name": "The Nu Nation Project",
+        "release_date": "1998-10-13"
+      },
+      {
+        "album_id": 48,
+        "name": "Hero",
+        "release_date": "2005-10-04"
+      },
+      {
+        "album_id": 49,
+        "name": "Long Live Love",
+        "release_date": "2019-05-31"
+      }
+    ],
+    "Song": [
+      {
+        "song_id": 97,
+        "title": "Stomp",
+        "release_date": "1997-06-17",
+        "length": "5:42"
+      },
+      {
+        "song_id": 98,
+        "title": "Why We Sing",
+        "release_date": "1997-06-17",
+        "length": "5:22"
+      },
+      {
+        "song_id": 99,
+        "title": "Melodies from Heaven",
+        "release_date": "1997-06-17",
+        "length": "4:08"
+      },
+      {
+        "song_id": 100,
+        "title": "Revolution",
+        "release_date": "1998-10-13",
+        "length": "4:23"
+      },
+      {
+        "song_id": 101,
+        "title": "Lean on Me",
+        "release_date": "1998-10-13",
+        "length": "5:40"
+      },
+      {
+        "song_id": 102,
+        "title": "Imagine Me",
+        "release_date": "2005-10-04",
+        "length": "5:11"
+      },
+      {
+        "song_id": 103,
+        "title": "Looking for You",
+        "release_date": "2005-10-04",
+        "length": "4:59"
+      },
+      {
+        "song_id": 104,
+        "title": "Hero",
+        "release_date": "2005-10-04",
+        "length": "4:34"
+      },
+      {
+        "song_id": 105,
+        "title": "Love Theory",
+        "release_date": "2019-01-25",
+        "length": "4:17"
+      },
+      {
+        "song_id": 106,
+        "title": "Just for Me",
+        "release_date": "2019-05-31",
+        "length": "4:14"
+      },
+      {
+        "song_id": 107,
+        "title": "Strong God",
+        "release_date": "2019-05-31",
+        "length": "4:14"
+      },
+      {
+        "song_id": 108,
+        "title": "I Smile",
+        "release_date": "2011-05-31",
+        "length": "5:00"
+      }
+    ],
+    "Album_Artist": [
+      {"album_id": 46, "artist_id": 10},
+      {"album_id": 47, "artist_id": 10},
+      {"album_id": 48, "artist_id": 10},
+      {"album_id": 49, "artist_id": 10}
+    ],
+    "Song_Album": [
+      {"song_id": 97, "album_id": 46, "track_number": 6},
+      {"song_id": 98, "album_id": 46, "track_number": 7},
+      {"song_id": 99, "album_id": 46, "track_number": 4},
+      {"song_id": 100, "album_id": 47, "track_number": 2},
+      {"song_id": 101, "album_id": 47, "track_number": 7},
+      {"song_id": 102, "album_id": 48, "track_number": 8},
+      {"song_id": 103, "album_id": 48, "track_number": 3},
+      {"song_id": 104, "album_id": 48, "track_number": 1},
+      {"song_id": 105, "album_id": 49, "track_number": 1},
+      {"song_id": 106, "album_id": 49, "track_number": 5},
+      {"song_id": 107, "album_id": 49, "track_number": 2},
+      {"song_id": 108, "album_id": 49, "track_number": 2}
+    ],
+    "Album_Genre": [
+      {"album_id": 46, "genre_id": 21},
+      {"album_id": 46, "genre_id": 3},
+      {"album_id": 47, "genre_id": 21},
+      {"album_id": 47, "genre_id": 4},
+      {"album_id": 48, "genre_id": 21},
+      {"album_id": 48, "genre_id": 1},
+      {"album_id": 49, "genre_id": 21},
+      {"album_id": 49, "genre_id": 3}
+    ],
+    "Song_Genre": [
+      {"song_id": 97, "genre_id": 21},
+      {"song_id": 97, "genre_id": 3},
+      {"song_id": 98, "genre_id": 21},
+      {"song_id": 98, "genre_id": 4},
+      {"song_id": 99, "genre_id": 21},
+      {"song_id": 99, "genre_id": 1},
+      {"song_id": 100, "genre_id": 21},
+      {"song_id": 100, "genre_id": 3},
+      {"song_id": 101, "genre_id": 21},
+      {"song_id": 101, "genre_id": 4},
+      {"song_id": 102, "genre_id": 21},
+      {"song_id": 102, "genre_id": 1},
+      {"song_id": 103, "genre_id": 21},
+      {"song_id": 103, "genre_id": 4},
+      {"song_id": 104, "genre_id": 21},
+      {"song_id": 104, "genre_id": 1},
+      {"song_id": 105, "genre_id": 21},
+      {"song_id": 105, "genre_id": 3},
+      {"song_id": 106, "genre_id": 21},
+      {"song_id": 106, "genre_id": 1},
+      {"song_id": 107, "genre_id": 21},
+      {"song_id": 107, "genre_id": 3},
+      {"song_id": 108, "genre_id": 21},
+      {"song_id": 108, "genre_id": 1}
+    ],
+    "Song_Artist": [
+      {"song_id": 97, "artist_id": 10},
+      {"song_id": 98, "artist_id": 10},
+      {"song_id": 99, "artist_id": 10},
+      {"song_id": 100, "artist_id": 10},
+      {"song_id": 101, "artist_id": 10},
+      {"song_id": 102, "artist_id": 10},
+      {"song_id": 103, "artist_id": 10},
+      {"song_id": 104, "artist_id": 10},
+      {"song_id": 105, "artist_id": 10},
+      {"song_id": 106, "artist_id": 10},
+      {"song_id": 107, "artist_id": 10},
+      {"song_id": 108, "artist_id": 10}
+    ]
+}

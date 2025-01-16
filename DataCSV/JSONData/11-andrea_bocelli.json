@@ -1,0 +1,174 @@
+{
+    "Artist": [
+      {
+        "artist_id": 11,
+        "stage_name": "Andrea Bocelli"
+      }
+    ],
+    "Album": [
+      {
+        "album_id": 50,
+        "name": "Romanza",
+        "release_date": "1997-11-18"
+      },
+      {
+        "album_id": 51,
+        "name": "Sacred Arias",
+        "release_date": "1999-11-02"
+      },
+      {
+        "album_id": 52,
+        "name": "Sì",
+        "release_date": "2018-10-26"
+      },
+      {
+        "album_id": 53,
+        "name": "Believe",
+        "release_date": "2020-11-13"
+      }
+    ],
+    "Song": [
+      {
+        "song_id": 109,
+        "title": "Time to Say Goodbye (Con te partirò)",
+        "release_date": "1997-11-18",
+        "length": "4:04"
+      },
+      {
+        "song_id": 110,
+        "title": "Vivere",
+        "release_date": "1997-11-18",
+        "length": "4:25"
+      },
+      {
+        "song_id": 111,
+        "title": "Por Ti Volaré",
+        "release_date": "1997-11-18",
+        "length": "4:49"
+      },
+      {
+        "song_id": 112,
+        "title": "The Lord's Prayer",
+        "release_date": "1999-11-02",
+        "length": "4:31"
+      },
+      {
+        "song_id": 113,
+        "title": "Ave Maria",
+        "release_date": "1999-11-02",
+        "length": "4:52"
+      },
+      {
+        "song_id": 114,
+        "title": "Panis Angelicus",
+        "release_date": "1999-11-02",
+        "length": "4:07"
+      },
+      {
+        "song_id": 115,
+        "title": "Fall On Me",
+        "release_date": "2018-10-26",
+        "length": "3:42"
+      },
+      {
+        "song_id": 116,
+        "title": "If Only",
+        "release_date": "2018-10-26",
+        "length": "3:50"
+      },
+      {
+        "song_id": 117,
+        "title": "Amo Soltanto Te",
+        "release_date": "2018-10-26",
+        "length": "3:34"
+      },
+      {
+        "song_id": 118,
+        "title": "You'll Never Walk Alone",
+        "release_date": "2020-11-13",
+        "length": "3:57"
+      },
+      {
+        "song_id": 119,
+        "title": "Hallelujah",
+        "release_date": "2020-11-13",
+        "length": "4:30"
+      },
+      {
+        "song_id": 120,
+        "title": "Amazing Grace",
+        "release_date": "2020-11-13",
+        "length": "4:35"
+      }
+    ],
+    "Album_Artist": [
+      {"album_id": 50, "artist_id": 11},
+      {"album_id": 51, "artist_id": 11},
+      {"album_id": 52, "artist_id": 11},
+      {"album_id": 53, "artist_id": 11}
+    ],
+    "Song_Album": [
+      {"song_id": 109, "album_id": 50, "track_number": 13},
+      {"song_id": 110, "album_id": 50, "track_number": 2},
+      {"song_id": 111, "album_id": 50, "track_number": 14},
+      {"song_id": 112, "album_id": 51, "track_number": 1},
+      {"song_id": 113, "album_id": 51, "track_number": 2},
+      {"song_id": 114, "album_id": 51, "track_number": 6},
+      {"song_id": 115, "album_id": 52, "track_number": 14},
+      {"song_id": 116, "album_id": 52, "track_number": 1},
+      {"song_id": 117, "album_id": 52, "track_number": 3},
+      {"song_id": 118, "album_id": 53, "track_number": 7},
+      {"song_id": 119, "album_id": 53, "track_number": 2},
+      {"song_id": 120, "album_id": 53, "track_number": 1}
+    ],
+    "Album_Genre": [
+      {"album_id": 50, "genre_id": 8},
+      {"album_id": 50, "genre_id": 1},
+      {"album_id": 51, "genre_id": 8},
+      {"album_id": 51, "genre_id": 29},
+      {"album_id": 52, "genre_id": 8},
+      {"album_id": 52, "genre_id": 1},
+      {"album_id": 53, "genre_id": 8},
+      {"album_id": 53, "genre_id": 1}
+    ],
+    "Song_Genre": [
+      {"song_id": 109, "genre_id": 8},
+      {"song_id": 109, "genre_id": 1},
+      {"song_id": 110, "genre_id": 8},
+      {"song_id": 110, "genre_id": 1},
+      {"song_id": 111, "genre_id": 8},
+      {"song_id": 111, "genre_id": 1},
+      {"song_id": 112, "genre_id": 8},
+      {"song_id": 112, "genre_id": 29},
+      {"song_id": 113, "genre_id": 8},
+      {"song_id": 113, "genre_id": 29},
+      {"song_id": 114, "genre_id": 8},
+      {"song_id": 114, "genre_id": 29},
+      {"song_id": 115, "genre_id": 8},
+      {"song_id": 115, "genre_id": 1},
+      {"song_id": 116, "genre_id": 8},
+      {"song_id": 116, "genre_id": 1},
+      {"song_id": 117, "genre_id": 8},
+      {"song_id": 117, "genre_id": 1},
+      {"song_id": 118, "genre_id": 8},
+      {"song_id": 118, "genre_id": 1},
+      {"song_id": 119, "genre_id": 8},
+      {"song_id": 119, "genre_id": 1},
+      {"song_id": 120, "genre_id": 8},
+      {"song_id": 120, "genre_id": 1}
+    ],
+    "Song_Artist": [
+      {"song_id": 109, "artist_id": 11},
+      {"song_id": 110, "artist_id": 11},
+      {"song_id": 111, "artist_id": 11},
+      {"song_id": 112, "artist_id": 11},
+      {"song_id": 113, "artist_id": 11},
+      {"song_id": 114, "artist_id": 11},
+      {"song_id": 115, "artist_id": 11},
+      {"song_id": 116, "artist_id": 11},
+      {"song_id": 117, "artist_id": 11},
+      {"song_id": 118, "artist_id": 11},
+      {"song_id": 119, "artist_id": 11},
+      {"song_id": 120, "artist_id": 11}
+    ]
+}

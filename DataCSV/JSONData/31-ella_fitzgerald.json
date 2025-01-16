@@ -1,0 +1,194 @@
+{
+    "Artist": [
+      {
+        "artist_id": 31,
+        "stage_name": "Ella Fitzgerald"
+      }
+    ],
+    "Album": [
+      {
+        "album_id": 135,
+        "name": "Ella and Louis",
+        "release_date": "1956-10-01"
+      },
+      {
+        "album_id": 136,
+        "name": "Ella Fitzgerald Sings the Cole Porter Songbook",
+        "release_date": "1956-02-07"
+      },
+      {
+        "album_id": 137,
+        "name": "Ella at the Opera House",
+        "release_date": "1958-01-01"
+      }
+    ],
+    "Song": [
+      {
+        "song_id": 394,
+        "title": "Dream a Little Dream of Me",
+        "release_date": "1950-02-01",
+        "length": "3:01"
+      },
+      {
+        "song_id": 395,
+        "title": "Summertime",
+        "release_date": "1956-10-01",
+        "length": "4:58"
+      },
+      {
+        "song_id": 396,
+        "title": "It Don't Mean a Thing (If It Ain't Got That Swing)",
+        "release_date": "1957-06-15",
+        "length": "3:37"
+      },
+      {
+        "song_id": 397,
+        "title": "Mack the Knife",
+        "release_date": "1960-02-15",
+        "length": "4:47"
+      },
+      {
+        "song_id": 398,
+        "title": "Night and Day",
+        "release_date": "1956-02-07",
+        "length": "3:04"
+      },
+      {
+        "song_id": 399,
+        "title": "How High the Moon",
+        "release_date": "1960-06-21",
+        "length": "7:29"
+      },
+      {
+        "song_id": 400,
+        "title": "Cheek to Cheek",
+        "release_date": "1956-10-01",
+        "length": "5:53"
+      },
+      {
+        "song_id": 401,
+        "title": "I've Got You Under My Skin",
+        "release_date": "1956-02-07",
+        "length": "3:42"
+      },
+      {
+        "song_id": 402,
+        "title": "They Can't Take That Away from Me",
+        "release_date": "1956-10-01",
+        "length": "4:39"
+      },
+      {
+        "song_id": 403,
+        "title": "Miss Otis Regrets",
+        "release_date": "1956-02-07",
+        "length": "3:00"
+      },
+      {
+        "song_id": 404,
+        "title": "Air Mail Special",
+        "release_date": "1958-01-01",
+        "length": "3:26"
+      },
+      {
+        "song_id": 405,
+        "title": "Love Is Here to Stay",
+        "release_date": "1956-10-01",
+        "length": "4:00"
+      },
+      {
+        "song_id": 406,
+        "title": "Begin the Beguine",
+        "release_date": "1956-02-07",
+        "length": "3:37"
+      },
+      {
+        "song_id": 407,
+        "title": "Flying Home",
+        "release_date": "1958-01-01",
+        "length": "3:24"
+      },
+      {
+        "song_id": 408,
+        "title": "A-Tisket, A-Tasket",
+        "release_date": "1938-05-02",
+        "length": "2:38"
+      }
+    ],
+    "Album_Artist": [
+      {"album_id": 135, "artist_id": 31},
+      {"album_id": 136, "artist_id": 31},
+      {"album_id": 137, "artist_id": 31}
+    ],
+    "Song_Album": [
+      {"song_id": 395, "album_id": 135, "track_number": 3},
+      {"song_id": 400, "album_id": 135, "track_number": 1},
+      {"song_id": 402, "album_id": 135, "track_number": 5},
+      {"song_id": 405, "album_id": 135, "track_number": 8},
+      {"song_id": 398, "album_id": 136, "track_number": 2},
+      {"song_id": 401, "album_id": 136, "track_number": 5},
+      {"song_id": 403, "album_id": 136, "track_number": 8},
+      {"song_id": 406, "album_id": 136, "track_number": 11},
+      {"song_id": 404, "album_id": 137, "track_number": 3},
+      {"song_id": 407, "album_id": 137, "track_number": 7}
+    ],
+    "Album_Genre": [
+      {"album_id": 135, "genre_id": 7},
+      {"album_id": 135, "genre_id": 41},
+      {"album_id": 135, "genre_id": 50},
+      {"album_id": 136, "genre_id": 7},
+      {"album_id": 136, "genre_id": 41},
+      {"album_id": 136, "genre_id": 50},
+      {"album_id": 137, "genre_id": 7},
+      {"album_id": 137, "genre_id": 41},
+      {"album_id": 137, "genre_id": 15}
+    ],
+    "Song_Genre": [
+      {"song_id": 394, "genre_id": 7},
+      {"song_id": 394, "genre_id": 41},
+      {"song_id": 395, "genre_id": 7},
+      {"song_id": 395, "genre_id": 41},
+      {"song_id": 396, "genre_id": 7},
+      {"song_id": 396, "genre_id": 41},
+      {"song_id": 397, "genre_id": 7},
+      {"song_id": 397, "genre_id": 41},
+      {"song_id": 398, "genre_id": 7},
+      {"song_id": 398, "genre_id": 50},
+      {"song_id": 399, "genre_id": 7},
+      {"song_id": 399, "genre_id": 41},
+      {"song_id": 400, "genre_id": 7},
+      {"song_id": 400, "genre_id": 50},
+      {"song_id": 401, "genre_id": 7},
+      {"song_id": 401, "genre_id": 50},
+      {"song_id": 402, "genre_id": 7},
+      {"song_id": 402, "genre_id": 41},
+      {"song_id": 403, "genre_id": 7},
+      {"song_id": 403, "genre_id": 50},
+      {"song_id": 404, "genre_id": 7},
+      {"song_id": 404, "genre_id": 41},
+      {"song_id": 405, "genre_id": 7},
+      {"song_id": 405, "genre_id": 50},
+      {"song_id": 406, "genre_id": 7},
+      {"song_id": 406, "genre_id": 50},
+      {"song_id": 407, "genre_id": 7},
+      {"song_id": 407, "genre_id": 41},
+      {"song_id": 408, "genre_id": 7},
+      {"song_id": 408, "genre_id": 41}
+    ],
+    "Song_Artist": [
+      {"song_id": 394, "artist_id": 31},
+      {"song_id": 395, "artist_id": 31},
+      {"song_id": 396, "artist_id": 31},
+      {"song_id": 397, "artist_id": 31},
+      {"song_id": 398, "artist_id": 31},
+      {"song_id": 399, "artist_id": 31},
+      {"song_id": 400, "artist_id": 31},
+      {"song_id": 401, "artist_id": 31},
+      {"song_id": 402, "artist_id": 31},
+      {"song_id": 403, "artist_id": 31},
+      {"song_id": 404, "artist_id": 31},
+      {"song_id": 405, "artist_id": 31},
+      {"song_id": 406, "artist_id": 31},
+      {"song_id": 407, "artist_id": 31},
+      {"song_id": 408, "artist_id": 31}
+    ]
+}

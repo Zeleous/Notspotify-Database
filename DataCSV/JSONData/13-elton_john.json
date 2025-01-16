@@ -1,0 +1,182 @@
+{
+    "Artist": [
+      {
+        "artist_id": 13,
+        "stage_name": "Elton John"
+      }
+    ],
+    "Album": [
+      {
+        "album_id": 59,
+        "name": "Goodbye Yellow Brick Road",
+        "release_date": "1973-10-05"
+      },
+      {
+        "album_id": 60,
+        "name": "Captain Fantastic and the Brown Dirt Cowboy",
+        "release_date": "1975-05-19"
+      },
+      {
+        "album_id": 61,
+        "name": "Too Low for Zero",
+        "release_date": "1983-05-30"
+      },
+      {
+        "album_id": 62,
+        "name": "The One",
+        "release_date": "1992-06-22"
+      },
+      {
+        "album_id": 63,
+        "name": "The Lockdown Sessions",
+        "release_date": "2021-10-22"
+      }
+    ],
+    "Song": [
+      {
+        "song_id": 133,
+        "title": "Goodbye Yellow Brick Road",
+        "release_date": "1973-10-05",
+        "length": "3:13"
+      },
+      {
+        "song_id": 134,
+        "title": "Bennie and the Jets",
+        "release_date": "1973-10-05",
+        "length": "5:23"
+      },
+      {
+        "song_id": 135,
+        "title": "Candle in the Wind",
+        "release_date": "1973-10-05",
+        "length": "3:50"
+      },
+      {
+        "song_id": 136,
+        "title": "Someone Saved My Life Tonight",
+        "release_date": "1975-06-23",
+        "length": "6:45"
+      },
+      {
+        "song_id": 137,
+        "title": "Philadelphia Freedom",
+        "release_date": "1975-02-24",
+        "length": "5:38"
+      },
+      {
+        "song_id": 138,
+        "title": "I'm Still Standing",
+        "release_date": "1983-07-03",
+        "length": "3:02"
+      },
+      {
+        "song_id": 139,
+        "title": "I Guess That's Why They Call It the Blues",
+        "release_date": "1983-04-28",
+        "length": "4:41"
+      },
+      {
+        "song_id": 140,
+        "title": "The One",
+        "release_date": "1992-05-22",
+        "length": "5:53"
+      },
+      {
+        "song_id": 141,
+        "title": "Don't Go Breaking My Heart (with Kiki Dee)",
+        "release_date": "1976-06-21",
+        "length": "4:36"
+      },
+      {
+        "song_id": 142,
+        "title": "Rocket Man",
+        "release_date": "1972-04-14",
+        "length": "4:40"
+      },
+      {
+        "song_id": 143,
+        "title": "Tiny Dancer",
+        "release_date": "1971-11-17",
+        "length": "6:17"
+      },
+      {
+        "song_id": 144,
+        "title": "Cold Heart (PNAU Remix) (with Dua Lipa)",
+        "release_date": "2021-08-13",
+        "length": "3:22"
+      }
+    ],
+    "Album_Artist": [
+      {"album_id": 59, "artist_id": 13},
+      {"album_id": 60, "artist_id": 13},
+      {"album_id": 61, "artist_id": 13},
+      {"album_id": 62, "artist_id": 13},
+      {"album_id": 63, "artist_id": 13}
+    ],
+    "Song_Album": [
+      {"song_id": 133, "album_id": 59, "track_number": 1},
+      {"song_id": 134, "album_id": 59, "track_number": 2},
+      {"song_id": 135, "album_id": 59, "track_number": 3},
+      {"song_id": 136, "album_id": 60, "track_number": 5},
+      {"song_id": 137, "album_id": 60, "track_number": 8},
+      {"song_id": 138, "album_id": 61, "track_number": 8},
+      {"song_id": 139, "album_id": 61, "track_number": 2},
+      {"song_id": 140, "album_id": 62, "track_number": 1},
+      {"song_id": 141, "album_id": 59, "track_number": 17},
+      {"song_id": 142, "album_id": 59, "track_number": 13},
+      {"song_id": 143, "album_id": 59, "track_number": 15},
+      {"song_id": 144, "album_id": 63, "track_number": 1}
+    ],
+    "Album_Genre": [
+      {"album_id": 59, "genre_id": 2},
+      {"album_id": 59, "genre_id": 1},
+      {"album_id": 60, "genre_id": 2},
+      {"album_id": 60, "genre_id": 1},
+      {"album_id": 61, "genre_id": 2},
+      {"album_id": 61, "genre_id": 1},
+      {"album_id": 62, "genre_id": 2},
+      {"album_id": 62, "genre_id": 1},
+      {"album_id": 63, "genre_id": 1},
+      {"album_id": 63, "genre_id": 6}
+    ],
+    "Song_Genre": [
+      {"song_id": 133, "genre_id": 2},
+      {"song_id": 133, "genre_id": 1},
+      {"song_id": 134, "genre_id": 2},
+      {"song_id": 134, "genre_id": 1},
+      {"song_id": 135, "genre_id": 2},
+      {"song_id": 135, "genre_id": 1},
+      {"song_id": 136, "genre_id": 2},
+      {"song_id": 136, "genre_id": 1},
+      {"song_id": 137, "genre_id": 2},
+      {"song_id": 137, "genre_id": 1},
+      {"song_id": 138, "genre_id": 2},
+      {"song_id": 138, "genre_id": 1},
+      {"song_id": 139, "genre_id": 2},
+      {"song_id": 139, "genre_id": 1},
+      {"song_id": 140, "genre_id": 2},
+      {"song_id": 140, "genre_id": 1},
+      {"song_id": 141, "genre_id": 2},
+      {"song_id": 141, "genre_id": 1},
+      {"song_id": 142, "genre_id": 2},
+      {"song_id": 142, "genre_id": 1},
+      {"song_id": 143, "genre_id": 2},
+      {"song_id": 143, "genre_id": 1},
+      {"song_id": 144, "genre_id": 1},
+      {"song_id": 144, "genre_id": 6}
+    ],
+    "Song_Artist": [
+      {"song_id": 133, "artist_id": 13},
+      {"song_id": 134, "artist_id": 13},
+      {"song_id": 135, "artist_id": 13},
+      {"song_id": 136, "artist_id": 13},
+      {"song_id": 137, "artist_id": 13},
+      {"song_id": 138, "artist_id": 13},
+      {"song_id": 139, "artist_id": 13},
+      {"song_id": 140, "artist_id": 13},
+      {"song_id": 141, "artist_id": 13},
+      {"song_id": 142, "artist_id": 13},
+      {"song_id": 143, "artist_id": 13},
+      {"song_id": 144, "artist_id": 13}
+    ]
+}

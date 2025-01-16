@@ -1,0 +1,199 @@
+{
+    "Artist": [
+      {
+        "artist_id": 29,
+        "stage_name": "Jimi Hendrix"
+      }
+    ],
+    "Album": [
+      {
+        "album_id": 129,
+        "name": "Are You Experienced",
+        "release_date": "1967-05-12"
+      },
+      {
+        "album_id": 130,
+        "name": "Electric Ladyland",
+        "release_date": "1968-10-16"
+      },
+      {
+        "album_id": 131,
+        "name": "Axis: Bold as Love",
+        "release_date": "1967-12-01"
+      }
+    ],
+    "Song": [
+      {
+        "song_id": 364,
+        "title": "Purple Haze",
+        "release_date": "1967-03-17",
+        "length": "2:50"
+      },
+      {
+        "song_id": 365,
+        "title": "All Along the Watchtower",
+        "release_date": "1968-09-21",
+        "length": "4:01"
+      },
+      {
+        "song_id": 366,
+        "title": "Hey Joe",
+        "release_date": "1966-12-16",
+        "length": "3:30"
+      },
+      {
+        "song_id": 367,
+        "title": "Foxy Lady",
+        "release_date": "1967-05-12",
+        "length": "3:19"
+      },
+      {
+        "song_id": 368,
+        "title": "Little Wing",
+        "release_date": "1967-12-01",
+        "length": "2:24"
+      },
+      {
+        "song_id": 369,
+        "title": "Voodoo Child (Slight Return)",
+        "release_date": "1968-10-16",
+        "length": "5:12"
+      },
+      {
+        "song_id": 370,
+        "title": "The Wind Cries Mary",
+        "release_date": "1967-05-05",
+        "length": "3:20"
+      },
+      {
+        "song_id": 371,
+        "title": "Crosstown Traffic",
+        "release_date": "1968-11-18",
+        "length": "2:37"
+      },
+      {
+        "song_id": 372,
+        "title": "Fire",
+        "release_date": "1967-05-12",
+        "length": "2:43"
+      },
+      {
+        "song_id": 373,
+        "title": "Manic Depression",
+        "release_date": "1967-05-12",
+        "length": "3:42"
+      },
+      {
+        "song_id": 374,
+        "title": "Bold as Love",
+        "release_date": "1967-12-01",
+        "length": "4:11"
+      },
+      {
+        "song_id": 375,
+        "title": "1983... (A Merman I Should Turn to Be)",
+        "release_date": "1968-10-16",
+        "length": "13:39"
+      },
+      {
+        "song_id": 376,
+        "title": "Stone Free",
+        "release_date": "1966-12-16",
+        "length": "3:36"
+      },
+      {
+        "song_id": 377,
+        "title": "If 6 Was 9",
+        "release_date": "1967-12-01",
+        "length": "5:34"
+      },
+      {
+        "song_id": 378,
+        "title": "Third Stone from the Sun",
+        "release_date": "1967-05-12",
+        "length": "6:44"
+      }
+    ],
+    "Album_Artist": [
+      {"album_id": 129, "artist_id": 29},
+      {"album_id": 130, "artist_id": 29},
+      {"album_id": 131, "artist_id": 29}
+    ],
+    "Song_Album": [
+      {"song_id": 364, "album_id": 129, "track_number": 1},
+      {"song_id": 365, "album_id": 130, "track_number": 4},
+      {"song_id": 366, "album_id": 129, "track_number": 7},
+      {"song_id": 367, "album_id": 129, "track_number": 3},
+      {"song_id": 368, "album_id": 131, "track_number": 4},
+      {"song_id": 369, "album_id": 130, "track_number": 15},
+      {"song_id": 370, "album_id": 129, "track_number": 4},
+      {"song_id": 371, "album_id": 130, "track_number": 3},
+      {"song_id": 372, "album_id": 129, "track_number": 3},
+      {"song_id": 373, "album_id": 129, "track_number": 2},
+      {"song_id": 374, "album_id": 131, "track_number": 13},
+      {"song_id": 375, "album_id": 130, "track_number": 13},
+      {"song_id": 376, "album_id": 129, "track_number": 11},
+      {"song_id": 377, "album_id": 131, "track_number": 7},
+      {"song_id": 378, "album_id": 129, "track_number": 8}
+    ],
+    "Album_Genre": [
+      {"album_id": 129, "genre_id": 2},
+      {"album_id": 129, "genre_id": 34},
+      {"album_id": 129, "genre_id": 9},
+      {"album_id": 130, "genre_id": 2},
+      {"album_id": 130, "genre_id": 34},
+      {"album_id": 130, "genre_id": 42},
+      {"album_id": 131, "genre_id": 2},
+      {"album_id": 131, "genre_id": 34},
+      {"album_id": 131, "genre_id": 15}
+    ],
+    "Song_Genre": [
+      {"song_id": 364, "genre_id": 2},
+      {"song_id": 364, "genre_id": 34},
+      {"song_id": 365, "genre_id": 2},
+      {"song_id": 365, "genre_id": 9},
+      {"song_id": 366, "genre_id": 2},
+      {"song_id": 366, "genre_id": 9},
+      {"song_id": 367, "genre_id": 2},
+      {"song_id": 367, "genre_id": 34},
+      {"song_id": 368, "genre_id": 2},
+      {"song_id": 368, "genre_id": 9},
+      {"song_id": 369, "genre_id": 2},
+      {"song_id": 369, "genre_id": 34},
+      {"song_id": 370, "genre_id": 2},
+      {"song_id": 370, "genre_id": 9},
+      {"song_id": 371, "genre_id": 2},
+      {"song_id": 371, "genre_id": 15},
+      {"song_id": 372, "genre_id": 2},
+      {"song_id": 372, "genre_id": 34},
+      {"song_id": 373, "genre_id": 2},
+      {"song_id": 373, "genre_id": 34},
+      {"song_id": 374, "genre_id": 2},
+      {"song_id": 374, "genre_id": 34},
+      {"song_id": 375, "genre_id": 2},
+      {"song_id": 375, "genre_id": 42},
+      {"song_id": 376, "genre_id": 2},
+      {"song_id": 376, "genre_id": 34},
+      {"song_id": 377, "genre_id": 2},
+      {"song_id": 377, "genre_id": 42},
+      {"song_id": 378, "genre_id": 2},
+      {"song_id": 378, "genre_id": 42}
+    ],
+    "Song_Artist": [
+      {"song_id": 364, "artist_id": 29},
+      {"song_id": 365, "artist_id": 29},
+      {"song_id": 366, "artist_id": 29},
+      {"song_id": 367, "artist_id": 29},
+      {"song_id": 368, "artist_id": 29},
+      {"song_id": 369, "artist_id": 29},
+      {"song_id": 370, "artist_id": 29},
+      {"song_id": 371, "artist_id": 29},
+      {"song_id": 372, "artist_id": 29},
+      {"song_id": 373, "artist_id": 29},
+      {"song_id": 374, "artist_id": 29},
+      {"song_id": 375, "artist_id": 29},
+      {"song_id": 376, "artist_id": 29},
+      {"song_id": 377, "artist_id": 29},
+      {"song_id": 378, "artist_id": 29}
+    ]
+}
