@@ -1,0 +1,221 @@
+create table if not exists p320_15.artist
+(
+    stage_name varchar(15) not null,
+    artist_id  integer     not null
+        constraint artist_pk
+            primary key
+);
+
+comment on table p320_15.artist is 'A music artist in our database';
+
+alter table p320_15.artist
+    owner to p320_15;
+
+create table if not exists p320_15.song
+(
+    song_id      integer not null
+        constraint song_pk
+            primary key,
+    title        varchar,
+    release_date date,
+    length       varchar(8)
+);
+
+alter table p320_15.song
+    owner to p320_15;
+
+create table if not exists p320_15.nsuser
+(
+    user_id          integer     not null
+        constraint nsuser_pk
+            primary key,
+    username         varchar(15) not null
+        constraint u_username
+            unique,
+    password         varchar(15) not null,
+    first_name       varchar(15) not null,
+    last_name        varchar(15) not null,
+    email            varchar(25) not null,
+    last_access_date date        not null,
+    creation_date    date        not null,
+    date_of_birth    date        not null
+);
+
+alter table p320_15.nsuser
+    owner to p320_15;
+
+create table if not exists p320_15.playlist
+(
+    playlist_id   integer not null
+        constraint playlist_pk
+            primary key,
+    playlist_name varchar,
+    user_id       integer
+        constraint playlist_nsuser_fk
+            references p320_15.nsuser
+);
+
+alter table p320_15.playlist
+    owner to p320_15;
+
+create table if not exists p320_15.album
+(
+    album_id     integer not null
+        constraint album_pk
+            primary key,
+    name         varchar(60),
+    release_date date
+);
+
+alter table p320_15.album
+    owner to p320_15;
+
+create table if not exists p320_15.user_following
+(
+    follower    integer not null
+        constraint user_follower___fk
+            references p320_15.nsuser,
+    following   integer not null
+        constraint user_following_user_following__fk
+            references p320_15.nsuser,
+    follow_date date,
+    constraint user_following_pk
+        primary key (follower, following)
+);
+
+alter table p320_15.user_following
+    owner to p320_15;
+
+create table if not exists p320_15.genre
+(
+    genre_id integer not null
+        constraint genre_pk
+            primary key,
+    name     varchar
+);
+
+alter table p320_15.genre
+    owner to p320_15;
+
+create table if not exists p320_15.playlist_song
+(
+    playlist_id integer not null
+        constraint playlist_song_playlist_fk
+            references p320_15.playlist,
+    song_id     integer not null
+        constraint playlist_song_song_fk
+            references p320_15.song,
+    tack_number integer not null,
+    constraint playlist_song_pk
+        primary key (playlist_id, song_id, tack_number)
+);
+
+alter table p320_15.playlist_song
+    owner to p320_15;
+
+create table if not exists p320_15.rating
+(
+    user_id     integer not null
+        constraint rating_nsuser_fk
+            references p320_15.nsuser,
+    song_id     integer not null
+        constraint rating_song_fk
+            references p320_15.song,
+    star_rating integer
+        constraint "check rating"
+            check ((star_rating >= 1) AND (star_rating <= 5)),
+    constraint rating_pk
+        primary key (user_id, song_id)
+);
+
+alter table p320_15.rating
+    owner to p320_15;
+
+create table if not exists p320_15.song_album
+(
+    album_id    integer not null
+        constraint song_album_album_fk
+            references p320_15.album,
+    song_id     integer not null
+        constraint song_album_song_fk
+            references p320_15.song,
+    tack_number integer not null,
+    constraint song_album_pk
+        primary key (album_id, song_id)
+);
+
+alter table p320_15.song_album
+    owner to p320_15;
+
+create table if not exists p320_15.album_artist
+(
+    album_id  integer not null
+        constraint album_artist_album_id_fk
+            references p320_15.album,
+    artist_id integer not null
+        constraint album_artist_artist_fk
+            references p320_15.artist,
+    constraint album_artist_pk
+        primary key (album_id, artist_id)
+);
+
+alter table p320_15.album_artist
+    owner to p320_15;
+
+create table if not exists p320_15.album_genre
+(
+    genre_id integer not null
+        constraint album_genre_genre_fk
+            references p320_15.genre,
+    album_id integer not null
+        constraint album_genre_album_fk
+            references p320_15.album,
+    constraint album_genre_pk
+        primary key (genre_id, album_id)
+);
+
+alter table p320_15.album_genre
+    owner to p320_15;
+
+create table if not exists p320_15.song_genre
+(
+    genre_id integer not null
+        constraint song_genre_genre_fk
+            references p320_15.genre,
+    song_id  integer not null
+        constraint song_genre_song_fk
+            references p320_15.song,
+    constraint song_genre_pk
+        primary key (genre_id, song_id)
+);
+
+alter table p320_15.song_genre
+    owner to p320_15;
+
+create table if not exists p320_15.history
+(
+    user_id     integer   not null
+        constraint history_nsuser_user_id_fk
+            references p320_15.nsuser,
+    song_id     integer   not null
+        constraint history_song_song_id_fk
+            references p320_15.song,
+    listen_date timestamp not null,
+    constraint history_pk
+        primary key (song_id, user_id, listen_date)
+);
+
+alter table p320_15.history
+    owner to p320_15;
+
+create table if not exists p320_15.song_artist
+(
+    song_id   integer not null,
+    artist_id integer not null,
+    constraint song_artist_pk
+        primary key (song_id, artist_id)
+);
+
+alter table p320_15.song_artist
+    owner to p320_15;
+
